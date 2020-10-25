@@ -1,0 +1,62 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+MAN164-205,setram1,164,Gare Routière - Lycée St-Joseph,,3,,0DAE8E,FFFFFF
+MAN163-205,setram1,163,Gare Routière - Ste-Catherine,,3,,B17F4A,FFFFFF
+MAN162-205,setram1,162,Éperon - Ste-Catherine,,3,,2B4C9B,FFFFFF
+MAN161-205,setram1,161,Foresterie - École Louise Labé,,3,,E30613,FFFFFF
+MAN160-205,setram1,160,Foresterie - Collège Épine,,3,,F39200,000000
+MAN156-205,setram1,156,Ancien Étang - Col.Ambroise Paré,,3,,83162A,FFFFFF
+MAN155-205,setram1,155,Mairie Chaufour-Notre-Dame - Col.Ambroise Paré,,3,,E83E2E,FFFFFF
+MAN154-205,setram1,154,Route de Fay - Collège Vieux Colombier,,3,,E51A33,FFFFFF
+MAN153-205,setram1,153,Les Gravillons - Col.Vieux Colombier,,3,,4DB05B,FFFFFF
+MAN152-205,setram1,152,Église Fay - Lycée Malraux,,3,,C54190,FFFFFF
+MAN151-205,setram1,151,C.C St Georges-du-Bois - Lycée St-Joseph,,3,,F9AF0E,000000
+MAN150-205,setram1,150,C.C. St-Georges-du-Bois - Collège Kennedy,,3,,35417C,FFFFFF
+MAN141-205,setram1,141,Tourellerie - Lycée Malraux,,3,,E71D73,FFFFFF
+MAN140-205,setram1,140,Berardières - École Lyautey,,3,,FCBC00,000000
+MAN131-205,setram1,131,Bellevue Hauts de Coulaines - Campus Ribay,,3,,ef762a,FFFFFF
+MAN130-205,setram1,130,Sargé-lès-Le-Mans - Collège La Psalette,,3,,96B0DC,000000
+MAN122-205,setram1,122,George Sand - Parence - George Sand,,3,,BA1818,FFFFFF
+MAN121-205,setram1,121,Champagné - Lycée Montesquieu,,3,,1C8385,FFFFFF
+MAN120-205,setram1,120,Champagné - Lycée Washington,,3,,A3195B,FFFFFF
+MAN113-205,setram1,113,Les Landes - Collège Les Sources,,3,,E40428,FFFFFF
+MAN112-205,setram1,112,Mulsanne - Lycée Claude Chappe,,3,,00A690,FFFFFF
+MAN111-205,setram1,111,Mulsanne - Lycée Bellevue,,3,,F39200,000000
+MAN110-205,setram1,110,Mulsanne - Lycée Funay,,3,,36A9E1,000000
+MAN103-205,setram1,103,Aigné - Lycée Sud,,3,,F9AF24,000000
+MAN102-205,setram1,102,Aigné - Collège La Madeleine,,3,,706F6F,FFFFFF
+MAN101-205,setram1,101,Aigné - Collège Les Mûriers,,3,,F298C0,000000
+MAN100-205,setram1,100,Grand Rolland - Collège Les Mûriers,,3,,009640,FFFFFF
+MAN90-205,setram1,90,Technicampus SNCF - Antarès-MMArena,,3,,3FC0F0,FFFFFF
+MAN35-205,setram1,35,Gare Sud - Sécurité Sociale,,3,,0E8C8D,FFFFFF
+MAN34-205,setram1,34,C.C St-Georges-du-Bois - Gare Sud,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",A52468,FFFFFF
+MAN33-205,setram1,33,La Denisière - Université,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",1FADAA,FFFFFF
+MAN32-205,setram1,32,Gare Sud - Stade Asnillé/Église Fay,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",E71D73,FFFFFF
+MAN31-205,setram1,31,Malpalu - EHPAD,,3,"Ce trajet est uniquement desservi à la demande (sauf Vendredi matin). Réservation 02 43 40 66 35",994263,FFFFFF
+MAN30-205,setram1,30,Gare Sud - Les Croisettes,,3,,F29FC5,000000
+MAN28-205,setram1,28,La Chapelle-St-Aubin - Rouillon,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",614E9B,FFFFFF
+MAN27-205,setram1,27,Ruaudin - Antarès MMArena,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",BE3C2D,FFFFFF
+MAN26-205,setram1,26,St-Georges - Allonnes,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",F6A554,000000
+MAN25-205,setram1,25,République - Champagné,,3,,0F8184,FFFFFF
+MAN24-205,setram1,24,Antarès MMArena - Mulsanne,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",91C043,000000
+MAN23-205,setram1,23,République - Yvré-l'Évêque,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",E21018,FFFFFF
+MAN22-205,setram1,22,Sargé-lès-Le-Mans - Zamenhof,,3,"Ce trajet est uniquement desservi à la demande. Réservation 02 43 40 66 35",86A8D8,000000
+MAN21-205,setram1,21,St-Martin - Hôtel de Ville Arnage,,3,,AAD092,000000
+MAN20-205,setram1,20,Éperon - Aigné,,3,,AC338A,FFFFFF
+MAN17-205,setram1,17,Gallière - Mairie Le Mans,,3,,569E33,FFFFFF
+MAN16-205,setram1,16,Lafayette - Lycée Sud,,3,,27348B,FFFFFF
+MAN15-205,setram1,15,Le Verger - Guetteloup,,3,,009FE3,000000
+MAN14-205,setram1,14,Parc Manceau - St-Martin,,3,,6DC7DD,000000
+MAN13-205,setram1,13,Gare Routière - Hôtel de Ville Arnage,,3,,923189,FFFFFF
+MAN12-205,setram1,12,Domaine de Beauregard - Zamenhof,,3,,C11718,FFFFFF
+MAN11-205,setram1,11,Le Cadran/St-Aubin - Closerie,,3,,FBBA00,000000
+MAN10B-205,setram1,10B,Oasis par Glonnières/Pontlieue/Berry,,3,,EB5E1D,000000
+MAN10A-205,setram1,10A,Oasis par Berry/Pontlieue/Glonnières,,3,,EB5E1D,000000
+MAN7-205,setram1,7,Éperon - Éperon,,3,,F07D1B,000000
+MAN6-205,setram1,6,République - St-Martin,,3,,C3057F,FFFFFF
+MAN5-205,setram1,5,Gazonfier - Oasis,,3,,FCBC06,000000
+MAN4-205,setram1,4,St-Georges - Bellevue - Hauts de Coulaines,,3,,009640,FFFFFF
+MANT3-205,setram1,T3,Allonnes-Bois Joli - Gares,,3,,5FB34C,FFFFFF
+MANBSR2-205,setram1,BSR2,Bus Relais,,3,,007499,FFFFFF
+MANBSR1-205,setram1,BSR1,Bus Relais,,3,,ed7e0b,000000
+MANT2-148,setram1,T2,Espal - Bellevue-Hauts de Coulaines,,0,,0059A6,FFFFFF
+MANT1-148,setram1,T1,Antarès MMArena - Université,,0,,E5251D,FFFFFF

@@ -1,0 +1,1603 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+StopArea:MANPLA_GARER,"Gare Routière",,47.997009,0.190329,,,1,,
+StopArea:MANPLA_PONTD,"Pont des Tabacs",,47.998806,0.187723,,,1,,
+StopArea:MANPLA_COLRY,"Colonel Raynal",,47.999916,0.185533,,,1,,
+StopArea:MANPLA_STJOS,"St-Joseph",,47.984444,0.142011,,,1,,
+StopArea:MANPLA_STECA,"Ste-Catherine",,48.022961,0.177485,,,1,,
+StopArea:MANPLA_EPERO,"Éperon - Cité Plantagenêt",,48.005352,0.19491,,,1,,
+StopArea:MANPLA_CHENE,"Chêne Vert",,48.00816,0.189647,,,1,,
+StopArea:MANPLA_BOUTT,"Bouttié",,48.011562,0.189254,,,1,,
+StopArea:MANPLA_CHASS,"Chasse Royale",,48.014832,0.186064,,,1,,
+StopArea:MANPLA_COLON,"Colonel Quéru",,48.016201,0.184734,,,1,,
+StopArea:MANPLA_COCHE,"Cochereaux",,48.012753,0.187958,,,1,,
+StopArea:MANPLA_FORES,"Foresterie",,48.019909,0.145341,,,1,,
+StopArea:MANPLA_SOUVE,"Souvenance",,48.019272,0.148441,,,1,,
+StopArea:MANPLA_MVIVE,"Martial Vivet",,48.019749,0.153346,,,1,,
+StopArea:MANPLA_EDITH,"Edith Piaf",,48.020756,0.156214,,,1,,
+StopArea:MANPLA_BARBA,"Barbara",,48.020855,0.159147,,,1,,
+StopArea:MANPLA_DESIR,"Desiré Bourneville",,48.020584,0.166815,,,1,,
+StopArea:MANPLA_XAVIE,"Xavier Bichat",,48.022049,0.166124,,,1,,
+StopArea:MANPLA_CLAUD,"Claude Bernard",,48.021709,0.163912,,,1,,
+StopArea:MANPLA_ECOLL,"École Louise Labé",,48.020821,0.18,,,1,,
+StopArea:MANPLA_COLEP,"Collège Épine",,48.016975,0.180439,,,1,,
+StopArea:MANPLA_ANCET,"Ancien Étang",,48.043354,0.116375,,,1,,
+StopArea:MANPLA_DROUE,"La Drouerie",,48.034618,0.113705,,,1,,
+StopArea:MANPLA_MAIRI,"Mairie Trangé",,48.02718,0.113194,,,1,,
+StopArea:MANPLA_BRUTR,"Bruyère Trangé",,48.0247,0.105789,,,1,,
+StopArea:MANPLA_MURIE,"Mûriers",,48.011787,0.185813,,,1,,
+StopArea:MANPLA_COLAP,"Collège Ambroise Paré",,48.004562,0.187327,,,1,,
+StopArea:MANPLA_MAISO,"Maisons Rouges",,48.02235,0.098513,,,1,,
+StopArea:MANPLA_LESGR,"Les Gravillons",,48.024937,0.079615,,,1,,
+StopArea:MANPLA_RTFAY,"Route de Fay",,47.993534,0.106531,,,1,,
+StopArea:MANPLA_CITEP,"Cité",,47.992767,0.109351,,,1,,
+StopArea:MANPLA_LATOU,"La Touche",,47.987469,0.133992,,,1,,
+StopArea:MANPLA_VIEUX,"Vieux Colombier",,47.991074,0.167273,,,1,,
+StopArea:MANPLA_EGFAY,"Église Fay",,48.008652,0.070217,,,1,,
+StopArea:MANPLA_AIGRV,"Aigreville",,48.005798,0.075443,,,1,,
+StopArea:MANPLA_CHANT,"Chantemerle",,47.998528,0.088265,,,1,,
+StopArea:MANPLA_ROUTE,"Route du Mans",,47.974316,0.104142,,,1,,
+StopArea:MANPLA_CISGB,"Cimetière St-Georges-du-Bois",,47.970757,0.097098,,,1,,
+StopArea:MANPLA_CCSGB,"Centre Commercial St-Georges-du-Bois",,47.966919,0.091233,,,1,,
+StopArea:MANPLA_CEN,"C.E. NTN",,47.964367,0.125901,,,1,,
+StopArea:MANPLA_LESTR,"Les Tremelières",,47.962521,0.120098,,,1,,
+StopArea:MANPLA_PETIT,"Petit Chanteloup",,47.958298,0.113297,,,1,,
+StopArea:MANPLA_MONGR,"Mongre",,47.955685,0.115859,,,1,,
+StopArea:MANPLA_LEROS,"Le Rosier",,47.955498,0.120755,,,1,,
+StopArea:MANPLA_LEPAT,"Le Pâtis Vert",,47.955421,0.12428,,,1,,
+StopArea:MANPLA_JUIGN,"Juigné",,47.951683,0.128334,,,1,,
+StopArea:MANPLA_LACHO,"La Chopinière",,47.947788,0.130305,,,1,,
+StopArea:MANPLA_PAVIL,"Pavillon",,47.994457,0.14339,,,1,,
+StopArea:MANPLA_LPOIA,"La Pointe Allonnes",,47.94841,0.134698,,,1,,
+StopArea:MANPLA_LESSO,"Les Souvres",,47.949753,0.138619,,,1,,
+StopArea:MANPLA_LECAR,"Le Carrefour",,47.950027,0.139893,,,1,,
+StopArea:MANPLA_LYCMA,"Lycée Malraux",,47.956497,0.165928,,,1,,
+StopArea:MANPLA_CEC,"C.E.NTN",,47.964397,0.126127,,,1,,
+StopArea:MANPLA_COLMR,"Collège Le Marin",,47.963799,0.159814,,,1,,
+StopArea:MANPLA_COLKE,"Collège Kennedy",,47.965153,0.162116,,,1,,
+StopArea:MANPLA_TOURE,"Tourellerie",,48.01226,0.135369,,,1,,
+StopArea:MANPLA_PRIME,"Primevère",,48.008854,0.13598,,,1,,
+StopArea:MANPLA_CHARM,"Charmes",,48.007236,0.138877,,,1,,
+StopArea:MANPLA_ORMEA,"Ormeau",,48.006168,0.13868,,,1,,
+StopArea:MANPLA_LECHE,"Le Chêne",,47.991531,0.149181,,,1,,
+StopArea:MANPLA_STGEO,"St-Georges",,47.983685,0.151395,,,1,,
+StopArea:MANPLA_ROUIL,"Rouillon",,48.004631,0.136318,,,1,,
+StopArea:MANPLA_BERAR,"Berardière",,47.976078,0.149259,,,1,,
+StopArea:MANPLA_LESFA,"Les Fauchetières",,47.9781,0.132333,,,1,,
+StopArea:MANPLA_BEAUC,"Beauchêne",,47.976482,0.127135,,,1,,
+StopArea:MANPLA_CHFLE,"Champfleuri",,47.974812,0.127821,,,1,,
+StopArea:MANPLA_LASAU,"La Saulaie",,47.973545,0.125624,,,1,,
+StopArea:MANPLA_LESPE,"Les Petites Allourdes",,47.969185,0.125686,,,1,,
+StopArea:MANPLA_LESAL,"Les Allourdes",,47.967411,0.121875,,,1,,
+StopArea:MANPLA_LESCO,"Les Courterus",,47.942276,0.115767,,,1,,
+StopArea:MANPLA_LESMA,"Les Maréchaux",,47.94437,0.11845,,,1,,
+StopArea:MANPLA_LESTE,"Les Teillais",,47.948818,0.122977,,,1,,
+StopArea:MANPLA_LECHA,"Le Châtaignier",,47.950428,0.125213,,,1,,
+StopArea:MANPLA_LEPAV,"Le Pavillon Allonnes",,47.946976,0.130714,,,1,,
+StopArea:MANPLA_LAHAR,"La Hardangère",,47.951267,0.141181,,,1,,
+StopArea:MANPLA_ECOPA,"École Pasteur",,47.968369,0.157402,,,1,,
+StopArea:MANPLA_ECOLY,"École Lyautey",,47.964909,0.156245,,,1,,
+StopArea:MANPLA_BELLE,"Bellevue - Hauts de Coulaines",,48.020294,0.210902,,,1,,
+StopArea:MANPLA_LEONT,"Léon Tolstoï",,48.019444,0.209609,,,1,,
+StopArea:MANPLA_PAULL,"Paul-Louis Jacques",,48.017712,0.206769,,,1,,
+StopArea:MANPLA_COPEN,"Copenhague",,48.019958,0.20629,,,1,,
+StopArea:MANPLA_EUROP,"Europe",,48.021912,0.206801,,,1,,
+StopArea:MANPLA_EGCOU,"Église Coulaines",,48.024357,0.205629,,,1,,
+StopArea:MANPLA_LAPAI,"La Paix",,48.024216,0.202269,,,1,,
+StopArea:MANPLA_JEANC,"Jean Cocteau",,48.028484,0.203008,,,1,,
+StopArea:MANPLA_LEVER,"Le Verger",,48.031441,0.2049,,,1,,
+StopArea:MANPLA_CAMPU,"Campus - Ribay",,48.015923,0.161389,,,1,,
+StopArea:MANPLA_SARGE,"Sargé-lès-le-Mans",,48.034019,0.24063,,,1,,
+StopArea:MANPLA_DIDIE,"Didier Pironi",,48.035366,0.239976,,,1,,
+StopArea:MANPLA_RUDBA,"Rue de Ballon",,48.03801,0.238342,,,1,,
+StopArea:MANPLA_LABOU,"La Bouquetière",,48.039053,0.240014,,,1,,
+StopArea:MANPLA_MARCE,"Marcel Cerdan",,48.039219,0.241607,,,1,,
+StopArea:MANPLA_MAREC,"Maréchaux",,48.038933,0.247131,,,1,,
+StopArea:MANPLA_CAPUC,"Capucines",,48.036125,0.245154,,,1,,
+StopArea:MANPLA_CERIS,"Cerisiers",,48.033066,0.242643,,,1,,
+StopArea:MANPLA_BIGNO,"Bignon",,48.031101,0.243419,,,1,,
+StopArea:MANPLA_CALVA,"Calvaire",,48.028301,0.242376,,,1,,
+StopArea:MANPLA_BONNE,"Bonnetable",,48.02557,0.236906,,,1,,
+StopArea:MANPLA_DOREE,"Dorée",,48.023808,0.232927,,,1,,
+StopArea:MANPLA_FONTE,"Fontenelles",,48.020603,0.225975,,,1,,
+StopArea:MANPLA_KABOU,"Kaboul",,48.019306,0.222902,,,1,,
+StopArea:MANPLA_COLPS,"Collège La Psalette",,48.016529,0.204605,,,1,,
+StopArea:MANPLA_PAREN,"Parence",,48.035713,0.288074,,,1,,
+StopArea:MANPLA_PASSE,"Passe-Temps",,48.030327,0.280505,,,1,,
+StopArea:MANPLA_CHYVR,"Château",,48.025913,0.277472,,,1,,
+StopArea:MANPLA_BEROI,"Béroize",,48.036331,0.287151,,,1,,
+StopArea:MANPLA_COLPA,"Collège Pasteur",,48.016727,0.270468,,,1,,
+StopArea:MANPLA_ARCYY,"Arcy",,48.025711,0.259913,,,1,,
+StopArea:MANPLA_SBLAN,"Sablon Blanc",,48.027763,0.25609,,,1,,
+StopArea:MANPLA_JUGAN,"Jugannerie",,48.03212,0.273045,,,1,,
+StopArea:MANPLA_ROTIY,"Rôti",,48.034878,0.282057,,,1,,
+StopArea:MANPLA_COLCH,"Collège Champagné",,48.022293,0.331564,,,1,,
+StopArea:MANPLA_GEORG,"Georges Brassens",,48.018517,0.327156,,,1,,
+StopArea:MANPLA_BASSE,"Basse Lande",,48.017521,0.323078,,,1,,
+StopArea:MANPLA_AUVOU,"Auvours",,48.013405,0.317578,,,1,,
+StopArea:MANPLA_POLUC,"Polucan",,48.011597,0.285512,,,1,,
+StopArea:MANPLA_GESAN,"George Sand",,48.01432,0.271596,,,1,,
+StopArea:MANPLA_PERCH,"Perche",,48.015194,0.270034,,,1,,
+StopArea:MANPLA_NARCI,"Narcisses",,48.014671,0.26496,,,1,,
+StopArea:MANPLA_LYBEL,"Lycée Bellevue",,48.012352,0.205657,,,1,,
+StopArea:MANPLA_LYCMO,"Lycée Montesquieu",,48.007236,0.20059,,,1,,
+StopArea:MANPLA_LEOPO,"Léopold Gouloumes",,48.021553,0.331117,,,1,,
+StopArea:MANPLA_JACQU,"Jacques Prévert",,48.023319,0.33243,,,1,,
+StopArea:MANPLA_LYCSU,"Lycée Sud",,47.98241,0.228575,,,1,,
+StopArea:MANPLA_FUNAY,"Funay",,47.985043,0.225321,,,1,,
+StopArea:MANPLA_LYCEE,"Lycée Washington",,47.994762,0.203174,,,1,,
+StopArea:MANPLA_WASHI,"Washington",,47.995628,0.202408,,,1,,
+StopArea:MANPLA_LESLA,"Les Landes",,47.95549,0.229798,,,1,,
+StopArea:MANPLA_BELET,"Belle Étoile",,47.951504,0.233747,,,1,,
+StopArea:MANPLA_BOUCH,"Bouchardière",,47.942154,0.26229,,,1,,
+StopArea:MANPLA_BRISS,"Brissons",,47.936836,0.268885,,,1,,
+StopArea:MANPLA_LESCH,"Les Charmeuses",,47.935146,0.274475,,,1,,
+StopArea:MANPLA_LESPI,"Les Pins",,47.939983,0.26528,,,1,,
+StopArea:MANPLA_LEPRE,"Le Pressoir",,47.944088,0.2684,,,1,,
+StopArea:MANPLA_MARLE,"Marcel Létang",,47.945065,0.264733,,,1,,
+StopArea:MANPLA_RUAUD,"Ruaudin",,47.948444,0.260985,,,1,,
+StopArea:MANPLA_COLSO,"Collège Les Sources",,47.970982,0.223297,,,1,,
+StopArea:MANPLA_MULSA,"Mulsanne",,47.907024,0.23818,,,1,,
+StopArea:MANPLA_HERMI,"Hermitage",,47.906235,0.240807,,,1,,
+StopArea:MANPLA_EMARR,"Émile Arrouet",,47.906512,0.244135,,,1,,
+StopArea:MANPLA_ANCIE,"Anciens Combattants",,47.90744,0.2484,,,1,,
+StopArea:MANPLA_COLBO,"Collège Bollée",,47.909668,0.25167,,,1,,
+StopArea:MANPLA_OREED,"Orée du Bois",,47.913528,0.250139,,,1,,
+StopArea:MANPLA_PAULC,"Paul Cézanne",,47.913982,0.255514,,,1,,
+StopArea:MANPLA_CEDRE,"Cèdres",,47.915771,0.258441,,,1,,
+StopArea:MANPLA_BELVE,"Belvédères",,47.918785,0.256998,,,1,,
+StopArea:MANPLA_FLORA,"Flora Tristan",,47.919426,0.250937,,,1,,
+StopArea:MANPLA_EMILE,"Émile Plet",,47.917175,0.248349,,,1,,
+StopArea:MANPLA_CENTR,"Centre Simone Signoret",,47.913326,0.24802,,,1,,
+StopArea:MANPLA_MAINV,"Maison Neuve",,47.921501,0.220273,,,1,,
+StopArea:MANPLA_HOTEL,"Hôtel de Ville Arnage",,47.9272,0.187532,,,1,,
+StopArea:MANPLA_LAVAL,"La Vallée",,47.925053,0.186762,,,1,,
+StopArea:MANPLA_CXBRA,"Croix de Braye",,47.922821,0.185729,,,1,,
+StopArea:MANPLA_RTLUD,"Route du Lude",,47.922474,0.184512,,,1,,
+StopArea:MANPLA_BEURU,"Beuruay",,47.925297,0.183835,,,1,,
+StopArea:MANPLA_AVENU,"Avenue Nationale",,47.928257,0.185253,,,1,,
+StopArea:MANPLA_RUEDU,"Rue du Port",,47.931465,0.186649,,,1,,
+StopArea:MANPLA_NAUGU,"Nauguibert",,47.935635,0.18676,,,1,,
+StopArea:MANPLA_COLLE,"Collèges",,47.938187,0.185665,,,1,,
+StopArea:MANPLA_LAGAU,"La Gautrie",,47.945663,0.184303,,,1,,
+StopArea:MANPLA_ETANG,"Étang",,47.946384,0.186389,,,1,,
+StopArea:MANPLA_LEMAR,"Le Marin",,47.963917,0.160452,,,1,,
+StopArea:MANPLA_PERRI,"Perrières",,47.964272,0.157236,,,1,,
+StopArea:MANPLA_PASTE,"Pasteur",,47.967342,0.156881,,,1,,
+StopArea:MANPLA_STGGA,"Stade Georges Garnier",,47.973358,0.158723,,,1,,
+StopArea:MANPLA_CCUJC,"Centre Culturel Jean Carmet",,47.967468,0.160372,,,1,,
+StopArea:MANPLA_CHOSP,"Centre Hospitalier Spécialisé",,47.960217,0.16552,,,1,,
+StopArea:MANPLA_LEHMA,"Les Hautes Metairies",,47.952721,0.165427,,,1,,
+StopArea:MANPLA_LYCCC,"Lycée Claude Chappe",,47.934086,0.184855,,,1,,
+StopArea:MANNET1,"Nettleham",,47.912647,0.249706,,,1,,
+StopArea:MANPLA_STEHE,"Ste-Hélène",,48.000546,0.211725,,,1,,
+StopArea:MANPLA_AIGNE,"Aigné",,48.065033,0.119259,,,1,,
+StopArea:MANPLA_BUCHE,"Buchetière",,48.069931,0.118476,,,1,,
+StopArea:MANPLA_MAQUE,"Maquère",,48.077103,0.115771,,,1,,
+StopArea:MANPLA_LAMAR,"La Mare",,48.072163,0.130999,,,1,,
+StopArea:MANPLA_LEHOU,"Le Houx",,48.068516,0.132574,,,1,,
+StopArea:MANPLA_LAMIL,"La Milesse",,48.063667,0.136521,,,1,,
+StopArea:MANPLA_TERRO,"Terroirie",,48.061981,0.139209,,,1,,
+StopArea:MANPLA_STEXU,"St-Exupéry",,48.059662,0.143063,,,1,,
+StopArea:MANPLA_EGSTS,"Église St-Saturnin",,48.058624,0.15207,,,1,,
+StopArea:MANPLA_VALDE,"Val de Vray",,48.061596,0.155114,,,1,,
+StopArea:MANPLA_STSAT,"St-Saturnin",,48.062016,0.158814,,,1,,
+StopArea:MANPLA_ANTON,"Antonnière",,48.061756,0.163266,,,1,,
+StopArea:MANPLA_GRROL,"Grand Rolland",,48.067673,0.085547,,,1,,
+StopArea:MANPLA_LEFOU,"Le Fouillet",,48.065338,0.090567,,,1,,
+StopArea:MANPLA_JUP,"Jupinière",,48.060841,0.103184,,,1,,
+StopArea:MANCDB1,"Champ du Bois",,48.057049,0.108365,,,1,,
+StopArea:MANPLA_LARCE,"L'Arche",,48.059795,0.165239,,,1,,
+StopArea:MANPLA_COLMA,"Collège La Madeleine",,48.023853,0.184086,,,1,,
+StopArea:MANPLA_LAFOU,"La Fosse Louvette",,48.057777,0.107749,,,1,,
+StopArea:MANPLA_LESRO,"Les Robinières",,48.05402,0.144465,,,1,,
+StopArea:MANPLA_AGRIB,"Agribricorre",,48.047569,0.147726,,,1,,
+StopArea:MANPLA_STCHR,"St-Christophe",,48.040388,0.152057,,,1,,
+StopArea:MANPLA_LACHA,"La Chapelle-St-Aubin",,48.037227,0.156736,,,1,,
+StopArea:MANPLA_TRANG,"Trangé",,48.036163,0.15902,,,1,,
+StopArea:MANPLA_EGLIS,"Église La Chapelle-St-Aubin",,48.034153,0.161602,,,1,,
+StopArea:MANPLA_VALMO,"Val Morand",,48.064003,0.131797,,,1,,
+StopArea:MANPLA_HOUDO,"Houdouard",,48.067146,0.102997,,,1,,
+StopArea:MANPLA_LAFOL,"La Folie",,48.066116,0.108463,,,1,,
+StopArea:MANPLA_ANTAR,"Antarès - MMArena",,47.955952,0.221637,,,1,,
+StopArea:MANPLA_TECHN,"Technicampus",,47.943512,0.215722,,,1,,
+StopArea:MANPLA_GARES,"Gare Sud",,47.994987,0.189882,,,1,,
+StopArea:MANPLA_YOURC,"Yourcenar",,47.993397,0.196105,,,1,,
+StopArea:MANPLA_VIADU,"Viaducs",,47.992985,0.204511,,,1,,
+StopArea:MANPLA_PAIXH,"Paixhans",,47.996731,0.206554,,,1,,
+StopArea:MANPLA_RESIS,"Résistants",,47.994915,0.210911,,,1,,
+StopArea:MANPLA_MONTH,"Monthéard",,47.994335,0.213993,,,1,,
+StopArea:MANPLA_MAUPT,"Maupertuis",,47.996109,0.216937,,,1,,
+StopArea:MANPLA_SECUR,"Sécurité Sociale",,47.997181,0.218616,,,1,,
+StopArea:MANPLA_TRIPO,"Tri Postal",,47.994648,0.21643,,,1,,
+StopArea:MANPLA_MAISG,"Mairie St-Georges-du-Bois",,47.972469,0.099303,,,1,,
+StopArea:MANPLA_FOLLE,"Folleray",,47.985962,0.163656,,,1,,
+StopArea:MANPLA_LADEN,"La Denisière",,48.026031,0.079267,,,1,,
+StopArea:MANPLA_UNIVE,"Université",,48.016891,0.152017,,,1,,
+StopArea:MANPLA_STASN,"Stade Asnillé",,47.996101,0.105124,,,1,,
+StopArea:MANPLA_LAGRA,"La Grande Salle",,47.995247,0.10858,,,1,,
+StopArea:MANPLA_MAIPR,"Mairie Pruillé-le-Chétif",,47.993988,0.107619,,,1,,
+StopArea:MANPLA_STLAZ,"St-Lazare",,47.9995,0.182051,,,1,,
+StopArea:MANPLA_MALPA,"Malpalu",,48.000725,0.219373,,,1,,
+StopArea:MANPLA_BUFFO,"Buffon",,48.002708,0.220275,,,1,,
+StopArea:MANPLA_GUERA,"Guéranger",,48.004074,0.21448,,,1,,
+StopArea:MANPLA_BERGS,"Bergson",,48.002392,0.212805,,,1,,
+StopArea:MANPLA_RUDNO,"Rue du Nord",,48.005054,0.211053,,,1,,
+StopArea:MANPLA_CYRUS,"Cyrus",,48.005623,0.213592,,,1,,
+StopArea:MANPLA_AIGLE,"Aigles",,48.005581,0.216337,,,1,,
+StopArea:MANPLA_MUTUE,"Mutuel",,48.008392,0.217281,,,1,,
+StopArea:MANPLA_GBOIS,"Grand Bois",,48.011497,0.21957,,,1,,
+StopArea:MANPLA_BRIND,"Brindenier",,48.013531,0.21956,,,1,,
+StopArea:MANPLA_MORDR,"Mordret",,48.01442,0.215497,,,1,,
+StopArea:MANPLA_STALD,"St-Aldric",,48.01207,0.21289,,,1,,
+StopArea:MANPLA_RACHE,"Rachel",,48.011009,0.210169,,,1,,
+StopArea:MANPLA_JACOB,"Jacobins - Quinconces",,48.007343,0.200539,,,1,,
+StopArea:MANPLA_MENDE,"Mendès-France",,48.006767,0.199664,,,1,,
+StopArea:MANPLA_COMTE,"Comtes du Maine - Office du Tourisme",,48.004696,0.199936,,,1,,
+StopArea:MANPLA_REPUB,"République",,48.003433,0.197306,,,1,,
+StopArea:MANPLA_DELAG,"Delagenière",,48.013489,0.200692,,,1,,
+StopArea:MANPLA_BANJA,"Banjan",,48.016151,0.202126,,,1,,
+StopArea:MANPLA_PLESS,"Plessis",,48.026794,0.206134,,,1,,
+StopArea:MANPLA_CLSEA,"Closeau",,48.028019,0.207251,,,1,,
+StopArea:MANPLA_VAMON,"Val Monnet",,48.036018,0.216419,,,1,,
+StopArea:MANPLA_VIGNE,"Vignes",,48.028118,0.210587,,,1,,
+StopArea:MANPLA_TVALL,"3 Vallées",,48.023457,0.214724,,,1,,
+StopArea:MANPLA_EHPAD,"EHPAD",,48.024261,0.210876,,,1,,
+StopArea:MANPLA_SABLE,"Sables",,48.023685,0.201794,,,1,,
+StopArea:MANPLA_LESCR,"Les Croisettes",,48.043354,0.220355,,,1,,
+StopArea:MANPLA_PTCRX,"Petite Croix",,48.02536,0.17107,,,1,,
+StopArea:MANPLA_ZIN,"Zone Industrielle Nord",,48.024117,0.176351,,,1,,
+StopArea:MANPLA_LAROC,"La Rochelle",,48.020611,0.180464,,,1,,
+StopArea:MANPLA_EPINE,"Épine",,48.019394,0.182123,,,1,,
+StopArea:MANPLA_DUNKE,"Dunkerque",,48.017696,0.183882,,,1,,
+StopArea:MANPLA_BOUVE,"Bouvet",,48.014683,0.182825,,,1,,
+StopArea:MANPLA_THEOD,"Théodore Monod",,48.011841,0.185328,,,1,,
+StopArea:MANPLA_RPAVE,"Pavé",,48.009041,0.180844,,,1,,
+StopArea:MANPLA_FOLIE,"Folie",,48.009266,0.178354,,,1,,
+StopArea:MANPLA_MARBO,"Marbot",,48.009773,0.174258,,,1,,
+StopArea:MANPLA_MARCA,"Marcel Carné",,48.010025,0.165842,,,1,,
+StopArea:MANPLA_MARPA,"Marcel Pagnol",,48.011482,0.16782,,,1,,
+StopArea:MANPLA_GREMI,"Grémillon",,48.013546,0.163753,,,1,,
+StopArea:MANPLA_LERIB,"Le Ribay",,48.013657,0.161429,,,1,,
+StopArea:MANPLA_MELIE,"Méliès",,48.010857,0.16074,,,1,,
+StopArea:MANPLA_PUITS,"Puits Fendu",,48.011547,0.158271,,,1,,
+StopArea:MANPLA_VAUJO,"Vaujoubert",,48.012264,0.152329,,,1,,
+StopArea:MANPLA_PRIRI,"Prince Ringuet",,48.017555,0.146188,,,1,,
+StopArea:MANPLA_BLCHA,"Bellechasse",,48.017727,0.141727,,,1,,
+StopArea:MANPLA_SCOTT,"Scotto",,48.016396,0.141361,,,1,,
+StopArea:MANPLA_BEAUV,"Beauvoir",,48.013809,0.134527,,,1,,
+StopArea:MANPLA_LAGER,"La Germinière",,48.011688,0.124573,,,1,,
+StopArea:MANPLA_FONTA,"Fontaines",,48.00753,0.132161,,,1,,
+StopArea:MANPLA_CHEVE,"Cheverny",,48.023483,0.176082,,,1,,
+StopArea:MANPLA_FAMIL,"Family Village",,47.94405,0.240056,,,1,,
+StopArea:MANPLA_TILLE,"Tilleuls",,47.941273,0.263436,,,1,,
+StopArea:MANPLA_GABRI,"Gabriel Paillereau",,47.973152,0.147652,,,1,,
+StopArea:MANPLA_DEBUS,"Debussy",,47.971268,0.160564,,,1,,
+StopArea:MANPLA_CHABR,"Chabrier",,47.971649,0.163616,,,1,,
+StopArea:MANPLA_CHAOU,"Chaoué",,47.969692,0.165653,,,1,,
+StopArea:MANPLA_MASSE,"Massenet",,47.968716,0.163014,,,1,,
+StopArea:MANPLA_PISCI,"Piscine",,47.961754,0.165015,,,1,,
+StopArea:MANPLA_BRETA,"Bretagne",,47.953072,0.168479,,,1,,
+StopArea:MANPLA_VENDE,"Vendée",,47.955467,0.16905,,,1,,
+StopArea:MANPLA_LANGU,"Languedoc",,47.955719,0.171544,,,1,,
+StopArea:MANPLA_FLAND,"Flandres",,47.954044,0.172283,,,1,,
+StopArea:MANPLA_GASCO,"Gascogne",,47.952091,0.170876,,,1,,
+StopArea:MANPLA_ALLON,"Allonnes",,47.952354,0.165629,,,1,,
+StopArea:MANPLA_SAVOI,"Savoie",,47.95462,0.165992,,,1,,
+StopArea:MANPLA_LEODE,"Léo Delibes",,47.971443,0.159284,,,1,,
+StopArea:MANPLA_DEGAU,"De Gaulle",,48.004128,0.198913,,,1,,
+StopArea:MANPLA_ERPEL,"Erpell",,48.002735,0.205002,,,1,,
+StopArea:MANPLA_FLORE,"Flore",,48.001839,0.208966,,,1,,
+StopArea:MANPLA_MARIE,"Mariette",,47.999012,0.213409,,,1,,
+StopArea:MANPLA_LECOT,"Le Côteau",,47.997478,0.227638,,,1,,
+StopArea:MANPLA_VAUGA,"Vaugauthier",,47.997711,0.230014,,,1,,
+StopArea:MANPLA_BENER,"Béner",,47.999348,0.235525,,,1,,
+StopArea:MANPLA_HUISN,"Logis de l'Huisne",,47.999859,0.240316,,,1,,
+StopArea:MANPLA_LELUA,"Le Luard",,48.009575,0.263658,,,1,,
+StopArea:MANPLA_CIMET,"Cimetière Yvré-l'Évêque",,48.011871,0.266276,,,1,,
+StopArea:MANPLA_GUYBO,"Guy Bouriat",,48.013866,0.272262,,,1,,
+StopArea:MANPLA_LOUMI,"Louise Michel",,48.024082,0.32995,,,1,,
+StopArea:MANPLA_VAUDR,"Vaudrou",,48.027115,0.324388,,,1,,
+StopArea:MANPLA_VERDU,"Verdun",,48.026043,0.324898,,,1,,
+StopArea:MANPLA_LACHE,"La Chesnaie",,48.023972,0.336281,,,1,,
+StopArea:MANPLA_STHUB,"St-Hubert",,48.015591,0.335446,,,1,,
+StopArea:MANPLA_LAFOR,"La Forêt",,48.015915,0.332323,,,1,,
+StopArea:MANPLA_CHAMP,"Champagné",,48.019394,0.335865,,,1,,
+StopArea:MANPLA_BOLLE,"Bollée",,47.997295,0.222364,,,1,,
+StopArea:MANPLA_CORMI,"Cormier",,47.940334,0.232974,,,1,,
+StopArea:MANPLA_MAINE,"Maine",,48.014587,0.267256,,,1,,
+StopArea:MANPLA_PIVOI,"Pivoines",,48.013622,0.265631,,,1,,
+StopArea:MANPLA_YVREL,"Yvré-l'Évêque",,48.01878,0.270872,,,1,,
+StopArea:MANPLA_ZAMEN,"Maillets - Zamenhof",,48.016865,0.217047,,,1,,
+StopArea:MANPLA_STMAR,"St-Martin",,47.985699,0.209416,,,1,,
+StopArea:MANPLA_PONTL,"Pontlieue - Jean Mac",,47.98291,0.211886,,,1,,
+StopArea:MANPLA_SAPIN,"Sapins",,47.979923,0.208965,,,1,,
+StopArea:MANPLA_JMOUL,"Jean Moulin",,47.977455,0.207765,,,1,,
+StopArea:MANPLA_CITEJ,"Cité Joly",,47.975502,0.206866,,,1,,
+StopArea:MANPLA_RONCE,"Ronceray",,47.973824,0.206063,,,1,,
+StopArea:MANPLA_MAROC,"Maroc",,47.971401,0.204928,,,1,,
+StopArea:MANPLA_CHEAU,"Château d'Eau",,47.969913,0.204225,,,1,,
+StopArea:MANPLA_LAZAR,"Lazare Weiller",,47.967411,0.203053,,,1,,
+StopArea:MANPLA_JVEDR,"Jules Vedrines",,47.965309,0.202214,,,1,,
+StopArea:MANPLA_OASIS,"Oasis - Centre des Expositions",,47.96064,0.199912,,,1,,
+StopArea:MANPLA_ACTIS,"Actisud",,47.950798,0.195463,,,1,,
+StopArea:MANPLA_AEROD,"Aérodrome",,47.947933,0.194159,,,1,,
+StopArea:MANPLA_TRINT,"Trintignant",,47.944557,0.190681,,,1,,
+StopArea:MANPLA_POMMI,"Pommiers",,47.945065,0.187942,,,1,,
+StopArea:MANPLA_VADES,"Val de Sarthe",,47.919872,0.180911,,,1,,
+StopArea:MANPLA_LESHO,"Les Horizons",,48.057247,0.166525,,,1,,
+StopArea:MANPLA_GRUES,"Grues Rouges",,48.055054,0.167662,,,1,,
+StopArea:MANPLA_CINEM,"Cinémas CGR",,48.048363,0.17266,,,1,,
+StopArea:MANPLA_BOURD,"Bourdonnière",,48.046547,0.173647,,,1,,
+StopArea:MANPLA_LEARD,"Léard",,48.026012,0.181413,,,1,,
+StopArea:MANPLA_LESPA,"Les Palis",,48.022999,0.18266,,,1,,
+StopArea:MANPLA_MONTS,"Montsaulnière",,48.020992,0.183586,,,1,,
+StopArea:MANPLA_STLIB,"St-Liboire",,48.017796,0.185313,,,1,,
+StopArea:MANPLA_MAILE,"Mairie Le Mans",,48.006817,0.197289,,,1,,
+StopArea:MANPLA_LACAL,"La Calandre",,48.010288,0.193944,,,1,,
+StopArea:MANPLA_GALLI,"Gallière",,48.02702,0.182455,,,1,,
+StopArea:MANPLA_FLREY,"Florey",,48.025169,0.182732,,,1,,
+StopArea:MANPLA_RICHE,"Richet",,48.024639,0.184671,,,1,,
+StopArea:MANPLA_MOULI,"Moulin l'Évêque",,48.024246,0.187356,,,1,,
+StopArea:MANPLA_LAUSA,"Lausanne",,48.023079,0.187457,,,1,,
+StopArea:MANPLA_BERNE,"Berne",,48.021412,0.185728,,,1,,
+StopArea:MANPLA_RCHPI,"Richepin",,48.01907,0.18699,,,1,,
+StopArea:MANPLA_MOTAG,"Montagne",,48.016891,0.188514,,,1,,
+StopArea:MANPLA_BOUSS,"Boussinière",,48.01366,0.190295,,,1,,
+StopArea:MANPLA_CIMOU,"Cimetière Ouest",,48.017666,0.192451,,,1,,
+StopArea:MANPLA_ETAMI,"Étamines",,48.017559,0.188594,,,1,,
+StopArea:MANPLA_RBALE,"Bâle",,48.021297,0.187355,,,1,,
+StopArea:MANPLA_LAFAY,"Lafayette",,48.006916,0.190046,,,1,,
+StopArea:MANPLA_LIBER,"Libération",,48.00462,0.187352,,,1,,
+StopArea:MANPLA_RCHED,"Richedoué",,48.003666,0.186358,,,1,,
+StopArea:MANPLA_ANATO,"Anatole France",,48.00106,0.184226,,,1,,
+StopArea:MANPLA_EDFGD,"EDF - GDF",,48.001083,0.187335,,,1,,
+StopArea:MANPLA_GAREN,"Gares",,47.99614,0.192429,,,1,,
+StopArea:MANPLA_BOBIL,"Bobillot",,47.992508,0.194613,,,1,,
+StopArea:MANPLA_JMACE,"Jean Macé",,47.990185,0.193542,,,1,,
+StopArea:MANPLA_JEANM,"Jean-Michel Gaudré",,47.988976,0.190401,,,1,,
+StopArea:MANPLA_BATIG,"Batignolles",,47.987583,0.188046,,,1,,
+StopArea:MANPLA_FUSAI,"Fusains",,47.984997,0.186409,,,1,,
+StopArea:MANPLA_LAPOI,"La Pointe",,47.984192,0.186616,,,1,,
+StopArea:MANPLA_POLYG,"Polygone",,47.984596,0.19007,,,1,,
+StopArea:MANPLA_BLEUE,"Bleuets",,47.983898,0.194655,,,1,,
+StopArea:MANPLA_FROME,"Fromendière",,47.984024,0.199567,,,1,,
+StopArea:MANPLA_BOBET,"Bobet",,47.983231,0.204289,,,1,,
+StopArea:MANPLA_CHMAR,"Champ de Mars",,47.982273,0.207155,,,1,,
+StopArea:MANPLA_CUGNO,"Cugnot",,47.981472,0.216487,,,1,,
+StopArea:MANPLA_ARROM,"Arromanches",,47.984375,0.222708,,,1,,
+StopArea:MANPLA_DIESE,"Diesel",,47.982628,0.225766,,,1,,
+StopArea:MANPLA_MARNE,"Marne",,47.982548,0.213321,,,1,,
+StopArea:MANPLA_PIEDS,"Pied Sec",,47.984333,0.201618,,,1,,
+StopArea:MANPLA_BARBU,"Barbusse",,47.986,0.196821,,,1,,
+StopArea:MANPLA_LILAS,"Lilas",,47.985031,0.195587,,,1,,
+StopArea:MANPLA_TRIST,"Tristan Bernard",,48.013416,0.222415,,,1,,
+StopArea:MANPLA_SAVOR,"Savorgnan de Brazza",,48.011932,0.223936,,,1,,
+StopArea:MANPLA_PERDR,"Perdrix",,48.010117,0.225563,,,1,,
+StopArea:MANPLA_ARDOI,"Ardoise",,48.009048,0.226746,,,1,,
+StopArea:MANPLA_GAZON,"Gazonfier",,48.005787,0.227909,,,1,,
+StopArea:MANPLA_CHARB,"Charbonnière",,48.003082,0.230604,,,1,,
+StopArea:MANPLA_ALFRE,"Alfred de Vigny",,48.002182,0.227557,,,1,,
+StopArea:MANPLA_SULLY,"Sully Prudhomme",,48.001648,0.230902,,,1,,
+StopArea:MANPLA_GUILL,"Guillaume Apollinaire",,47.999973,0.231653,,,1,,
+StopArea:MANPLA_MARIV,"Marivaux",,47.999367,0.227991,,,1,,
+StopArea:MANPLA_PYREN,"Pyrénées",,47.992676,0.225203,,,1,,
+StopArea:MANPLA_ESCRA,"ESCRA",,47.980999,0.233589,,,1,,
+StopArea:MANPLA_PLATA,"Platanes",,47.978413,0.234429,,,1,,
+StopArea:MANPLA_GRENO,"Grenoble",,47.97612,0.234065,,,1,,
+StopArea:MANPLA_CARCA,"Carcassonne",,47.974575,0.233189,,,1,,
+StopArea:MANPLA_RUEDE,"Rue de Ruaudin",,47.972851,0.231235,,,1,,
+StopArea:MANPLA_CONTR,"Contrexeville",,47.970436,0.227018,,,1,,
+StopArea:MANPLA_LEONG,"Léon Guet",,47.967667,0.223056,,,1,,
+StopArea:MANPLA_YOKEL,"Yokel",,47.966095,0.220855,,,1,,
+StopArea:MANPLA_GUETT,"Guetteloup - Pôle Santé Sud",,47.964294,0.221155,,,1,,
+StopArea:MANPLA_PARCM,"Parc Manceau",,48.03244,0.181455,,,1,,
+StopArea:MANPLA_CHARL,"Charles Sauria",,48.034637,0.179528,,,1,,
+StopArea:MANPLA_LESVE,"Les Verts",,48.038189,0.176924,,,1,,
+StopArea:MANPLA_EMDEL,"Émile Delahaye",,48.038315,0.17263,,,1,,
+StopArea:MANPLA_LOUIS,"Louis Delage",,48.036476,0.173363,,,1,,
+StopArea:MANPLA_PANHA,"Panhard",,48.032375,0.174323,,,1,,
+StopArea:MANPLA_CITRO,"Citroën",,48.029873,0.171837,,,1,,
+StopArea:MANPLA_FUCAU,"Foucault",,48.026249,0.175392,,,1,,
+StopArea:MANPLA_THOMA,"Thomas Edison",,48.025093,0.179583,,,1,,
+StopArea:MANPLA_BLANC,"Blanchisserie",,48.01503,0.197358,,,1,,
+StopArea:MANPLA_BONPA,"Bon Pasteur",,48.013077,0.197719,,,1,,
+StopArea:MANPLA_LEDRU,"Ledru-Rollin",,48.010288,0.19495,,,1,,
+StopArea:MANPLA_PREFE,"Préfecture",,48.000816,0.197278,,,1,,
+StopArea:MANPLA_PALAI,"Palais des Congrès",,47.999794,0.192106,,,1,,
+StopArea:MANPLA_CAREL,"Carel Mutualité",,47.9916,0.198081,,,1,,
+StopArea:MANPLA_MIROI,"Miroir",,47.98975,0.198692,,,1,,
+StopArea:MANPLA_FEYDE,"Feydeau",,47.988323,0.201041,,,1,,
+StopArea:MANPLA_PREAU,"Préau",,47.98735,0.202836,,,1,,
+StopArea:MANPLA_RBARA,"Bara",,47.985142,0.205083,,,1,,
+StopArea:MANPLA_MEDIA,"Mediathèque",,48.002331,0.192726,,,1,,
+StopArea:MANPLA_LESHA,"Les Halles",,48.003986,0.193557,,,1,,
+StopArea:MANPLA_NOVAX,"Novaxud",,47.994339,0.185546,,,1,,
+StopArea:MANPLA_PECHE,"Pêcheurs",,47.989922,0.182121,,,1,,
+StopArea:MANPLA_NELSO,"Nelson Mandela",,47.987099,0.18166,,,1,,
+StopArea:MANPLA_SPOUT,"Spoutnik",,47.983471,0.183524,,,1,,
+StopArea:MANPLA_RENAU,"Renault",,47.981552,0.180118,,,1,,
+StopArea:MANPLA_PIERR,"Pierre Piffault",,47.97879,0.177658,,,1,,
+StopArea:MANPLA_SETRA,"SETRAM",,47.976929,0.176207,,,1,,
+StopArea:MANPLA_BESSE,"Bessemer",,47.972527,0.176575,,,1,,
+StopArea:MANPLA_FOUCA,"Foucaudière",,47.969666,0.180309,,,1,,
+StopArea:MANPLA_EQUIP,"Équipement",,47.967037,0.18331,,,1,,
+StopArea:MANPLA_CALBE,"Calberson",,47.965485,0.184834,,,1,,
+StopArea:MANPLA_ABATT,"Abattoirs",,47.961258,0.185019,,,1,,
+StopArea:MANPLA_FARAD,"Faraday",,47.960381,0.178907,,,1,,
+StopArea:MANPLA_BECQU,"Becquerel",,47.96328,0.177074,,,1,,
+StopArea:MANPLA_ZIS,"Zone Industrielle Sud",,47.96418,0.179984,,,1,,
+StopArea:MANPLA_JCQUA,"Jacquard",,47.965034,0.184477,,,1,,
+StopArea:MANPLA_STJUL,"St-Julien",,47.961132,0.186377,,,1,,
+StopArea:MANPLA_MONIE,"Monier",,47.953701,0.184551,,,1,,
+StopArea:MANPLA_RENON,"Renoncules",,47.95055,0.188228,,,1,,
+StopArea:MANPLA_DOMAI,"Domaine de Beauregard",,47.998138,0.171183,,,1,,
+StopArea:MANPLA_MOREA,"Moreau",,47.998661,0.169754,,,1,,
+StopArea:MANPLA_RACIN,"Racine",,48.000019,0.170141,,,1,,
+StopArea:MANPLA_CHATE,"Chateaubriand",,48.001648,0.171213,,,1,,
+StopArea:MANPLA_BEAUM,"Beaumarchais",,48.003582,0.171268,,,1,,
+StopArea:MANPLA_PIPEC,"Pipèche",,48.003994,0.173919,,,1,,
+StopArea:MANPLA_BOURG,"Bourges",,48.004894,0.179485,,,1,,
+StopArea:MANPLA_SAFFR,"Saffray",,48.006733,0.180013,,,1,,
+StopArea:MANPLA_ETOIL,"Étoile",,48.006031,0.20204,,,1,,
+StopArea:MANPLA_GLADI,"Gladiateurs",,48.007416,0.202668,,,1,,
+StopArea:MANPLA_JPLAN,"Jardin des Plantes",,48.008003,0.208154,,,1,,
+StopArea:MANPLA_BARDE,"Bardet",,48.008598,0.214296,,,1,,
+StopArea:MANPLA_YZEUX,"Yzeux",,48.005219,0.217784,,,1,,
+StopArea:MANPLA_SOLIT,"Solitude",,48.003983,0.220541,,,1,,
+StopArea:MANPLA_LAMBE,"Lambert",,48.005768,0.221247,,,1,,
+StopArea:MANPLA_CYGNE,"Cygnes",,48.007313,0.224121,,,1,,
+StopArea:MANPLA_CLAIR,"Clairefontaine",,48.01519,0.226017,,,1,,
+StopArea:MANPLA_VALEN,"Valence",,48.015457,0.227843,,,1,,
+StopArea:MANPLA_VILLA,"Villaret",,48.015602,0.230345,,,1,,
+StopArea:MANPLA_AGADI,"Agadir",,48.018707,0.230556,,,1,,
+StopArea:MANPLA_BARCE,"Barcelone",,48.019382,0.227499,,,1,,
+StopArea:MANPLA_ARDRI,"Ardriers",,48.001198,0.169677,,,1,,
+StopArea:MANPLA_LECAD,"Le Cadran",,48.020645,0.172002,,,1,,
+StopArea:MANPLA_JCART,"Jacques Cartier",,48.022438,0.170118,,,1,,
+StopArea:MANPLA_SURCO,"Surcouf",,48.024544,0.170809,,,1,,
+StopArea:MANPLA_STVIN,"St-Vincent",,48.010281,0.199401,,,1,,
+StopArea:MANPLA_PALMI,"Palmiers",,48.018875,0.20156,,,1,,
+StopArea:MANPLA_STMIC,"St-Michel",,48.021431,0.201684,,,1,,
+StopArea:MANPLA_CORNE,"Corneille",,48.019062,0.198442,,,1,,
+StopArea:MANPLA_RNICE,"Nice",,48.022041,0.196631,,,1,,
+StopArea:MANPLA_HENDA,"Hendaye",,48.024189,0.197375,,,1,,
+StopArea:MANPLA_LABAU,"La Baule",,48.02422,0.201035,,,1,,
+StopArea:MANPLA_CLOSE,"Closerie",,48.031319,0.210082,,,1,,
+StopArea:MANPLA_MADON,"Madon",,47.961887,0.203625,,,1,,
+StopArea:MANPLA_MORAN,"Morane",,47.964275,0.205752,,,1,,
+StopArea:MANPLA_RAINE,"Raineries",,47.9636,0.208338,,,1,,
+StopArea:MANPLA_CIMSU,"Cimetière Sud",,47.965023,0.209405,,,1,,
+StopArea:MANPLA_DAVID,"David d'Angers",,47.966053,0.210163,,,1,,
+StopArea:MANPLA_JARDI,"Jardin du Souvenir",,47.965603,0.212932,,,1,,
+StopArea:MANPLA_VERTG,"Vert Galant",,47.96685,0.214743,,,1,,
+StopArea:MANPLA_BELAI,"Bel Air",,47.968712,0.214789,,,1,,
+StopArea:MANPLA_FRESN,"Fresnellerie",,47.96936,0.210932,,,1,,
+StopArea:MANPLA_REMBR,"Rembrandt",,47.971603,0.211498,,,1,,
+StopArea:MANPLA_VANGO,"Van Gogh",,47.971413,0.213837,,,1,,
+StopArea:MANPLA_GLONN,"Glonnières - Centre Sud",,47.972061,0.216918,,,1,,
+StopArea:MANPLA_VAUGU,"Vauguyon",,47.975574,0.220716,,,1,,
+StopArea:MANPLA_MONET,"Monet",,47.975243,0.224173,,,1,,
+StopArea:MANPLA_MILLE,"Millet",,47.973816,0.223828,,,1,,
+StopArea:MANPLA_LESOU,"Les Sources",,47.972404,0.22158,,,1,,
+StopArea:MANPLA_COURB,"Courbet",,47.969517,0.223451,,,1,,
+StopArea:MANPLA_BRUYE,"Bruyères",,47.976959,0.232518,,,1,,
+StopArea:MANPLA_MARPL,"Marcel Paul",,47.978138,0.228639,,,1,,
+StopArea:MANPLA_DEUXO,"Deux Ormeaux",,47.979225,0.224629,,,1,,
+StopArea:MANPLA_BIGAR,"Bigarreaux",,47.98,0.221691,,,1,,
+StopArea:MANPLA_ARCHI,"Archives Départementales",,47.981243,0.205388,,,1,,
+StopArea:MANPLA_COLVT,"Collectivité",,47.977997,0.2015,,,1,,
+StopArea:MANPLA_ROUSS,"Rousseau",,47.976555,0.202375,,,1,,
+StopArea:MANPLA_PAPIN,"Papin",,47.973557,0.199161,,,1,,
+StopArea:MANPLA_BERRY,"Berry",,47.970425,0.198243,,,1,,
+StopArea:MANPLA_HUCHE,"Huchepie",,47.968098,0.197413,,,1,,
+StopArea:MANPLA_NOGUE,"Noguès",,47.963009,0.196641,,,1,,
+StopArea:MANPLA_COURA,"Courard",,47.978012,0.203335,,,1,,
+StopArea:MANPLA_FALCO,"Falconet",,47.97131,0.215689,,,1,,
+StopArea:MANPLA_AUCHA,"Auchan",,48.042503,0.175329,,,1,,
+StopArea:MANPLA_FRERE,"Frères Renault",,48.041931,0.17157,,,1,,
+StopArea:MANPLA_AUBRA,"Aubrac",,47.993336,0.22385,,,1,,
+StopArea:MANPLA_LEONB,"Léon Blum",,47.995502,0.22773,,,1,,
+StopArea:MANPLA_ESPAL,"Espal - Arche de la Nature",,47.994785,0.233803,,,1,,
+StopArea:MANPLA_GUEBE,"Gué Bernisson",,47.992352,0.23713,,,1,,
+StopArea:MANPLA_ARCHE,"Arche de la Nature",,47.987427,0.243343,,,1,,
+StopArea:MANPLA_CALIF,"Californie",,47.984642,0.240144,,,1,,
+StopArea:MANPLA_CECFA,"CFA",,47.983063,0.233413,,,1,,
+StopArea:MANPLA_SUISS,"Suisse",,47.994286,0.226197,,,1,,
+StopArea:MANPLA_VICTO,"Victor Hugo",,47.999199,0.199944,,,1,,
+StopArea:MANPLA_LAFUI,"La Fuie",,47.997952,0.200625,,,1,,
+StopArea:MANPLA_CHANZ,"Chanzy",,47.998455,0.203003,,,1,,
+StopArea:MANPLA_RUIFS,"Ifs",,48.00119,0.202678,,,1,,
+StopArea:MANPLA_MONTA,"Montaigu",,47.984058,0.156485,,,1,,
+StopArea:MANPLA_LECLO,"Le Clos",,47.98526,0.162091,,,1,,
+StopArea:MANPLA_RUDLO,"Rue du Loir",,47.988152,0.166622,,,1,,
+StopArea:MANPLA_FERNA,"Fernand Tavano",,47.991791,0.172302,,,1,,
+StopArea:MANPLA_PAGES,"Pagès",,47.994156,0.176118,,,1,,
+StopArea:MANPLA_CIMSG,"Cimetière St-Georges",,47.995251,0.177521,,,1,,
+StopArea:MANPLA_CHAUM,"Chaumard",,47.996643,0.17934,,,1,,
+StopArea:MANPLA_ACACI,"Acacias",,47.998295,0.181042,,,1,,
+StopArea:MANPLA_ALLBJ,"Allonnes - Bois Joli",,47.950447,0.16323,,,1,,
+StopArea:MANPLA_MAIAL,"Mairie Allonnes",,47.970272,0.159614,,,1,,
+StopArea:MANPLA_MARTI,"Martin - Bréguet",,47.976395,0.168097,,,1,,
+StopArea:MANPLA_PATTE,"Patte d'Oie",,47.978558,0.173247,,,1,,
+StopArea:MANPLA_ANGEV,"Angevinière",,47.985058,0.178327,,,1,,
+StopArea:MANPLA_EPAUG,"Épau - Gué Bernisson",,47.992012,0.234691,,,1,,
+StopArea:MANPLA_ILEAU,"Île aux Sports",,47.99086,0.230623,,,1,,
+StopArea:MANPLA_ATLAN,"Atlantides - Sablons",,47.990586,0.22216,,,1,,
+StopArea:MANPLA_CHURC,"Churchill",,47.989361,0.215901,,,1,,
+StopArea:MANPLA_JAURE,"Jaurès - Pavillon",,47.989521,0.207023,,,1,,
+StopArea:MANPLA_CROIX,"Croix de Pierre",,48.012211,0.20553,,,1,,
+StopArea:MANPLA_MAILL,"Maillets - Banjan",,48.015335,0.212577,,,1,,
+StopArea:MANPLA_JULES,"Jules Raimu",,47.968262,0.218839,,,1,,
+StopArea:MANPLA_RGOYA,"Goya",,47.975883,0.214836,,,1,,
+StopArea:MANPLA_DURAN,"Durand - Vaillant",,47.979336,0.212861,,,1,,
+StopArea:MANPLA_HOPIT,"Hôpital",,48.012936,0.177,,,1,,
+StopArea:MANPLA_CADRA,"Cadran - Épine",,48.018658,0.173545,,,1,,
+StopArea:MANPLA_HAUTE,"Haute Venelle - Clinique du Pré",,48.019978,0.163233,,,1,,
+StopArea:MANPLA_RZOLA,"Zola",,47.993839,0.198526,,,1,,
+StopArea:MANPLA_LECLE,"Leclerc - Fleurus",,47.998192,0.195012,,,1,,
+StopArea:MANPLA_GAMBE,"Gambetta - Mûriers",,48.008999,0.185457,,,1,,
+StopPoint:MANGRO1,"Gare Routière","",47.997009,0.190329,,,0,StopArea:MANPLA_GARER,1
+StopPoint:MANTAB1,"Pont des Tabacs","",47.998806,0.187723,,,0,StopArea:MANPLA_PONTD,1
+StopPoint:MANRAY1,"Colonel Raynal","",47.999916,0.185533,,,0,StopArea:MANPLA_COLRY,1
+StopPoint:MANSJO1,"St-Joseph","",47.984444,0.142011,,,0,StopArea:MANPLA_STJOS,0
+StopPoint:MANCTH2,"Ste-Catherine","",48.022228,0.178346,,,0,StopArea:MANPLA_STECA,0
+StopPoint:MANCTH1,"Ste-Catherine","",48.022961,0.177485,,,0,StopArea:MANPLA_STECA,1
+StopPoint:MANEPE2,"Éperon","",48.005508,0.195224,,,0,StopArea:MANPLA_EPERO,1
+StopPoint:MANCHV2,"Chêne Vert","",48.008125,0.189702,,,0,StopArea:MANPLA_CHENE,1
+StopPoint:MANBTT3,"Bouttié","",48.011562,0.189254,,,0,StopArea:MANPLA_BOUTT,0
+StopPoint:MANROY2,"Chasse Royale","",48.014809,0.186762,,,0,StopArea:MANPLA_CHASS,0
+StopPoint:MANQUE2,"Colonel Quéru","",48.016834,0.184453,,,0,StopArea:MANPLA_COLON,0
+StopPoint:MANQUE1,"Colonel Quéru","",48.016201,0.184734,,,0,StopArea:MANPLA_COLON,0
+StopPoint:MANROY3,"Chasse Royale","",48.014832,0.186064,,,0,StopArea:MANPLA_CHASS,1
+StopPoint:MANCCH1,"Cochereaux","",48.012753,0.187958,,,0,StopArea:MANPLA_COCHE,1
+StopPoint:MANCHV1,"Chêne Vert","",48.00816,0.189647,,,0,StopArea:MANPLA_CHENE,1
+StopPoint:MANEPE3,"Éperon","",48.005524,0.195465,,,0,StopArea:MANPLA_EPERO,1
+StopPoint:MANFOS1,"Foresterie","",48.019909,0.145341,,,0,StopArea:MANPLA_FORES,1
+StopPoint:MANSOV1,"Souvenance","",48.019272,0.148441,,,0,StopArea:MANPLA_SOUVE,1
+StopPoint:MANMVI1,"Martial Vivet","",48.019749,0.153346,,,0,StopArea:MANPLA_MVIVE,0
+StopPoint:MANEDP1,"Edith Piaf","",48.020756,0.156214,,,0,StopArea:MANPLA_EDITH,0
+StopPoint:MANBAB1,"Barbara","",48.021008,0.159449,,,0,StopArea:MANPLA_BARBA,0
+StopPoint:MANDBO1,"Desiré Bourneville","",48.020584,0.166815,,,0,StopArea:MANPLA_DESIR,0
+StopPoint:MANXBI1,"Xavier Bichat","",48.022049,0.166124,,,0,StopArea:MANPLA_XAVIE,0
+StopPoint:MANCLB1,"Claude Bernard","",48.021709,0.163912,,,0,StopArea:MANPLA_CLAUD,0
+StopPoint:MANLLA1,"École Louise Labé","",48.020821,0.18,,,0,StopArea:MANPLA_ECOLL,0
+StopPoint:MANBAB2,"Barbara","",48.020855,0.159147,,,0,StopArea:MANPLA_BARBA,0
+StopPoint:MANEDP2,"Edith Piaf","",48.020802,0.156105,,,0,StopArea:MANPLA_EDITH,0
+StopPoint:MANMVI2,"Martial Vivet","",48.019676,0.153215,,,0,StopArea:MANPLA_MVIVE,0
+StopPoint:MANSOV2,"Souvenance","",48.019337,0.148244,,,0,StopArea:MANPLA_SOUVE,1
+StopPoint:MANFOS2,"Foresterie","",48.019939,0.145376,,,0,StopArea:MANPLA_FORES,1
+StopPoint:MANCEP1,"Collège Épine","",48.016975,0.180439,,,0,StopArea:MANPLA_COLEP,1
+StopPoint:MANANE1,"Ancien Étang","",48.043354,0.116375,,,0,StopArea:MANPLA_ANCET,0
+StopPoint:MANDRO1,"La Drouerie","",48.034542,0.113671,,,0,StopArea:MANPLA_DROUE,1
+StopPoint:MANMAT2,"Mairie Trangé","",48.02718,0.113194,,,0,StopArea:MANPLA_MAIRI,1
+StopPoint:MANBRT2,"Bruyère Trangé","",48.024616,0.105564,,,0,StopArea:MANPLA_BRUTR,1
+StopPoint:MANMUR3,"Collège Les Mûriers","",48.011787,0.185813,,,0,StopArea:MANPLA_MURIE,1
+StopPoint:MANAMP1,"Collège Ambroise Paré","",48.004562,0.187327,,,0,StopArea:MANPLA_COLAP,0
+StopPoint:MANBRT1,"Bruyère Trangé","",48.0247,0.105789,,,0,StopArea:MANPLA_BRUTR,1
+StopPoint:MANMAT1,"Mairie Trangé","",48.027172,0.113315,,,0,StopArea:MANPLA_MAIRI,1
+StopPoint:MANDRO2,"La Drouerie","",48.034618,0.113705,,,0,StopArea:MANPLA_DROUE,1
+StopPoint:MANMRO2,"Maisons Rouges","",48.022362,0.099223,,,0,StopArea:MANPLA_MAISO,0
+StopPoint:MANLGV1,"Les Gravillons","",48.024845,0.079015,,,0,StopArea:MANPLA_LESGR,1
+StopPoint:MANLGV2,"Les Gravillons","",48.024937,0.079615,,,0,StopArea:MANPLA_LESGR,1
+StopPoint:MANRFA1,"Route de Fay","",47.993469,0.106494,,,0,StopArea:MANPLA_RTFAY,0
+StopPoint:MANCIP1,"Cité","",47.991997,0.109491,,,0,StopArea:MANPLA_CITEP,0
+StopPoint:MANLAT1,"La Touche","",47.987484,0.133763,,,0,StopArea:MANPLA_LATOU,0
+StopPoint:MANCOV1,"Collège Vieux Colombier","",47.991074,0.167273,,,0,StopArea:MANPLA_VIEUX,1
+StopPoint:MANSJO2,"St-Joseph","",47.984478,0.141942,,,0,StopArea:MANPLA_STJOS,1
+StopPoint:MANLAT2,"La Touche","",47.987469,0.133992,,,0,StopArea:MANPLA_LATOU,0
+StopPoint:MANCIP2,"Cité","",47.992767,0.109351,,,0,StopArea:MANPLA_CITEP,0
+StopPoint:MANRFA2,"Route de Fay","",47.993534,0.106531,,,0,StopArea:MANPLA_RTFAY,0
+StopPoint:MANEGF1,"Église Fay","",48.008652,0.070217,,,0,StopArea:MANPLA_EGFAY,0
+StopPoint:MANAGV1,"Aigreville","",48.005798,0.075443,,,0,StopArea:MANPLA_AIGRV,1
+StopPoint:MANCTE1,"Chantemerle","",47.998528,0.088265,,,0,StopArea:MANPLA_CHANT,0
+StopPoint:MANCTE2,"Chantemerle","",47.998577,0.088397,,,0,StopArea:MANPLA_CHANT,0
+StopPoint:MANAGV2,"Aigreville","",48.006031,0.075079,,,0,StopArea:MANPLA_AIGRV,1
+StopPoint:MANEGF2,"Église Fay","",48.008625,0.070231,,,0,StopArea:MANPLA_EGFAY,0
+StopPoint:MANRMS2,"Route du Mans","",47.974323,0.103967,,,0,StopArea:MANPLA_ROUTE,0
+StopPoint:MANCIS2,"Cimetière St-Georges-du-Bois","",47.970757,0.097098,,,0,StopArea:MANPLA_CISGB,0
+StopPoint:MANCCS1,"Centre Commercial St-Georges-du-Bois","",47.966919,0.091233,,,0,StopArea:MANPLA_CCSGB,0
+StopPoint:MANCEN1,"C.E. NTN","",47.964367,0.125901,,,0,StopArea:MANPLA_CEN,0
+StopPoint:MANLTR1,"Les Tremelières","",47.962521,0.120098,,,0,StopArea:MANPLA_LESTR,0
+StopPoint:MANPCH1,"Petit Chanteloup","",47.958576,0.113205,,,0,StopArea:MANPLA_PETIT,0
+StopPoint:MANMGE1,"Mongre","",47.955685,0.115859,,,0,StopArea:MANPLA_MONGR,0
+StopPoint:MANLER1,"Le Rosier","",47.955498,0.120755,,,0,StopArea:MANPLA_LEROS,0
+StopPoint:MANLPE1,"Le Pâtis Vert","",47.955421,0.12428,,,0,StopArea:MANPLA_LEPAT,0
+StopPoint:MANJUI3,"Juigné","",47.952255,0.129632,,,0,StopArea:MANPLA_JUIGN,0
+StopPoint:MANLCO1,"La Chopinière","",47.947788,0.130305,,,0,StopArea:MANPLA_LACHO,0
+StopPoint:MANPVI1,"Pavillon","",47.994286,0.143531,,,0,StopArea:MANPLA_PAVIL,0
+StopPoint:MANLPO1,"La Pointe Allonnes","",47.94841,0.134698,,,0,StopArea:MANPLA_LPOIA,0
+StopPoint:MANSOU1,"Les Souvres","",47.949753,0.138619,,,0,StopArea:MANPLA_LESSO,0
+StopPoint:MANLCA1,"Le Carrefour","",47.950027,0.139893,,,0,StopArea:MANPLA_LECAR,0
+StopPoint:MANLYM1,"Lycée Malraux","",47.956036,0.166723,,,0,StopArea:MANPLA_LYCMA,1
+StopPoint:MANLCA2,"Le Carrefour","",47.950085,0.139891,,,0,StopArea:MANPLA_LECAR,0
+StopPoint:MANSOU2,"Les Souvres","",47.949806,0.138563,,,0,StopArea:MANPLA_LESSO,0
+StopPoint:MANLPO2,"La Pointe Allonnes","",47.948456,0.134616,,,0,StopArea:MANPLA_LPOIA,0
+StopPoint:MANPVI2,"Pavillon","",47.994457,0.14339,,,0,StopArea:MANPLA_PAVIL,0
+StopPoint:MANLCO2,"La Chopinière","",47.947899,0.13034,,,0,StopArea:MANPLA_LACHO,0
+StopPoint:MANJUI2,"Juigné","",47.952316,0.129674,,,0,StopArea:MANPLA_JUIGN,0
+StopPoint:MANLPE2,"Le Pâtis Vert","",47.955509,0.124303,,,0,StopArea:MANPLA_LEPAT,0
+StopPoint:MANLER2,"Le Rosier","",47.95557,0.120738,,,0,StopArea:MANPLA_LEROS,0
+StopPoint:MANMGE2,"Mongre","",47.955597,0.115929,,,0,StopArea:MANPLA_MONGR,0
+StopPoint:MANPCH2,"Petit Chanteloup","",47.958298,0.113297,,,0,StopArea:MANPLA_PETIT,0
+StopPoint:MANLTR2,"Les Tremelières","",47.962513,0.120099,,,0,StopArea:MANPLA_LESTR,0
+StopPoint:MANCEN2,"C.E.NTN","",47.964397,0.126127,,,0,StopArea:MANPLA_CEC,0
+StopPoint:MANCIS1,"Cimetière St-Georges-du-Bois","",47.970821,0.097216,,,0,StopArea:MANPLA_CISGB,0
+StopPoint:MANRMS1,"Route du Mans","",47.974316,0.104142,,,0,StopArea:MANPLA_ROUTE,0
+StopPoint:MANCLM1,"Collège Le Marin","",47.963799,0.159814,,,0,StopArea:MANPLA_COLMR,0
+StopPoint:MANCKE1,"Collège Kennedy","",47.965153,0.162116,,,0,StopArea:MANPLA_COLKE,1
+StopPoint:MANTOU1,"Tourellerie","",48.012287,0.135247,,,0,StopArea:MANPLA_TOURE,1
+StopPoint:MANPRI1,"Primevère","",48.008789,0.135474,,,0,StopArea:MANPLA_PRIME,1
+StopPoint:MANCHR1,"Charmes","",48.007236,0.138877,,,0,StopArea:MANPLA_CHARM,0
+StopPoint:MANORM1,"Ormeau","",48.006168,0.13868,,,0,StopArea:MANPLA_ORMEA,1
+StopPoint:MANLEC1,"Le Chêne","",47.991531,0.149181,,,0,StopArea:MANPLA_LECHE,0
+StopPoint:MANSTG3,"St-Georges","",47.983383,0.1511,,,0,StopArea:MANPLA_STGEO,1
+StopPoint:MANLEC2,"Le Chêne","",47.991695,0.149268,,,0,StopArea:MANPLA_LECHE,0
+StopPoint:MANROU1,"Rouillon","",48.004631,0.136318,,,0,StopArea:MANPLA_ROUIL,1
+StopPoint:MANORM2,"Ormeau","",48.006207,0.139121,,,0,StopArea:MANPLA_ORMEA,1
+StopPoint:MANCHR2,"Charmes","",48.006783,0.13974,,,0,StopArea:MANPLA_CHARM,1
+StopPoint:MANPRI2,"Primevère","",48.008854,0.13598,,,0,StopArea:MANPLA_PRIME,1
+StopPoint:MANTOU2,"Tourellerie","",48.01226,0.135369,,,0,StopArea:MANPLA_TOURE,1
+StopPoint:MANBER1,"Berardière","",47.976078,0.149259,,,0,StopArea:MANPLA_BERAR,1
+StopPoint:MANFAU1,"Les Fauchetières","",47.9781,0.132333,,,0,StopArea:MANPLA_LESFA,0
+StopPoint:MANBCH1,"Beauchêne","",47.976482,0.127135,,,0,StopArea:MANPLA_BEAUC,0
+StopPoint:MANCHF4,"Champfleuri","",47.974812,0.127821,,,0,StopArea:MANPLA_CHFLE,0
+StopPoint:MANLAS1,"La Saulaie","",47.973545,0.125624,,,0,StopArea:MANPLA_LASAU,0
+StopPoint:MANPAO1,"Les Petites Allourdes","",47.969185,0.125686,,,0,StopArea:MANPLA_LESPE,0
+StopPoint:MANLAL1,"Les Allourdes","",47.967411,0.121875,,,0,StopArea:MANPLA_LESAL,0
+StopPoint:MANLCE1,"Les Courterus","",47.942276,0.115767,,,0,StopArea:MANPLA_LESCO,0
+StopPoint:MANLMA1,"Les Maréchaux","",47.94437,0.11845,,,0,StopArea:MANPLA_LESMA,0
+StopPoint:MANLTE1,"Les Teillais","",47.948818,0.122977,,,0,StopArea:MANPLA_LESTE,0
+StopPoint:MANLCT1,"Le Châtaignier","",47.950428,0.125213,,,0,StopArea:MANPLA_LECHA,0
+StopPoint:MANJUI1,"Juigné","",47.951683,0.128334,,,0,StopArea:MANPLA_JUIGN,0
+StopPoint:MANLPV1,"Le Pavillon Allonnes","",47.946976,0.130714,,,0,StopArea:MANPLA_LEPAV,0
+StopPoint:MANLHA1,"La Hardangère","",47.951267,0.141181,,,0,StopArea:MANPLA_LAHAR,0
+StopPoint:MANEPA1,"École Pasteur","",47.968369,0.157402,,,0,StopArea:MANPLA_ECOPA,0
+StopPoint:MANELY1,"École Lyautey","",47.964909,0.156245,,,0,StopArea:MANPLA_ECOLY,0
+StopPoint:MANBEL1,"Bellevue - Hauts de Coulaines","",48.020233,0.21195,,,0,StopArea:MANPLA_BELLE,1
+StopPoint:MANTOL2,"Léon Tolstoï","",48.019093,0.209918,,,0,StopArea:MANPLA_LEONT,1
+StopPoint:MANPLJ2,"Paul-Louis Jacques","",48.017681,0.206677,,,0,StopArea:MANPLA_PAULL,0
+StopPoint:MANCOP1,"Copenhague","",48.019676,0.206408,,,0,StopArea:MANPLA_COPEN,0
+StopPoint:MANEUR1,"Europe","",48.021912,0.206801,,,0,StopArea:MANPLA_EUROP,1
+StopPoint:MANEGL1,"Église Coulaines","",48.023911,0.205258,,,0,StopArea:MANPLA_EGCOU,1
+StopPoint:MANLPX1,"La Paix","",48.024216,0.202296,,,0,StopArea:MANPLA_LAPAI,1
+StopPoint:MANCCT1,"Jean Cocteau","",48.028484,0.203008,,,0,StopArea:MANPLA_JEANC,1
+StopPoint:MANVER1,"Le Verger","",48.031498,0.205059,,,0,StopArea:MANPLA_LEVER,1
+StopPoint:MANCRI1,"Campus - Ribay","",48.017105,0.161278,,,0,StopArea:MANPLA_CAMPU,1
+StopPoint:MANSAR1,"Sargé-lès-le-Mans","",48.034019,0.24063,,,0,StopArea:MANPLA_SARGE,1
+StopPoint:MANPIR1,"Didier Pironi","",48.035366,0.239976,,,0,StopArea:MANPLA_DIDIE,1
+StopPoint:MANBLO1,"Rue de Ballon","",48.03801,0.238342,,,0,StopArea:MANPLA_RUDBA,1
+StopPoint:MANBQU1,"La Bouquetière","",48.039053,0.240014,,,0,StopArea:MANPLA_LABOU,0
+StopPoint:MANCER3,"Marcel Cerdan","",48.039243,0.241538,,,0,StopArea:MANPLA_MARCE,1
+StopPoint:MANMAR1,"Maréchaux","",48.03912,0.246693,,,0,StopArea:MANPLA_MAREC,1
+StopPoint:MANCAP1,"Capucines","",48.035786,0.244951,,,0,StopArea:MANPLA_CAPUC,1
+StopPoint:MANCRS1,"Cerisiers","",48.033066,0.242643,,,0,StopArea:MANPLA_CERIS,1
+StopPoint:MANBGN1,"Bignon","",48.031101,0.243419,,,0,StopArea:MANPLA_BIGNO,1
+StopPoint:MANCVI1,"Calvaire","",48.027897,0.241776,,,0,StopArea:MANPLA_CALVA,1
+StopPoint:MANBON1,"Bonnetable","",48.02557,0.236906,,,0,StopArea:MANPLA_BONNE,1
+StopPoint:MANDOR1,"Dorée","",48.023808,0.232927,,,0,StopArea:MANPLA_DOREE,0
+StopPoint:MANFTE1,"Fontenelles","",48.020741,0.225996,,,0,StopArea:MANPLA_FONTE,1
+StopPoint:MANKAB1,"Kaboul","",48.019306,0.222902,,,0,StopArea:MANPLA_KABOU,1
+StopPoint:MANPSA1,"Collège La Psalette","",48.016529,0.204605,,,0,StopArea:MANPLA_COLPS,0
+StopPoint:MANKAB2,"Kaboul","",48.019726,0.224066,,,0,StopArea:MANPLA_KABOU,0
+StopPoint:MANFTE2,"Fontenelles","",48.020603,0.225975,,,0,StopArea:MANPLA_FONTE,0
+StopPoint:MANDOR2,"Dorée","",48.023464,0.232337,,,0,StopArea:MANPLA_DOREE,1
+StopPoint:MANBON2,"Bonnetable","",48.026352,0.238833,,,0,StopArea:MANPLA_BONNE,1
+StopPoint:MANCVI2,"Calvaire","",48.028301,0.242376,,,0,StopArea:MANPLA_CALVA,1
+StopPoint:MANBGN2,"Bignon","",48.030933,0.243519,,,0,StopArea:MANPLA_BIGNO,1
+StopPoint:MANCRS2,"Cerisiers","",48.033314,0.242472,,,0,StopArea:MANPLA_CERIS,1
+StopPoint:MANCAP2,"Capucines","",48.035812,0.245062,,,0,StopArea:MANPLA_CAPUC,1
+StopPoint:MANMAR2,"Maréchaux","",48.038933,0.247131,,,0,StopArea:MANPLA_MAREC,1
+StopPoint:MANCER2,"Marcel Cerdan","",48.039219,0.241607,,,0,StopArea:MANPLA_MARCE,0
+StopPoint:MANBQU2,"La Bouquetière","",48.038975,0.239681,,,0,StopArea:MANPLA_LABOU,0
+StopPoint:MANBLO2,"Rue de Ballon","",48.037857,0.238375,,,0,StopArea:MANPLA_RUDBA,1
+StopPoint:MANPAR1,"Parence","",48.035713,0.288074,,,0,StopArea:MANPLA_PAREN,0
+StopPoint:MANPST1,"Passe-Temps","",48.030327,0.280505,,,0,StopArea:MANPLA_PASSE,0
+StopPoint:MANCHY1,"Château","",48.025913,0.277472,,,0,StopArea:MANPLA_CHYVR,0
+StopPoint:MANBEZ2,"Béroize","",48.036331,0.287151,,,0,StopArea:MANPLA_BEROI,0
+StopPoint:MANCPA3,"Collège Pasteur","",48.016727,0.270468,,,0,StopArea:MANPLA_COLPA,0
+StopPoint:MANARY1,"Arcy","",48.025711,0.259913,,,0,StopArea:MANPLA_ARCYY,0
+StopPoint:MANSBL1,"Sablon Blanc","",48.027763,0.25609,,,0,StopArea:MANPLA_SBLAN,0
+StopPoint:MANJUG1,"Jugannerie","",48.03212,0.273045,,,0,StopArea:MANPLA_JUGAN,0
+StopPoint:MANROT1,"Rôti","",48.034878,0.282057,,,0,StopArea:MANPLA_ROTIY,0
+StopPoint:MANBEZ1,"Béroize","",48.036285,0.287096,,,0,StopArea:MANPLA_BEROI,0
+StopPoint:MANCCP1,"Collège Champagné","",48.022293,0.331564,,,0,StopArea:MANPLA_COLCH,0
+StopPoint:MANBRS2,"Georges Brassens","",48.018574,0.327261,,,0,StopArea:MANPLA_GEORG,1
+StopPoint:MANBAS2,"Basse Lande","",48.017338,0.322334,,,0,StopArea:MANPLA_BASSE,1
+StopPoint:MANAUV2,"Auvours","",48.013405,0.317578,,,0,StopArea:MANPLA_AUVOU,1
+StopPoint:MANPOL2,"Polucan","",48.011597,0.285512,,,0,StopArea:MANPLA_POLUC,1
+StopPoint:MANSAN1,"George Sand","",48.01432,0.271596,,,0,StopArea:MANPLA_GESAN,1
+StopPoint:MANPRC1,"Perche","",48.015194,0.270034,,,0,StopArea:MANPLA_PERCH,1
+StopPoint:MANCPA2,"Collège Pasteur","",48.016586,0.269483,,,0,StopArea:MANPLA_COLPA,1
+StopPoint:MANNAR2,"Narcisses","",48.014671,0.26496,,,0,StopArea:MANPLA_NARCI,1
+StopPoint:MANLYB2,"Lycée Bellevue","",48.012352,0.205657,,,0,StopArea:MANPLA_LYBEL,0
+StopPoint:MANLMO2,"Lycée Montesquieu","",48.009785,0.201451,,,0,StopArea:MANPLA_LYCMO,0
+StopPoint:MANLMO1,"Lycée Montesquieu","",48.007236,0.20059,,,0,StopArea:MANPLA_LYCMO,0
+StopPoint:MANLYB1,"Lycée Bellevue","",48.012001,0.205233,,,0,StopArea:MANPLA_LYBEL,0
+StopPoint:MANNAR1,"Narcisses","",48.014534,0.264764,,,0,StopArea:MANPLA_NARCI,1
+StopPoint:MANCPA1,"Collège Pasteur","",48.016556,0.26923,,,0,StopArea:MANPLA_COLPA,1
+StopPoint:MANSAN2,"George Sand","",48.014381,0.27138,,,0,StopArea:MANPLA_GESAN,1
+StopPoint:MANPOL1,"Polucan","",48.011356,0.285642,,,0,StopArea:MANPLA_POLUC,1
+StopPoint:MANAUV1,"Auvours","",48.013344,0.317714,,,0,StopArea:MANPLA_AUVOU,1
+StopPoint:MANBAS1,"Basse Lande","",48.017521,0.323078,,,0,StopArea:MANPLA_BASSE,1
+StopPoint:MANBRS1,"Georges Brassens","",48.018517,0.327156,,,0,StopArea:MANPLA_GEORG,1
+StopPoint:MANGOU1,"Léopold Gouloumes","",48.021553,0.331117,,,0,StopArea:MANPLA_LEOPO,1
+StopPoint:MANJPR1,"Jacques Prévert","",48.023319,0.33243,,,0,StopArea:MANPLA_JACQU,1
+StopPoint:MANLSU2,"Lycée Sud","",47.982441,0.228386,,,0,StopArea:MANPLA_LYCSU,0
+StopPoint:MANFUN2,"Funay","",47.985268,0.225352,,,0,StopArea:MANPLA_FUNAY,0
+StopPoint:MANLWA1,"Lycée Washington","",47.994762,0.203174,,,0,StopArea:MANPLA_LYCEE,0
+StopPoint:MANWAS1,"Washington","",47.995628,0.202408,,,0,StopArea:MANPLA_WASHI,1
+StopPoint:MANFUN1,"Funay","",47.985043,0.225321,,,0,StopArea:MANPLA_FUNAY,0
+StopPoint:MANLSU1,"Lycée Sud","",47.98241,0.228575,,,0,StopArea:MANPLA_LYCSU,0
+StopPoint:MANLAN2,"Les Landes","",47.955429,0.229867,,,0,StopArea:MANPLA_LESLA,1
+StopPoint:MANBLE2,"Belle Étoile","",47.951218,0.233986,,,0,StopArea:MANPLA_BELET,1
+StopPoint:MANBOU2,"Bouchardière","",47.942303,0.261708,,,0,StopArea:MANPLA_BOUCH,1
+StopPoint:MANLVA1,"Brissons","",47.936836,0.268885,,,0,StopArea:MANPLA_BRISS,1
+StopPoint:MANLCH1,"Les Charmeuses","",47.935146,0.274475,,,0,StopArea:MANPLA_LESCH,1
+StopPoint:MANLPI2,"Les Pins","",47.939877,0.265365,,,0,StopArea:MANPLA_LESPI,1
+StopPoint:MANLPR2,"Le Pressoir","",47.944294,0.268391,,,0,StopArea:MANPLA_LEPRE,1
+StopPoint:MANLET2,"Marcel Létang","",47.944679,0.265163,,,0,StopArea:MANPLA_MARLE,1
+StopPoint:MANRUA2,"Ruaudin","",47.949032,0.260493,,,0,StopArea:MANPLA_RUAUD,1
+StopPoint:MANLSC1,"Collège Les Sources","",47.970982,0.223297,,,0,StopArea:MANPLA_COLSO,1
+StopPoint:MANRUA1,"Ruaudin","",47.948444,0.260985,,,0,StopArea:MANPLA_RUAUD,1
+StopPoint:MANLET1,"Marcel Létang","",47.945065,0.264733,,,0,StopArea:MANPLA_MARLE,1
+StopPoint:MANLPR1,"Le Pressoir","",47.944088,0.2684,,,0,StopArea:MANPLA_LEPRE,1
+StopPoint:MANLPI1,"Les Pins","",47.939983,0.26528,,,0,StopArea:MANPLA_LESPI,1
+StopPoint:MANBOU1,"Bouchardière","",47.942154,0.26229,,,0,StopArea:MANPLA_BOUCH,1
+StopPoint:MANBLE1,"Belle Étoile","",47.951504,0.233747,,,0,StopArea:MANPLA_BELET,1
+StopPoint:MANLAN1,"Les Landes","",47.95549,0.229798,,,0,StopArea:MANPLA_LESLA,1
+StopPoint:MANMST1,"Mulsanne","",47.907024,0.23818,,,0,StopArea:MANPLA_MULSA,1
+StopPoint:MANHER2,"Hermitage","",47.906212,0.240942,,,0,StopArea:MANPLA_HERMI,1
+StopPoint:MANARO2,"Émile Arrouet","",47.906994,0.245434,,,0,StopArea:MANPLA_EMARR,1
+StopPoint:MANCOM2,"Anciens Combattants","",47.90744,0.2484,,,0,StopArea:MANPLA_ANCIE,1
+StopPoint:MANCLG2,"Collège Bollée","",47.909752,0.251761,,,0,StopArea:MANPLA_COLBO,0
+StopPoint:MANORE1,"Orée du Bois","",47.913486,0.250315,,,0,StopArea:MANPLA_OREED,1
+StopPoint:MANCEZ1,"Paul Cézanne","",47.914158,0.255788,,,0,StopArea:MANPLA_PAULC,1
+StopPoint:MANCED1,"Cèdres","",47.915771,0.258441,,,0,StopArea:MANPLA_CEDRE,0
+StopPoint:MANBLV1,"Belvédères","",47.918743,0.25716,,,0,StopArea:MANPLA_BELVE,0
+StopPoint:MANTRI1,"Flora Tristan","",47.919811,0.251377,,,0,StopArea:MANPLA_FLORA,1
+StopPoint:MANEPL1,"Émile Plet","",47.917175,0.248349,,,0,StopArea:MANPLA_EMILE,0
+StopPoint:MANCSI2,"Centre Simone Signoret","",47.91338,0.247509,,,0,StopArea:MANPLA_CENTR,1
+StopPoint:MANMNV1,"Maison Neuve","",47.921501,0.220273,,,0,StopArea:MANPLA_MAINV,0
+StopPoint:MANHVI1,"Hôtel de Ville Arnage","",47.9272,0.187532,,,0,StopArea:MANPLA_HOTEL,1
+StopPoint:MANVAL1,"La Vallée","",47.925053,0.186762,,,0,StopArea:MANPLA_LAVAL,0
+StopPoint:MANCXB1,"Croix de Braye","",47.922821,0.185729,,,0,StopArea:MANPLA_CXBRA,1
+StopPoint:MANRLU1,"Route du Lude","",47.922474,0.184512,,,0,StopArea:MANPLA_RTLUD,0
+StopPoint:MANBEY1,"Beuruay","",47.925297,0.183835,,,0,StopArea:MANPLA_BEURU,1
+StopPoint:MANNAT2,"Avenue Nationale","",47.928257,0.185253,,,0,StopArea:MANPLA_AVENU,0
+StopPoint:MANPOR2,"Rue du Port","",47.93153,0.18674,,,0,StopArea:MANPLA_RUEDU,0
+StopPoint:MANNAU2,"Nauguibert","",47.936028,0.18673,,,0,StopArea:MANPLA_NAUGU,1
+StopPoint:MANCGA2,"Collèges","",47.938911,0.185408,,,0,StopArea:MANPLA_COLLE,1
+StopPoint:MANLGA2,"La Gautrie","",47.945637,0.184331,,,0,StopArea:MANPLA_LAGAU,0
+StopPoint:MANETG2,"Étang","",47.946384,0.186389,,,0,StopArea:MANPLA_ETANG,0
+StopPoint:MANLEM2,"Le Marin","",47.963913,0.160184,,,0,StopArea:MANPLA_LEMAR,1
+StopPoint:MANPER2,"Perrières","",47.964413,0.156654,,,0,StopArea:MANPLA_PERRI,0
+StopPoint:MANPAS2,"Pasteur","",47.967098,0.156851,,,0,StopArea:MANPLA_PASTE,0
+StopPoint:MANST04,"Stade Georges Garnier","",47.972954,0.158726,,,0,StopArea:MANPLA_STGGA,1
+StopPoint:MANCC04,"Centre Culturel Jean Carmet","",47.967861,0.160169,,,0,StopArea:MANPLA_CCUJC,1
+StopPoint:MANHS04,"Centre Hospitalier Spécialisé","",47.959236,0.165574,,,0,StopArea:MANPLA_CHOSP,1
+StopPoint:MANHM04,"Les Hautes Metairies","",47.952591,0.165258,,,0,StopArea:MANPLA_LEHMA,1
+StopPoint:MANLCC1,"Lycée Claude Chappe","",47.934086,0.184855,,,0,StopArea:MANPLA_LYCCC,0
+StopPoint:MANHM03,"Les Hautes Metairies","",47.952721,0.165427,,,0,StopArea:MANPLA_LEHMA,1
+StopPoint:MANHS03,"Centre Hospitalier Spécialisé","",47.960217,0.16552,,,0,StopArea:MANPLA_CHOSP,1
+StopPoint:MANCC03,"Centre Culturel Jean Carmet","",47.967468,0.160372,,,0,StopArea:MANPLA_CCUJC,1
+StopPoint:MANST03,"Stade Georges Garnier","",47.973358,0.158723,,,0,StopArea:MANPLA_STGGA,1
+StopPoint:MANPAS1,"Pasteur","",47.967342,0.156881,,,0,StopArea:MANPLA_PASTE,0
+StopPoint:MANPER1,"Perrières","",47.964272,0.157236,,,0,StopArea:MANPLA_PERRI,0
+StopPoint:MANLEM1,"Le Marin","",47.963917,0.160452,,,0,StopArea:MANPLA_LEMAR,1
+StopPoint:MANCGA1,"Collèges","",47.938187,0.185665,,,0,StopArea:MANPLA_COLLE,1
+StopPoint:MANNAU1,"Nauguibert","",47.935635,0.18676,,,0,StopArea:MANPLA_NAUGU,1
+StopPoint:MANPOR1,"Rue du Port","",47.931465,0.186649,,,0,StopArea:MANPLA_RUEDU,0
+StopPoint:MANMNV2,"Maison Neuve","",47.921371,0.220078,,,0,StopArea:MANPLA_MAINV,0
+StopPoint:MANCSI1,"Centre Simone Signoret","",47.913326,0.24802,,,0,StopArea:MANPLA_CENTR,1
+StopPoint:MANNET1,"Nettleham","",47.912647,0.249706,,,0,StopArea:MANNET1,1
+StopPoint:MANCLG1,"Collège Bollée","",47.909668,0.25167,,,0,StopArea:MANPLA_COLBO,0
+StopPoint:MANCOM1,"Anciens Combattants","",47.907265,0.249129,,,0,StopArea:MANPLA_ANCIE,1
+StopPoint:MANARO1,"Émile Arrouet","",47.906399,0.246541,,,0,StopArea:MANPLA_EMARR,0
+StopPoint:MANHER1,"Hermitage","",47.906235,0.240807,,,0,StopArea:MANPLA_HERMI,1
+StopPoint:MANSTH2,"Ste-Hélène","",48.000587,0.211375,,,0,StopArea:MANPLA_STEHE,0
+StopPoint:MANSTH1,"Ste-Hélène","",48.000546,0.211725,,,0,StopArea:MANPLA_STEHE,0
+StopPoint:MANAGN1,"Aigné","",48.065029,0.11942,,,0,StopArea:MANPLA_AIGNE,0
+StopPoint:MANBUC1,"Buchetière","",48.069931,0.118476,,,0,StopArea:MANPLA_BUCHE,1
+StopPoint:MANMAQ1,"Maquère","",48.077103,0.115771,,,0,StopArea:MANPLA_MAQUE,0
+StopPoint:MANLAM1,"La Mare","",48.071789,0.131175,,,0,StopArea:MANPLA_LAMAR,0
+StopPoint:MANLHO1,"Le Houx","",48.067493,0.132792,,,0,StopArea:MANPLA_LEHOU,0
+StopPoint:MANLMI1,"La Milesse","",48.063667,0.136521,,,0,StopArea:MANPLA_LAMIL,0
+StopPoint:MANTER1,"Terroirie","",48.061981,0.139209,,,0,StopArea:MANPLA_TERRO,1
+StopPoint:MANSTE1,"St-Exupéry","",48.059658,0.143399,,,0,StopArea:MANPLA_STEXU,1
+StopPoint:MANEGS1,"Église St-Saturnin","",48.058624,0.15207,,,0,StopArea:MANPLA_EGSTS,0
+StopPoint:MANVDV1,"Val de Vray","",48.061596,0.155114,,,0,StopArea:MANPLA_VALDE,0
+StopPoint:MANSTS1,"St-Saturnin","",48.06197,0.158842,,,0,StopArea:MANPLA_STSAT,1
+StopPoint:MANATO1,"Antonnière","",48.061756,0.163266,,,0,StopArea:MANPLA_ANTON,1
+StopPoint:MANGRR1,"Grand Rolland","",48.067673,0.085547,,,0,StopArea:MANPLA_GRROL,0
+StopPoint:MANLFU2,"Le Fouillet","",48.065338,0.090567,,,0,StopArea:MANPLA_LEFOU,0
+StopPoint:MANJUP1,"Jupinière","",48.060841,0.103184,,,0,StopArea:MANPLA_JUP,0
+StopPoint:MANCDB1,"Champ du Bois","",48.057049,0.108365,,,0,StopArea:MANCDB1,0
+StopPoint:MANLAR1,"L'Arche","",48.059795,0.165239,,,0,StopArea:MANPLA_LARCE,1
+StopPoint:MANLMD1,"Collège La Madeleine","",48.023853,0.184086,,,0,StopArea:MANPLA_COLMA,1
+StopPoint:MANLAR2,"L'Arche","",48.060368,0.165095,,,0,StopArea:MANPLA_LARCE,1
+StopPoint:MANATO2,"Antonnière","",48.061813,0.162378,,,0,StopArea:MANPLA_ANTON,1
+StopPoint:MANSTS2,"St-Saturnin","",48.062016,0.158814,,,0,StopArea:MANPLA_STSAT,1
+StopPoint:MANVDV2,"Val de Vray","",48.061096,0.154463,,,0,StopArea:MANPLA_VALDE,0
+StopPoint:MANEGS2,"Église St-Saturnin","",48.058006,0.151183,,,0,StopArea:MANPLA_EGSTS,0
+StopPoint:MANSTE2,"St-Exupéry","",48.059662,0.143063,,,0,StopArea:MANPLA_STEXU,1
+StopPoint:MANTER2,"Terroirie","",48.06139,0.1402,,,0,StopArea:MANPLA_TERRO,1
+StopPoint:MANLMI2,"La Milesse","",48.064014,0.136198,,,0,StopArea:MANPLA_LAMIL,0
+StopPoint:MANLHO2,"Le Houx","",48.068516,0.132574,,,0,StopArea:MANPLA_LEHOU,0
+StopPoint:MANLAM2,"La Mare","",48.072163,0.130999,,,0,StopArea:MANPLA_LAMAR,0
+StopPoint:MANMAQ2,"Maquère","",48.07777,0.115367,,,0,StopArea:MANPLA_MAQUE,1
+StopPoint:MANBUC2,"Buchetière","",48.069695,0.118392,,,0,StopArea:MANPLA_BUCHE,1
+StopPoint:MANAGN2,"Aigné","",48.065033,0.119259,,,0,StopArea:MANPLA_AIGNE,0
+StopPoint:MANLFL2,"La Fosse Louvette","",48.057777,0.107749,,,0,StopArea:MANPLA_LAFOU,0
+StopPoint:MANJUP2,"Jupinière","",48.060822,0.103225,,,0,StopArea:MANPLA_JUP,0
+StopPoint:MANLFU1,"Le Fouillet","",48.065475,0.090385,,,0,StopArea:MANPLA_LEFOU,0
+StopPoint:MANSTE3,"St-Exupéry","",48.059026,0.142946,,,0,StopArea:MANPLA_STEXU,1
+StopPoint:MANLES1,"Les Robinières","",48.05402,0.144465,,,0,StopArea:MANPLA_LESRO,1
+StopPoint:MANAGR1,"Agribricorre","",48.047569,0.147726,,,0,StopArea:MANPLA_AGRIB,1
+StopPoint:MANSCR1,"St-Christophe","",48.040095,0.152284,,,0,StopArea:MANPLA_STCHR,1
+StopPoint:MANAUB1,"La Chapelle-St-Aubin","",48.037227,0.156736,,,0,StopArea:MANPLA_LACHA,1
+StopPoint:MANTRA1,"Trangé","",48.035875,0.159461,,,0,StopArea:MANPLA_TRANG,1
+StopPoint:MANEGA1,"Église La Chapelle-St-Aubin","",48.034153,0.161602,,,0,StopArea:MANPLA_EGLIS,1
+StopPoint:MANVMR1,"Val Morand","",48.064003,0.131797,,,0,StopArea:MANPLA_VALMO,1
+StopPoint:MANEGA2,"Église La Chapelle-St-Aubin","",48.03442,0.161403,,,0,StopArea:MANPLA_EGLIS,1
+StopPoint:MANTRA2,"Trangé","",48.036163,0.15902,,,0,StopArea:MANPLA_TRANG,1
+StopPoint:MANAUB2,"La Chapelle-St-Aubin","",48.037801,0.156162,,,0,StopArea:MANPLA_LACHA,1
+StopPoint:MANSCR2,"St-Christophe","",48.040388,0.152057,,,0,StopArea:MANPLA_STCHR,1
+StopPoint:MANAGR2,"Agribricorre","",48.047623,0.14779,,,0,StopArea:MANPLA_AGRIB,1
+StopPoint:MANLES2,"Les Robinières","",48.053978,0.144655,,,0,StopArea:MANPLA_LESRO,1
+StopPoint:MANVMR2,"Val Morand","",48.064037,0.131688,,,0,StopArea:MANPLA_VALMO,1
+StopPoint:MANHOU1,"Houdouard","",48.066799,0.102811,,,0,StopArea:MANPLA_HOUDO,0
+StopPoint:MANLFO1,"La Folie","",48.066116,0.108463,,,0,StopArea:MANPLA_LAFOL,0
+StopPoint:MANLFO2,"La Folie","",48.066051,0.108439,,,0,StopArea:MANPLA_LAFOL,0
+StopPoint:MANHOU2,"Houdouard","",48.067146,0.102997,,,0,StopArea:MANPLA_HOUDO,0
+StopPoint:MANANT1,"Antarès - MMArena","",47.955952,0.221637,,,0,StopArea:MANPLA_ANTAR,1
+StopPoint:MANTEC1,"Technicampus","",47.943512,0.215722,,,0,StopArea:MANPLA_TECHN,1
+StopPoint:MANANT2,"Antarès - MMArena","",47.955143,0.225995,,,0,StopArea:MANPLA_ANTAR,1
+StopPoint:MANGRS1,"Gare Sud","",47.994987,0.189882,,,0,StopArea:MANPLA_GARES,0
+StopPoint:MANYOU1,"Yourcenar","",47.993073,0.197056,,,0,StopArea:MANPLA_YOURC,1
+StopPoint:MANVIA2,"Viaducs","",47.993046,0.204482,,,0,StopArea:MANPLA_VIADU,1
+StopPoint:MANPAX1,"Paixhans","",47.996731,0.206554,,,0,StopArea:MANPLA_PAIXH,1
+StopPoint:MANRES1,"Résistants","",47.994915,0.210911,,,0,StopArea:MANPLA_RESIS,1
+StopPoint:MANMTH1,"Monthéard","",47.994267,0.213538,,,0,StopArea:MANPLA_MONTH,1
+StopPoint:MANMPT2,"Maupertuis","",47.996109,0.216937,,,0,StopArea:MANPLA_MAUPT,0
+StopPoint:MANSEC1,"Sécurité Sociale","",47.996799,0.219891,,,0,StopArea:MANPLA_SECUR,1
+StopPoint:MANTRP1,"Tri Postal","",47.994648,0.21643,,,0,StopArea:MANPLA_TRIPO,1
+StopPoint:MANMTH2,"Monthéard","",47.994335,0.213993,,,0,StopArea:MANPLA_MONTH,1
+StopPoint:MANRES2,"Résistants","",47.995911,0.211297,,,0,StopArea:MANPLA_RESIS,1
+StopPoint:MANPAX2,"Paixhans","",47.996529,0.206416,,,0,StopArea:MANPLA_PAIXH,1
+StopPoint:MANVIA4,"Viaducs","",47.993679,0.204194,,,0,StopArea:MANPLA_VIADU,1
+StopPoint:MANYOU2,"Yourcenar","",47.993397,0.196105,,,0,StopArea:MANPLA_YOURC,1
+StopPoint:MANMAS1,"Mairie St-Georges-du-Bois","",47.972469,0.099303,,,0,StopArea:MANPLA_MAISG,0
+StopPoint:MANSTG2,"St-Georges","",47.983776,0.150507,,,0,StopArea:MANPLA_STGEO,1
+StopPoint:MANFLE1,"Folleray","",47.986057,0.163934,,,0,StopArea:MANPLA_FOLLE,1
+StopPoint:MANVCO1,"Vieux Colombier","",47.989826,0.167772,,,0,StopArea:MANPLA_VIEUX,1
+StopPoint:MANVCO2,"Vieux Colombier","",47.989185,0.167182,,,0,StopArea:MANPLA_VIEUX,1
+StopPoint:MANFLE2,"Folleray","",47.985962,0.163656,,,0,StopArea:MANPLA_FOLLE,1
+StopPoint:MANSTG4,"St-Georges","",47.983814,0.150278,,,0,StopArea:MANPLA_STGEO,1
+StopPoint:MANMAS2,"Mairie St-Georges-du-Bois","",47.972073,0.09873,,,0,StopArea:MANPLA_MAISG,0
+StopPoint:MANLDA1,"La Denisière","",48.026031,0.079267,,,0,StopArea:MANPLA_LADEN,1
+StopPoint:MANMRO1,"Maisons Rouges","",48.02235,0.098513,,,0,StopArea:MANPLA_MAISO,0
+StopPoint:MANUNI3,"Université","",48.017086,0.150795,,,0,StopArea:MANPLA_UNIVE,1
+StopPoint:MANSTD1,"Stade Asnillé","",47.996101,0.105124,,,0,StopArea:MANPLA_STASN,0
+StopPoint:MANLGR1,"La Grande Salle","",47.995441,0.10871,,,0,StopArea:MANPLA_LAGRA,0
+StopPoint:MANSTD2,"Stade Asnillé","",47.996117,0.105095,,,0,StopArea:MANPLA_STASN,0
+StopPoint:MANMPR1,"Mairie Pruillé","",47.993427,0.107741,,,0,StopArea:MANPLA_MAIPR,0
+StopPoint:MANSTL1,"St-Lazare","",47.9995,0.182051,,,0,StopArea:MANPLA_STLAZ,1
+StopPoint:MANSTL2,"St-Lazare","",48.000526,0.183082,,,0,StopArea:MANPLA_STLAZ,1
+StopPoint:MANMPR2,"Mairie Pruillé","",47.993988,0.107619,,,0,StopArea:MANPLA_MAIPR,0
+StopPoint:MANLGR2,"La Grande Salle","",47.995247,0.10858,,,0,StopArea:MANPLA_LAGRA,1
+StopPoint:MANMAL1,"Malpalu","",48.000725,0.219373,,,0,StopArea:MANPLA_MALPA,0
+StopPoint:MANBUF1,"Buffon","",48.002708,0.220275,,,0,StopArea:MANPLA_BUFFO,0
+StopPoint:MANGUR1,"Guéranger","",48.004074,0.21448,,,0,StopArea:MANPLA_GUERA,0
+StopPoint:MANBRG1,"Bergson","",48.002392,0.212805,,,0,StopArea:MANPLA_BERGS,0
+StopPoint:MANRDN1,"Rue du Nord","",48.005054,0.211053,,,0,StopArea:MANPLA_RUDNO,0
+StopPoint:MANCYU1,"Cyrus","",48.005623,0.213592,,,0,StopArea:MANPLA_CYRUS,0
+StopPoint:MANAIG1,"Aigles","",48.005581,0.216337,,,0,StopArea:MANPLA_AIGLE,0
+StopPoint:MANMUT1,"Mutuel","",48.008331,0.217337,,,0,StopArea:MANPLA_MUTUE,1
+StopPoint:MANGRA1,"Grand Bois","",48.011497,0.21957,,,0,StopArea:MANPLA_GBOIS,0
+StopPoint:MANBRD1,"Brindenier","",48.013531,0.21956,,,0,StopArea:MANPLA_BRIND,0
+StopPoint:MANMRD1,"Mordret","",48.01442,0.215497,,,0,StopArea:MANPLA_MORDR,0
+StopPoint:MANSTA1,"St-Aldric","",48.01207,0.21289,,,0,StopArea:MANPLA_STALD,0
+StopPoint:MANRAC1,"Rachel","",48.011009,0.210169,,,0,StopArea:MANPLA_RACHE,0
+StopPoint:MANQUI1,"Quinconces","",48.007343,0.200539,,,0,StopArea:MANPLA_JACOB,1
+StopPoint:MANMEN1,"Mendès-France","",48.006767,0.199664,,,0,StopArea:MANPLA_MENDE,1
+StopPoint:MANCMM1,"Comtes du Maine","",48.004848,0.199849,,,0,StopArea:MANPLA_COMTE,1
+StopPoint:MANREP3,"République","",48.003433,0.197306,,,0,StopArea:MANPLA_REPUB,1
+StopPoint:MANJAC2,"Jacobins","",48.009361,0.200296,,,0,StopArea:MANPLA_JACOB,1
+StopPoint:MANDLG1,"Delagenière","",48.013084,0.200279,,,0,StopArea:MANPLA_DELAG,0
+StopPoint:MANBAN4,"Banjan","",48.015957,0.203247,,,0,StopArea:MANPLA_BANJA,1
+StopPoint:MANPLJ4,"Paul-Louis Jacques","",48.018391,0.208914,,,0,StopArea:MANPLA_PAULL,0
+StopPoint:MANPLE2,"Plessis","",48.026794,0.206134,,,0,StopArea:MANPLA_PLESS,1
+StopPoint:MANCLS2,"Closeau","",48.028019,0.207251,,,0,StopArea:MANPLA_CLSEA,0
+StopPoint:MANVMO1,"Val Monnet","",48.036018,0.216419,,,0,StopArea:MANPLA_VAMON,1
+StopPoint:MANVIG2,"Vignes","",48.028118,0.210587,,,0,StopArea:MANPLA_VIGNE,0
+StopPoint:MANTRV1,"3 Vallées","",48.023457,0.214724,,,0,StopArea:MANPLA_TVALL,1
+StopPoint:MANEHP1,"EHPAD","",48.024261,0.210876,,,0,StopArea:MANPLA_EHPAD,0
+StopPoint:MANVIG1,"Vignes","",48.02792,0.210662,,,0,StopArea:MANPLA_VIGNE,0
+StopPoint:MANCLS1,"Closeau","",48.029358,0.20721,,,0,StopArea:MANPLA_CLSEA,0
+StopPoint:MANPLE1,"Plessis","",48.026741,0.206176,,,0,StopArea:MANPLA_PLESS,1
+StopPoint:MANPLJ3,"Paul-Louis Jacques","",48.018486,0.208307,,,0,StopArea:MANPLA_PAULL,0
+StopPoint:MANBAN3,"Banjan","",48.015873,0.203197,,,0,StopArea:MANPLA_BANJA,1
+StopPoint:MANDLG2,"Delagenière","",48.013489,0.200692,,,0,StopArea:MANPLA_DELAG,0
+StopPoint:MANJAC1,"Jacobins","",48.009315,0.200312,,,0,StopArea:MANPLA_JACOB,1
+StopPoint:MANRAC2,"Rachel","",48.011803,0.208947,,,0,StopArea:MANPLA_RACHE,0
+StopPoint:MANSTA2,"St-Aldric","",48.012005,0.212709,,,0,StopArea:MANPLA_STALD,0
+StopPoint:MANMRD2,"Mordret","",48.014271,0.215114,,,0,StopArea:MANPLA_MORDR,0
+StopPoint:MANBRD2,"Brindenier","",48.012806,0.219869,,,0,StopArea:MANPLA_BRIND,0
+StopPoint:MANGRA2,"Grand Bois","",48.011585,0.219485,,,0,StopArea:MANPLA_GBOIS,0
+StopPoint:MANMUT2,"Mutuel","",48.008392,0.217281,,,0,StopArea:MANPLA_MUTUE,0
+StopPoint:MANAIG2,"Aigles","",48.005566,0.216172,,,0,StopArea:MANPLA_AIGLE,0
+StopPoint:MANCYU2,"Cyrus","",48.005638,0.213576,,,0,StopArea:MANPLA_CYRUS,0
+StopPoint:MANRDN2,"Rue du Nord","",48.005135,0.211067,,,0,StopArea:MANPLA_RUDNO,0
+StopPoint:MANGUR2,"Guéranger","",48.00404,0.214802,,,0,StopArea:MANPLA_GUERA,0
+StopPoint:MANBUF2,"Buffon","",48.002968,0.22024,,,0,StopArea:MANPLA_BUFFO,0
+StopPoint:MANSAB1,"Sables","",48.023685,0.201794,,,0,StopArea:MANPLA_SABLE,0
+StopPoint:MANCRO1,"Les Croisettes","",48.043354,0.220355,,,0,StopArea:MANPLA_LESCR,0
+StopPoint:MANSAB2,"Sables","",48.023777,0.201562,,,0,StopArea:MANPLA_SABLE,0
+StopPoint:MANPCX1,"Petite Croix","",48.02536,0.17107,,,0,StopArea:MANPLA_PTCRX,1
+StopPoint:MANZIN3,"Zone Industrielle Nord","",48.024117,0.176351,,,0,StopArea:MANPLA_ZIN,1
+StopPoint:MANROC1,"La Rochelle","",48.020611,0.180464,,,0,StopArea:MANPLA_LAROC,1
+StopPoint:MANEPI1,"Épine","",48.019394,0.182123,,,0,StopArea:MANPLA_EPINE,1
+StopPoint:MANDUN1,"Dunkerque","",48.017696,0.183882,,,0,StopArea:MANPLA_DUNKE,1
+StopPoint:MANQUE3,"Colonel Quéru","",48.016373,0.183668,,,0,StopArea:MANPLA_COLON,0
+StopPoint:MANBVE1,"Bouvet","",48.014683,0.182825,,,0,StopArea:MANPLA_BOUVE,0
+StopPoint:MANTMO2,"Théodore Monod","",48.011948,0.181958,,,0,StopArea:MANPLA_THEOD,1
+StopPoint:MANPAV1,"Pavé","",48.009041,0.180844,,,0,StopArea:MANPLA_RPAVE,0
+StopPoint:MANFOL1,"Folie","",48.009266,0.178354,,,0,StopArea:MANPLA_FOLIE,0
+StopPoint:MANMRB1,"Marbot","",48.009617,0.174439,,,0,StopArea:MANPLA_MARBO,1
+StopPoint:MANCNE1,"Marcel Carné","",48.010025,0.165842,,,0,StopArea:MANPLA_MARCA,0
+StopPoint:MANMPA1,"Marcel Pagnol","",48.011482,0.16782,,,0,StopArea:MANPLA_MARPA,0
+StopPoint:MANGRE1,"Grémillon","",48.013546,0.163753,,,0,StopArea:MANPLA_GREMI,1
+StopPoint:MANRIB1,"Le Ribay","",48.013657,0.161429,,,0,StopArea:MANPLA_LERIB,1
+StopPoint:MANMEL1,"Méliès","",48.011257,0.161005,,,0,StopArea:MANPLA_MELIE,0
+StopPoint:MANPUI1,"Puits Fendu","",48.011547,0.158271,,,0,StopArea:MANPLA_PUITS,0
+StopPoint:MANVJA1,"Vaujoubert","",48.012264,0.152329,,,0,StopArea:MANPLA_VAUJO,1
+StopPoint:MANUNI1,"Université","",48.016891,0.152017,,,0,StopArea:MANPLA_UNIVE,1
+StopPoint:MANPRR1,"Prince Ringuet","",48.017555,0.146188,,,0,StopArea:MANPLA_PRIRI,1
+StopPoint:MANBLC1,"Bellechasse","",48.017727,0.141727,,,0,StopArea:MANPLA_BLCHA,1
+StopPoint:MANSCO1,"Scotto","",48.016056,0.14113,,,0,StopArea:MANPLA_SCOTT,1
+StopPoint:MANBEA1,"Beauvoir","",48.013809,0.134527,,,0,StopArea:MANPLA_BEAUV,1
+StopPoint:MANLGE1,"La Germinière","",48.011688,0.124573,,,0,StopArea:MANPLA_LAGER,0
+StopPoint:MANFON1,"Fontaines","",48.00753,0.132161,,,0,StopArea:MANPLA_FONTA,1
+StopPoint:MANFON2,"Fontaines","",48.007397,0.132194,,,0,StopArea:MANPLA_FONTA,1
+StopPoint:MANBEA2,"Beauvoir","",48.013912,0.134723,,,0,StopArea:MANPLA_BEAUV,1
+StopPoint:MANSCO2,"Scotto","",48.016396,0.141361,,,0,StopArea:MANPLA_SCOTT,1
+StopPoint:MANBLC2,"Bellechasse","",48.018013,0.14243,,,0,StopArea:MANPLA_BLCHA,1
+StopPoint:MANPRR2,"Prince Ringuet","",48.017612,0.145186,,,0,StopArea:MANPLA_PRIRI,1
+StopPoint:MANUNI2,"Université","",48.016888,0.151896,,,0,StopArea:MANPLA_UNIVE,1
+StopPoint:MANVJA2,"Vaujoubert","",48.011856,0.153177,,,0,StopArea:MANPLA_VAUJO,1
+StopPoint:MANPUI2,"Puits Fendu","",48.011444,0.158436,,,0,StopArea:MANPLA_PUITS,0
+StopPoint:MANMEL2,"Méliès","",48.010857,0.16074,,,0,StopArea:MANPLA_MELIE,1
+StopPoint:MANRIB2,"Le Ribay","",48.013569,0.161593,,,0,StopArea:MANPLA_LERIB,1
+StopPoint:MANGRE2,"Grémillon","",48.013607,0.163562,,,0,StopArea:MANPLA_GREMI,0
+StopPoint:MANMPA2,"Marcel Pagnol","",48.010693,0.167517,,,0,StopArea:MANPLA_MARPA,0
+StopPoint:MANCNE2,"Marcel Carné","",48.009987,0.165883,,,0,StopArea:MANPLA_MARCA,0
+StopPoint:MANMRB2,"Marbot","",48.009773,0.174258,,,0,StopArea:MANPLA_MARBO,0
+StopPoint:MANFOL2,"Folie","",48.009319,0.178272,,,0,StopArea:MANPLA_FOLIE,0
+StopPoint:MANPAV2,"Pavé","",48.008888,0.180903,,,0,StopArea:MANPLA_RPAVE,0
+StopPoint:MANTMO1,"Théodore Monod","",48.011497,0.181842,,,0,StopArea:MANPLA_THEOD,1
+StopPoint:MANBVE2,"Bouvet","",48.013252,0.182428,,,0,StopArea:MANPLA_BOUVE,0
+StopPoint:MANDUN2,"Dunkerque","",48.018291,0.183482,,,0,StopArea:MANPLA_DUNKE,1
+StopPoint:MANEPI2,"Épine","",48.019825,0.18165,,,0,StopArea:MANPLA_EPINE,1
+StopPoint:MANROC2,"La Rochelle","",48.020859,0.180199,,,0,StopArea:MANPLA_LAROC,1
+StopPoint:MANCHN1,"Cheverny","",48.023483,0.176082,,,0,StopArea:MANPLA_CHEVE,1
+StopPoint:MANPCX2,"Petite Croix","",48.02578,0.170369,,,0,StopArea:MANPLA_PTCRX,1
+StopPoint:MANFAM1,"Family Village","",47.943878,0.239955,,,0,StopArea:MANPLA_FAMIL,0
+StopPoint:MANFAM2,"Family Village","",47.94405,0.240056,,,0,StopArea:MANPLA_FAMIL,1
+StopPoint:MANTIL1,"Tilleuls","",47.941273,0.263436,,,0,StopArea:MANPLA_TILLE,1
+StopPoint:MANGPA1,"Gabriel Paillereau","",47.973152,0.147652,,,0,StopArea:MANPLA_GABRI,1
+StopPoint:MANDEB1,"Debussy","",47.971268,0.160564,,,0,StopArea:MANPLA_DEBUS,1
+StopPoint:MANCHA1,"Chabrier","",47.971687,0.163615,,,0,StopArea:MANPLA_CHABR,1
+StopPoint:MANCHO1,"Chaoué","",47.969601,0.165643,,,0,StopArea:MANPLA_CHAOU,1
+StopPoint:MANMSS1,"Massenet","",47.968704,0.162907,,,0,StopArea:MANPLA_MASSE,1
+StopPoint:MANPIS1,"Piscine","",47.961754,0.165015,,,0,StopArea:MANPLA_PISCI,0
+StopPoint:MANLM04,"Lycée Malraux","",47.956333,0.165854,,,0,StopArea:MANPLA_LYCMA,1
+StopPoint:MANHTM1,"Les Hautes Metairies","",47.95219,0.165998,,,0,StopArea:MANPLA_LEHMA,1
+StopPoint:MANBTG1,"Bretagne","",47.953072,0.168479,,,0,StopArea:MANPLA_BRETA,0
+StopPoint:MANVEN1,"Vendée","",47.955467,0.16905,,,0,StopArea:MANPLA_VENDE,0
+StopPoint:MANLGD1,"Languedoc","",47.955719,0.171544,,,0,StopArea:MANPLA_LANGU,0
+StopPoint:MANFLA1,"Flandres","",47.954044,0.172283,,,0,StopArea:MANPLA_FLAND,1
+StopPoint:MANGAS1,"Gascogne","",47.952091,0.170876,,,0,StopArea:MANPLA_GASCO,0
+StopPoint:MANALL1,"Allonnes","",47.952354,0.165629,,,0,StopArea:MANPLA_ALLON,1
+StopPoint:MANSAV1,"Savoie","",47.95462,0.165992,,,0,StopArea:MANPLA_SAVOI,1
+StopPoint:MANLM03,"Lycée Malraux","",47.956497,0.165928,,,0,StopArea:MANPLA_LYCMA,1
+StopPoint:MANPIS2,"Piscine","",47.961906,0.164969,,,0,StopArea:MANPLA_PISCI,0
+StopPoint:MANMSS2,"Massenet","",47.968716,0.163014,,,0,StopArea:MANPLA_MASSE,1
+StopPoint:MANCHO2,"Chaoué","",47.969692,0.165653,,,0,StopArea:MANPLA_CHAOU,1
+StopPoint:MANCHA2,"Chabrier","",47.971649,0.163616,,,0,StopArea:MANPLA_CHABR,1
+StopPoint:MANLEO2,"Léo Delibes","",47.971443,0.159284,,,0,StopArea:MANPLA_LEODE,1
+StopPoint:MANGPA2,"Gabriel Paillereau","",47.973145,0.147746,,,0,StopArea:MANPLA_GABRI,1
+StopPoint:MANBER2,"Berardière","",47.976498,0.149014,,,0,StopArea:MANPLA_BERAR,1
+StopPoint:MANREP2,"République","",48.002884,0.197851,,,0,StopArea:MANPLA_REPUB,1
+StopPoint:MANDEG1,"De Gaulle","",48.004128,0.198913,,,0,StopArea:MANPLA_DEGAU,1
+StopPoint:MANERP1,"Erpell","",48.002735,0.205002,,,0,StopArea:MANPLA_ERPEL,0
+StopPoint:MANFLO1,"Flore","",48.001671,0.20916,,,0,StopArea:MANPLA_FLORE,1
+StopPoint:MANMRI1,"Mariette","",47.998714,0.213434,,,0,StopArea:MANPLA_MARIE,0
+StopPoint:MANCOT1,"Le Côteau","",47.997478,0.227638,,,0,StopArea:MANPLA_LECOT,0
+StopPoint:MANVGT1,"Vaugauthier","",47.997711,0.230014,,,0,StopArea:MANPLA_VAUGA,0
+StopPoint:MANBEN1,"Béner","",47.999348,0.235525,,,0,StopArea:MANPLA_BENER,1
+StopPoint:MANHUI1,"Logis de l'Huisne","",47.999859,0.240316,,,0,StopArea:MANPLA_HUISN,1
+StopPoint:MANLUA1,"Le Luard","",48.009575,0.263658,,,0,StopArea:MANPLA_LELUA,0
+StopPoint:MANCIY1,"Cimetière Yvré-l'Évêque","",48.012375,0.267476,,,0,StopArea:MANPLA_CIMET,1
+StopPoint:MANGBO2,"Guy Bouriat","",48.013866,0.272262,,,0,StopArea:MANPLA_GUYBO,1
+StopPoint:MANMIC1,"Louise Michel","",48.024155,0.329423,,,0,StopArea:MANPLA_LOUMI,1
+StopPoint:MANVAU1,"Vaudrou","",48.027115,0.324388,,,0,StopArea:MANPLA_VAUDR,1
+StopPoint:MANVDU1,"Verdun","",48.026043,0.324898,,,0,StopArea:MANPLA_VERDU,1
+StopPoint:MANMIC2,"Louise Michel","",48.024082,0.32995,,,0,StopArea:MANPLA_LOUMI,1
+StopPoint:MANCHS1,"La Chesnaie","",48.023972,0.336281,,,0,StopArea:MANPLA_LACHE,1
+StopPoint:MANSHU1,"St-Hubert","",48.015591,0.335446,,,0,StopArea:MANPLA_STHUB,1
+StopPoint:MANFOR1,"La Forêt","",48.015915,0.332323,,,0,StopArea:MANPLA_LAFOR,1
+StopPoint:MANCHP1,"Champagné","",48.019394,0.335865,,,0,StopArea:MANPLA_CHAMP,1
+StopPoint:MANCHS2,"La Chesnaie","",48.02409,0.33637,,,0,StopArea:MANPLA_LACHE,1
+StopPoint:MANJPR2,"Jacques Prévert","",48.023338,0.332403,,,0,StopArea:MANPLA_JACQU,1
+StopPoint:MANGOU2,"Léopold Gouloumes","",48.021046,0.330975,,,0,StopArea:MANPLA_LEOPO,1
+StopPoint:MANGBO1,"Guy Bouriat","",48.013603,0.270633,,,0,StopArea:MANPLA_GUYBO,1
+StopPoint:MANCIY2,"Cimetière Yvré-l'Évêque","",48.011871,0.266276,,,0,StopArea:MANPLA_CIMET,1
+StopPoint:MANLUA2,"Le Luard","",48.009518,0.26354,,,0,StopArea:MANPLA_LELUA,1
+StopPoint:MANHUI2,"Logis de l'Huisne","",47.999908,0.240127,,,0,StopArea:MANPLA_HUISN,1
+StopPoint:MANBEN2,"Béner","",47.999279,0.236693,,,0,StopArea:MANPLA_BENER,1
+StopPoint:MANVGT2,"Vaugauthier","",47.997959,0.230379,,,0,StopArea:MANPLA_VAUGA,1
+StopPoint:MANCOT2,"Le Côteau","",47.997597,0.22707,,,0,StopArea:MANPLA_LECOT,0
+StopPoint:MANBOL2,"Bollée","",47.997295,0.222364,,,0,StopArea:MANPLA_BOLLE,0
+StopPoint:MANSEC2,"Sécurité Sociale","",47.997181,0.218616,,,0,StopArea:MANPLA_SECUR,1
+StopPoint:MANMRI2,"Mariette","",47.999012,0.213409,,,0,StopArea:MANPLA_MARIE,0
+StopPoint:MANFLO2,"Flore","",48.001839,0.208966,,,0,StopArea:MANPLA_FLORE,1
+StopPoint:MANERP2,"Erpell","",48.002682,0.20546,,,0,StopArea:MANPLA_ERPEL,1
+StopPoint:MANCMM2,"Comtes du Maine","",48.004097,0.200617,,,0,StopArea:MANPLA_COMTE,1
+StopPoint:MANCOR1,"Cormier","",47.940399,0.232703,,,0,StopArea:MANPLA_CORMI,0
+StopPoint:MANCOR2,"Cormier","",47.940334,0.232974,,,0,StopArea:MANPLA_CORMI,1
+StopPoint:MANREP1,"République","",48.002663,0.197967,,,0,StopArea:MANPLA_REPUB,1
+StopPoint:MANMNE1,"Maine","",48.014587,0.267256,,,0,StopArea:MANPLA_MAINE,1
+StopPoint:MANPIV1,"Pivoines","",48.013622,0.265631,,,0,StopArea:MANPLA_PIVOI,1
+StopPoint:MANYVR1,"Yvré-l'Évêque","",48.01878,0.270872,,,0,StopArea:MANPLA_YVREL,1
+StopPoint:MANPIV2,"Pivoines","",48.013657,0.265656,,,0,StopArea:MANPLA_PIVOI,1
+StopPoint:MANMNE2,"Maine","",48.014915,0.268114,,,0,StopArea:MANPLA_MAINE,1
+StopPoint:MANZAM1,"Zamenhof","",48.017761,0.217883,,,0,StopArea:MANPLA_ZAMEN,1
+StopPoint:MANSTM1,"St-Martin","",47.985718,0.209495,,,0,StopArea:MANPLA_STMAR,1
+StopPoint:MANPTL1,"Pontlieue - Geneslay","",47.98243,0.210164,,,0,StopArea:MANPLA_PONTL,1
+StopPoint:MANSAP1,"Sapins","",47.979923,0.208965,,,0,StopArea:MANPLA_SAPIN,1
+StopPoint:MANJMO1,"Jean Moulin","",47.977455,0.207765,,,0,StopArea:MANPLA_JMOUL,1
+StopPoint:MANCIJ1,"Cité Joly","",47.975502,0.206866,,,0,StopArea:MANPLA_CITEJ,1
+StopPoint:MANRON1,"Ronceray","",47.973824,0.206063,,,0,StopArea:MANPLA_RONCE,1
+StopPoint:MANMRC1,"Maroc","",47.971401,0.204928,,,0,StopArea:MANPLA_MAROC,1
+StopPoint:MANCHT1,"Château d'Eau","",47.969913,0.204225,,,0,StopArea:MANPLA_CHEAU,1
+StopPoint:MANWEI1,"Lazare Weiller","",47.967411,0.203053,,,0,StopArea:MANPLA_LAZAR,1
+StopPoint:MANVED1,"Jules Vedrines","",47.964851,0.201871,,,0,StopArea:MANPLA_JVEDR,1
+StopPoint:MANOAI3,"Oasis - Centre des Expositions","",47.96064,0.199912,,,0,StopArea:MANPLA_OASIS,0
+StopPoint:MANACT1,"Actisud","",47.950165,0.195154,,,0,StopArea:MANPLA_ACTIS,1
+StopPoint:MANAER1,"Aérodrome","",47.947823,0.194057,,,0,StopArea:MANPLA_AEROD,1
+StopPoint:MANTRN1,"Trintignant","",47.944557,0.190681,,,0,StopArea:MANPLA_TRINT,1
+StopPoint:MANPOM1,"Pommiers","",47.94511,0.187847,,,0,StopArea:MANPLA_POMMI,1
+StopPoint:MANLGA1,"La Gautrie","",47.945663,0.184303,,,0,StopArea:MANPLA_LAGAU,0
+StopPoint:MANVDS1,"Val de Sarthe","",47.919872,0.180911,,,0,StopArea:MANPLA_VADES,0
+StopPoint:MANPOM2,"Pommiers","",47.945065,0.187942,,,0,StopArea:MANPLA_POMMI,1
+StopPoint:MANTRN2,"Trintignant","",47.944241,0.191056,,,0,StopArea:MANPLA_TRINT,1
+StopPoint:MANAER2,"Aérodrome","",47.947933,0.194159,,,0,StopArea:MANPLA_AEROD,1
+StopPoint:MANACT2,"Actisud","",47.950798,0.195463,,,0,StopArea:MANPLA_ACTIS,1
+StopPoint:MANOAI2,"Oasis - Centre des Expositions","",47.960625,0.200421,,,0,StopArea:MANPLA_OASIS,1
+StopPoint:MANVED2,"Jules Vedrines","",47.965309,0.202214,,,0,StopArea:MANPLA_JVEDR,1
+StopPoint:MANWEI2,"Lazare Weiller","",47.96743,0.2032,,,0,StopArea:MANPLA_LAZAR,1
+StopPoint:MANCHT2,"Château d'Eau","",47.969536,0.204173,,,0,StopArea:MANPLA_CHEAU,1
+StopPoint:MANMRC2,"Maroc","",47.971161,0.204938,,,0,StopArea:MANPLA_MAROC,1
+StopPoint:MANRON2,"Ronceray","",47.973972,0.206298,,,0,StopArea:MANPLA_RONCE,1
+StopPoint:MANCIJ2,"Cité Joly","",47.975887,0.207199,,,0,StopArea:MANPLA_CITEJ,1
+StopPoint:MANJMO2,"Jean Moulin","",47.978077,0.208276,,,0,StopArea:MANPLA_JMOUL,1
+StopPoint:MANSAP2,"Sapins","",47.980198,0.209236,,,0,StopArea:MANPLA_SAPIN,1
+StopPoint:MANPTL2,"Pontlieue - Geneslay","",47.982666,0.210409,,,0,StopArea:MANPLA_PONTL,1
+StopPoint:MANSTM2,"St-Martin","",47.985924,0.20942,,,0,StopArea:MANPLA_STMAR,1
+StopPoint:MANHOR1,"Les Horizons","",48.057247,0.166525,,,0,StopArea:MANPLA_LESHO,1
+StopPoint:MANGRU1,"Grues Rouges","",48.054882,0.167549,,,0,StopArea:MANPLA_GRUES,1
+StopPoint:MANCGR1,"Cinémas CGR","",48.048214,0.172814,,,0,StopArea:MANPLA_CINEM,1
+StopPoint:MANBDO1,"Bourdonnière","",48.046547,0.173647,,,0,StopArea:MANPLA_BOURD,1
+StopPoint:MANLEA2,"Léard","",48.02615,0.181156,,,0,StopArea:MANPLA_LEARD,1
+StopPoint:MANLPL1,"Les Palis","",48.022999,0.18266,,,0,StopArea:MANPLA_LESPA,1
+StopPoint:MANMSA1,"Montsaulnière","",48.020992,0.183586,,,0,StopArea:MANPLA_MONTS,1
+StopPoint:MANSLI1,"St-Liboire","",48.017826,0.18511,,,0,StopArea:MANPLA_STLIB,0
+StopPoint:MANROY1,"Chasse Royale","",48.015167,0.186278,,,0,StopArea:MANPLA_CHASS,1
+StopPoint:MANEPE1,"Éperon","",48.00539,0.195135,,,0,StopArea:MANPLA_EPERO,1
+StopPoint:MANMLM1,"Mairie Le Mans","",48.006817,0.197289,,,0,StopArea:MANPLA_MAILE,1
+StopPoint:MANCAL1,"La Calandre","",48.010288,0.193944,,,0,StopArea:MANPLA_LACAL,1
+StopPoint:MANSLI2,"St-Liboire","",48.017796,0.185313,,,0,StopArea:MANPLA_STLIB,0
+StopPoint:MANMSA2,"Montsaulnière","",48.02087,0.183833,,,0,StopArea:MANPLA_MONTS,1
+StopPoint:MANLPL2,"Les Palis","",48.023228,0.182731,,,0,StopArea:MANPLA_LESPA,1
+StopPoint:MANLEA1,"Léard","",48.026012,0.181413,,,0,StopArea:MANPLA_LEARD,1
+StopPoint:MANBDO2,"Bourdonnière","",48.046314,0.173227,,,0,StopArea:MANPLA_BOURD,1
+StopPoint:MANCGR2,"Cinémas CGR","",48.048363,0.17266,,,0,StopArea:MANPLA_CINEM,1
+StopPoint:MANGRU2,"Grues Rouges","",48.055054,0.167662,,,0,StopArea:MANPLA_GRUES,1
+StopPoint:MANHOR2,"Les Horizons","",48.057594,0.166377,,,0,StopArea:MANPLA_LESHO,1
+StopPoint:MANGAL1,"Gallière","",48.02702,0.182455,,,0,StopArea:MANPLA_GALLI,0
+StopPoint:MANFLR1,"Florey","",48.025169,0.182732,,,0,StopArea:MANPLA_FLREY,0
+StopPoint:MANRCT1,"Richet","",48.024639,0.184671,,,0,StopArea:MANPLA_RICHE,0
+StopPoint:MANMEV1,"Moulin l'Évêque","",48.024208,0.187263,,,0,StopArea:MANPLA_MOULI,0
+StopPoint:MANLAU1,"Lausanne","",48.022476,0.187495,,,0,StopArea:MANPLA_LAUSA,0
+StopPoint:MANBNE1,"Berne","",48.021412,0.185728,,,0,StopArea:MANPLA_BERNE,1
+StopPoint:MANRCH1,"Richepin","",48.01907,0.18699,,,0,StopArea:MANPLA_RCHPI,1
+StopPoint:MANMTG1,"Montagne","",48.016891,0.188514,,,0,StopArea:MANPLA_MOTAG,1
+StopPoint:MANBSS2,"Boussinière","",48.013645,0.189504,,,0,StopArea:MANPLA_BOUSS,0
+StopPoint:MANMLM2,"Mairie Le Mans","",48.006786,0.197143,,,0,StopArea:MANPLA_MAILE,1
+StopPoint:MANBSS1,"Boussinière","",48.01366,0.190295,,,0,StopArea:MANPLA_BOUSS,1
+StopPoint:MANCIO2,"Cimetière Ouest","",48.017441,0.192433,,,0,StopArea:MANPLA_CIMOU,1
+StopPoint:MANETA1,"Étamines","",48.017559,0.188594,,,0,StopArea:MANPLA_ETAMI,0
+StopPoint:MANRCH2,"Richepin","",48.019035,0.187086,,,0,StopArea:MANPLA_RCHPI,1
+StopPoint:MANBAL1,"Bâle","",48.021297,0.187355,,,0,StopArea:MANPLA_RBALE,0
+StopPoint:MANLAU2,"Lausanne","",48.023079,0.187457,,,0,StopArea:MANPLA_LAUSA,0
+StopPoint:MANMEV2,"Moulin l'Évêque","",48.024246,0.187356,,,0,StopArea:MANPLA_MOULI,0
+StopPoint:MANRCT2,"Richet","",48.024658,0.184697,,,0,StopArea:MANPLA_RICHE,0
+StopPoint:MANFLR2,"Florey","",48.025234,0.182743,,,0,StopArea:MANPLA_FLREY,0
+StopPoint:MANLAF1,"Lafayette","",48.006824,0.189862,,,0,StopArea:MANPLA_LAFAY,1
+StopPoint:MANLIB1,"Libération","",48.00462,0.187352,,,0,StopArea:MANPLA_LIBER,1
+StopPoint:MANRIC1,"Richedoué","",48.003666,0.186358,,,0,StopArea:MANPLA_RCHED,1
+StopPoint:MANFRA1,"Anatole France","",48.00106,0.184226,,,0,StopArea:MANPLA_ANATO,0
+StopPoint:MANEDF1,"EDF - GDF","",48.001083,0.187335,,,0,StopArea:MANPLA_EDFGD,0
+StopPoint:MANGR03,"Gares","",47.99614,0.192429,,,0,StopArea:MANPLA_GAREN,1
+StopPoint:MANBBI1,"Bobillot","",47.992508,0.194613,,,0,StopArea:MANPLA_BOBIL,1
+StopPoint:MANMAC1,"Jean Macé","",47.990211,0.19346,,,0,StopArea:MANPLA_JMACE,0
+StopPoint:MANGAU1,"Jean-Michel Gaudré","",47.988976,0.190401,,,0,StopArea:MANPLA_JEANM,1
+StopPoint:MANBAT1,"Batignolles","",47.98774,0.188147,,,0,StopArea:MANPLA_BATIG,1
+StopPoint:MANFUS1,"Fusains","",47.984997,0.186409,,,0,StopArea:MANPLA_FUSAI,1
+StopPoint:MANLAP1,"La Pointe","",47.984192,0.186616,,,0,StopArea:MANPLA_LAPOI,1
+StopPoint:MANPLY1,"Polygone","",47.984142,0.191281,,,0,StopArea:MANPLA_POLYG,0
+StopPoint:MANBEU1,"Bleuets","",47.983898,0.194655,,,0,StopArea:MANPLA_BLEUE,0
+StopPoint:MANFRO1,"Fromendière","",47.984024,0.199567,,,0,StopArea:MANPLA_FROME,1
+StopPoint:MANBOB1,"Bobet","",47.983192,0.204318,,,0,StopArea:MANPLA_BOBET,1
+StopPoint:MANCMA1,"Champ de Mars","",47.982273,0.207155,,,0,StopArea:MANPLA_CHMAR,1
+StopPoint:MANPJM1,"Pontlieue - Jean Mac","",47.982918,0.21139,,,0,StopArea:MANPLA_PONTL,1
+StopPoint:MANCUG3,"Cugnot","",47.981552,0.218333,,,0,StopArea:MANPLA_CUGNO,1
+StopPoint:MANARR1,"Arromanches","",47.984375,0.222708,,,0,StopArea:MANPLA_ARROM,1
+StopPoint:MANDIE1,"Diesel","",47.982628,0.225766,,,0,StopArea:MANPLA_DIESE,0
+StopPoint:MANDIE2,"Diesel","",47.98296,0.225726,,,0,StopArea:MANPLA_DIESE,0
+StopPoint:MANARR2,"Arromanches","",47.984127,0.222128,,,0,StopArea:MANPLA_ARROM,1
+StopPoint:MANCUG2,"Cugnot","",47.98138,0.217294,,,0,StopArea:MANPLA_CUGNO,1
+StopPoint:MANMRN1,"Marne","",47.982548,0.213321,,,0,StopArea:MANPLA_MARNE,1
+StopPoint:MANPJM2,"Pontlieue - Jean Mac","",47.98291,0.211886,,,0,StopArea:MANPLA_PONTL,1
+StopPoint:MANCMA2,"Champ de Mars","",47.982494,0.206905,,,0,StopArea:MANPLA_CHMAR,1
+StopPoint:MANBOB2,"Bobet","",47.983231,0.204289,,,0,StopArea:MANPLA_BOBET,1
+StopPoint:MANPIE1,"Pied Sec","",47.984333,0.201618,,,0,StopArea:MANPLA_PIEDS,0
+StopPoint:MANBRB1,"Barbusse","",47.986,0.196821,,,0,StopArea:MANPLA_BARBU,0
+StopPoint:MANLIL1,"Lilas","",47.985031,0.195587,,,0,StopArea:MANPLA_LILAS,0
+StopPoint:MANBEU2,"Bleuets","",47.983894,0.194923,,,0,StopArea:MANPLA_BLEUE,0
+StopPoint:MANPLY2,"Polygone","",47.984596,0.19007,,,0,StopArea:MANPLA_POLYG,0
+StopPoint:MANBAT2,"Batignolles","",47.987583,0.188046,,,0,StopArea:MANPLA_BATIG,0
+StopPoint:MANGAU2,"Jean-Michel Gaudré","",47.989315,0.191232,,,0,StopArea:MANPLA_JEANM,0
+StopPoint:MANMAC2,"Jean Macé","",47.990185,0.193542,,,0,StopArea:MANPLA_JMACE,0
+StopPoint:MANBBI2,"Bobillot","",47.992588,0.194664,,,0,StopArea:MANPLA_BOBIL,1
+StopPoint:MANGAR2,"Gares","",47.995781,0.193636,,,0,StopArea:MANPLA_GAREN,1
+StopPoint:MANFRA2,"Anatole France","",48.001675,0.184389,,,0,StopArea:MANPLA_ANATO,1
+StopPoint:MANLIB2,"Libération","",48.004475,0.187304,,,0,StopArea:MANPLA_LIBER,1
+StopPoint:MANVER2,"Le Verger","",48.031441,0.2049,,,0,StopArea:MANPLA_LEVER,1
+StopPoint:MANCCT2,"Jean Cocteau","",48.02795,0.202453,,,0,StopArea:MANPLA_JEANC,1
+StopPoint:MANLPX2,"La Paix","",48.024216,0.202269,,,0,StopArea:MANPLA_LAPAI,1
+StopPoint:MANEGL2,"Église Coulaines","",48.024235,0.204829,,,0,StopArea:MANPLA_EGCOU,1
+StopPoint:MANEGC1,"Église Coulaines","",48.024357,0.205629,,,0,StopArea:MANPLA_EGCOU,1
+StopPoint:MANEUR2,"Europe","",48.022049,0.206782,,,0,StopArea:MANPLA_EUROP,1
+StopPoint:MANCOP2,"Copenhague","",48.019958,0.20629,,,0,StopArea:MANPLA_COPEN,0
+StopPoint:MANPLJ1,"Paul-Louis Jacques","",48.017712,0.206769,,,0,StopArea:MANPLA_PAULL,0
+StopPoint:MANTOL1,"Léon Tolstoï","",48.019444,0.209609,,,0,StopArea:MANPLA_LEONT,1
+StopPoint:MANBEL3,"Bellevue - Hauts de Coulaines","",48.020073,0.211944,,,0,StopArea:MANPLA_BELLE,1
+StopPoint:MANZAM3,"Zamenhof","",48.016933,0.219029,,,0,StopArea:MANPLA_ZAMEN,1
+StopPoint:MANBRN1,"Tristan Bernard","",48.013416,0.222415,,,0,StopArea:MANPLA_TRIST,1
+StopPoint:MANBRZ1,"Savorgnan de Brazza","",48.012035,0.22373,,,0,StopArea:MANPLA_SAVOR,1
+StopPoint:MANPDX1,"Perdrix","",48.010117,0.225563,,,0,StopArea:MANPLA_PERDR,1
+StopPoint:MANARD1,"Ardoise","",48.009048,0.226746,,,0,StopArea:MANPLA_ARDOI,1
+StopPoint:MANGAZ2,"Gazonfier","",48.006039,0.227831,,,0,StopArea:MANPLA_GAZON,0
+StopPoint:MANCHB2,"Charbonnière","",48.003044,0.230391,,,0,StopArea:MANPLA_CHARB,1
+StopPoint:MANDEV2,"Alfred de Vigny","",48.002037,0.227965,,,0,StopArea:MANPLA_ALFRE,1
+StopPoint:MANPRU2,"Sully Prudhomme","",48.001579,0.230972,,,0,StopArea:MANPLA_SULLY,1
+StopPoint:MANAPO2,"Guillaume Apollinaire","",47.999966,0.231278,,,0,StopArea:MANPLA_GUILL,1
+StopPoint:MANMRV2,"Marivaux","",47.999439,0.227613,,,0,StopArea:MANPLA_MARIV,1
+StopPoint:MANBOL1,"Bollée","",47.996552,0.222997,,,0,StopArea:MANPLA_BOLLE,0
+StopPoint:MANPYR1,"Pyrénées","",47.992676,0.225203,,,0,StopArea:MANPLA_PYREN,1
+StopPoint:MANESC1,"ESCRA","",47.980671,0.233857,,,0,StopArea:MANPLA_ESCRA,1
+StopPoint:MANPLT1,"Platanes","",47.978413,0.234429,,,0,StopArea:MANPLA_PLATA,1
+StopPoint:MANGRN1,"Grenoble","",47.97612,0.234065,,,0,StopArea:MANPLA_GRENO,1
+StopPoint:MANCAR1,"Carcassonne","",47.974575,0.233189,,,0,StopArea:MANPLA_CARCA,1
+StopPoint:MANRRU1,"Rue de Ruaudin","",47.972851,0.231235,,,0,StopArea:MANPLA_RUEDE,1
+StopPoint:MANCON1,"Contrexeville","",47.970436,0.227018,,,0,StopArea:MANPLA_CONTR,1
+StopPoint:MANLGU1,"Léon Guet","",47.967667,0.223056,,,0,StopArea:MANPLA_LEONG,0
+StopPoint:MANYOK1,"Yokel","",47.966095,0.220855,,,0,StopArea:MANPLA_YOKEL,0
+StopPoint:MANGUT1,"Guetteloup","",47.96545,0.222957,,,0,StopArea:MANPLA_GUETT,1
+StopPoint:MANLGU2,"Léon Guet","",47.968018,0.223658,,,0,StopArea:MANPLA_LEONG,0
+StopPoint:MANCON2,"Contrexeville","",47.970646,0.227317,,,0,StopArea:MANPLA_CONTR,1
+StopPoint:MANRRU2,"Rue de Ruaudin","",47.972546,0.230885,,,0,StopArea:MANPLA_RUEDE,1
+StopPoint:MANCAR2,"Carcassonne","",47.974194,0.232909,,,0,StopArea:MANPLA_CARCA,1
+StopPoint:MANPLT2,"Platanes","",47.979008,0.234499,,,0,StopArea:MANPLA_PLATA,1
+StopPoint:MANESC2,"ESCRA","",47.980999,0.233589,,,0,StopArea:MANPLA_ESCRA,1
+StopPoint:MANPYR2,"Pyrénées","",47.992771,0.2254,,,0,StopArea:MANPLA_PYREN,1
+StopPoint:MANBOL3,"Bollée","",47.997887,0.223306,,,0,StopArea:MANPLA_BOLLE,1
+StopPoint:MANMRV1,"Marivaux","",47.999367,0.227991,,,0,StopArea:MANPLA_MARIV,1
+StopPoint:MANAPO1,"Guillaume Apollinaire","",47.999973,0.231653,,,0,StopArea:MANPLA_GUILL,1
+StopPoint:MANPRU1,"Sully Prudhomme","",48.001648,0.230902,,,0,StopArea:MANPLA_SULLY,1
+StopPoint:MANDEV1,"Alfred de Vigny","",48.002182,0.227557,,,0,StopArea:MANPLA_ALFRE,1
+StopPoint:MANCHB1,"Charbonnière","",48.003082,0.230604,,,0,StopArea:MANPLA_CHARB,1
+StopPoint:MANGAZ3,"Gazonfier","",48.005787,0.227909,,,0,StopArea:MANPLA_GAZON,0
+StopPoint:MANARD3,"Ardoise","",48.008816,0.227248,,,0,StopArea:MANPLA_ARDOI,1
+StopPoint:MANPDX2,"Perdrix","",48.010529,0.225346,,,0,StopArea:MANPLA_PERDR,1
+StopPoint:MANBRZ2,"Savorgnan de Brazza","",48.011932,0.223936,,,0,StopArea:MANPLA_SAVOR,0
+StopPoint:MANBRN2,"Tristan Bernard","",48.013187,0.222692,,,0,StopArea:MANPLA_TRIST,1
+StopPoint:MANZAM4,"Zamenhof","",48.017178,0.218979,,,0,StopArea:MANPLA_ZAMEN,1
+StopPoint:MANPMA1,"Parc Manceau","",48.03244,0.181455,,,0,StopArea:MANPLA_PARCM,1
+StopPoint:MANSAU1,"Charles Sauria","",48.034637,0.179528,,,0,StopArea:MANPLA_CHARL,1
+StopPoint:MANLVE3,"Les Verts","",48.038189,0.176924,,,0,StopArea:MANPLA_LESVE,1
+StopPoint:MANDLA2,"Émile Delahaye","",48.038315,0.17263,,,0,StopArea:MANPLA_EMDEL,1
+StopPoint:MANDEL1,"Louis Delage","",48.035713,0.173529,,,0,StopArea:MANPLA_LOUIS,1
+StopPoint:MANPAN1,"Panhard","",48.032375,0.174323,,,0,StopArea:MANPLA_PANHA,1
+StopPoint:MANCTR1,"Citroën","",48.029873,0.171837,,,0,StopArea:MANPLA_CITRO,0
+StopPoint:MANFOU1,"Foucault","",48.026249,0.175392,,,0,StopArea:MANPLA_FUCAU,0
+StopPoint:MANZIN1,"Zone Industrielle Nord","",48.024372,0.177119,,,0,StopArea:MANPLA_ZIN,0
+StopPoint:MANEDI1,"Thomas Edison","",48.02499,0.179789,,,0,StopArea:MANPLA_THOMA,1
+StopPoint:MANBCI1,"Blanchisserie","",48.01503,0.197358,,,0,StopArea:MANPLA_BLANC,1
+StopPoint:MANBPA1,"Bon Pasteur","",48.013077,0.197719,,,0,StopArea:MANPLA_BONPA,1
+StopPoint:MANSCH1,"Ledru-Rollin","",48.010288,0.19495,,,0,StopArea:MANPLA_LEDRU,0
+StopPoint:MANPRF1,"Préfecture","",48.001492,0.197492,,,0,StopArea:MANPLA_PREFE,1
+StopPoint:MANPDG2,"Palais des Congrès","",47.999794,0.192106,,,0,StopArea:MANPLA_PALAI,1
+StopPoint:MANGAR1,"Gares","",47.996075,0.192378,,,0,StopArea:MANPLA_GAREN,1
+StopPoint:MANCRE2,"Carel Mutualité","",47.991138,0.198515,,,0,StopArea:MANPLA_CAREL,1
+StopPoint:MANMIR2,"Miroir","",47.989643,0.199809,,,0,StopArea:MANPLA_MIROI,0
+StopPoint:MANFEY1,"Feydeau","",47.988323,0.201041,,,0,StopArea:MANPLA_FEYDE,0
+StopPoint:MANPRE1,"Préau","",47.98735,0.202836,,,0,StopArea:MANPLA_PREAU,0
+StopPoint:MANBAR1,"Bara","",47.985352,0.204659,,,0,StopArea:MANPLA_RBARA,0
+StopPoint:MANSTM3,"St-Martin","",47.98595,0.208575,,,0,StopArea:MANPLA_STMAR,1
+StopPoint:MANBAR2,"Bara","",47.985142,0.205083,,,0,StopArea:MANPLA_RBARA,1
+StopPoint:MANPRE2,"Préau","",47.987377,0.202916,,,0,StopArea:MANPLA_PREAU,0
+StopPoint:MANMIR1,"Miroir","",47.98975,0.198692,,,0,StopArea:MANPLA_MIROI,1
+StopPoint:MANCRE1,"Carel Mutualité","",47.9916,0.198081,,,0,StopArea:MANPLA_CAREL,1
+StopPoint:MANMED1,"Mediathèque","",48.002464,0.192451,,,0,StopArea:MANPLA_MEDIA,1
+StopPoint:MANHAL1,"Les Halles","",48.004608,0.193679,,,0,StopArea:MANPLA_LESHA,1
+StopPoint:MANSCH2,"Ledru-Rollin","",48.010216,0.194859,,,0,StopArea:MANPLA_LEDRU,0
+StopPoint:MANBPA2,"Bon Pasteur","",48.012455,0.197221,,,0,StopArea:MANPLA_BONPA,1
+StopPoint:MANBCI2,"Blanchisserie","",48.015488,0.196844,,,0,StopArea:MANPLA_BLANC,1
+StopPoint:MANCIO1,"Cimetière Ouest","",48.017666,0.192451,,,0,StopArea:MANPLA_CIMOU,1
+StopPoint:MANEDI2,"Thomas Edison","",48.025093,0.179583,,,0,StopArea:MANPLA_THOMA,1
+StopPoint:MANZIN2,"Zone Industrielle Nord","",48.024708,0.176783,,,0,StopArea:MANPLA_ZIN,1
+StopPoint:MANFOU2,"Foucault","",48.026535,0.1753,,,0,StopArea:MANPLA_FUCAU,0
+StopPoint:MANCTR2,"Citroën","",48.03017,0.171852,,,0,StopArea:MANPLA_CITRO,0
+StopPoint:MANPAN2,"Panhard","",48.03286,0.174357,,,0,StopArea:MANPLA_PANHA,1
+StopPoint:MANDEL2,"Louis Delage","",48.036476,0.173363,,,0,StopArea:MANPLA_LOUIS,1
+StopPoint:MANDLA3,"Émile Delahaye","",48.038525,0.172689,,,0,StopArea:MANPLA_EMDEL,1
+StopPoint:MANLVE2,"Les Verts","",48.038193,0.17678,,,0,StopArea:MANPLA_LESVE,0
+StopPoint:MANSAU2,"Charles Sauria","",48.034569,0.179692,,,0,StopArea:MANPLA_CHARL,1
+StopPoint:MANNO04,"Novaxud","",47.994339,0.185546,,,0,StopArea:MANPLA_NOVAX,1
+StopPoint:MANPE04,"Pêcheurs","",47.989922,0.182121,,,0,StopArea:MANPLA_PECHE,1
+StopPoint:MANMAN1,"Nelson Mandela","",47.986839,0.181255,,,0,StopArea:MANPLA_NELSO,1
+StopPoint:MANSPO1,"Spoutnik","",47.983471,0.183524,,,0,StopArea:MANPLA_SPOUT,0
+StopPoint:MANRPI1,"Renault","",47.980568,0.178926,,,0,StopArea:MANPLA_RENAU,0
+StopPoint:MANPIF1,"Pierre Piffault","",47.978783,0.177592,,,0,StopArea:MANPLA_PIERR,0
+StopPoint:MANSET1,"SETRAM","",47.976929,0.176207,,,0,StopArea:MANPLA_SETRA,0
+StopPoint:MANBES1,"Bessemer","",47.972527,0.176575,,,0,StopArea:MANPLA_BESSE,1
+StopPoint:MANFCD1,"Foucaudière","",47.969666,0.180309,,,0,StopArea:MANPLA_FOUCA,0
+StopPoint:MANEQU1,"Équipement","",47.967037,0.18331,,,0,StopArea:MANPLA_EQUIP,0
+StopPoint:MANCAB1,"Calberson","",47.965485,0.184834,,,0,StopArea:MANPLA_CALBE,0
+StopPoint:MANABA1,"Abattoirs","",47.961258,0.185019,,,0,StopArea:MANPLA_ABATT,0
+StopPoint:MANFAR1,"Faraday","",47.960381,0.178907,,,0,StopArea:MANPLA_FARAD,1
+StopPoint:MANBEC1,"Becquerel","",47.96328,0.177074,,,0,StopArea:MANPLA_BECQU,0
+StopPoint:MANZIS1,"Zone Industrielle Sud","",47.96418,0.179984,,,0,StopArea:MANPLA_ZIS,0
+StopPoint:MANJAQ1,"Jacquard","",47.965034,0.184477,,,0,StopArea:MANPLA_JCQUA,0
+StopPoint:MANSTJ1,"St-Julien","",47.961132,0.186377,,,0,StopArea:MANPLA_STJUL,0
+StopPoint:MANMNI1,"Monier","",47.953701,0.184551,,,0,StopArea:MANPLA_MONIE,0
+StopPoint:MANRNC1,"Renoncules","",47.95055,0.188228,,,0,StopArea:MANPLA_RENON,0
+StopPoint:MANETG1,"Étang","",47.946384,0.186335,,,0,StopArea:MANPLA_ETANG,0
+StopPoint:MANRNC2,"Renoncules","",47.95005,0.188436,,,0,StopArea:MANPLA_RENON,0
+StopPoint:MANMNI2,"Monier","",47.953747,0.184549,,,0,StopArea:MANPLA_MONIE,0
+StopPoint:MANSTJ2,"St-Julien","",47.961159,0.18647,,,0,StopArea:MANPLA_STJUL,0
+StopPoint:MANCAB2,"Calberson","",47.964794,0.185451,,,0,StopArea:MANPLA_CALBE,0
+StopPoint:MANEQU2,"Équipement","",47.967403,0.183054,,,0,StopArea:MANPLA_EQUIP,0
+StopPoint:MANFCD2,"Foucaudière","",47.969551,0.180582,,,0,StopArea:MANPLA_FOUCA,0
+StopPoint:MANBES2,"Bessemer","",47.973305,0.175726,,,0,StopArea:MANPLA_BESSE,0
+StopPoint:MANSET2,"SETRAM","",47.976376,0.175895,,,0,StopArea:MANPLA_SETRA,1
+StopPoint:MANPIF2,"Pierre Piffault","",47.97879,0.177658,,,0,StopArea:MANPLA_PIERR,0
+StopPoint:MANRPI2,"Renault","",47.981552,0.180118,,,0,StopArea:MANPLA_RENAU,0
+StopPoint:MANSPO2,"Spoutnik","",47.983166,0.183188,,,0,StopArea:MANPLA_SPOUT,1
+StopPoint:MANMAN2,"Nelson Mandela","",47.987099,0.18166,,,0,StopArea:MANPLA_NELSO,1
+StopPoint:MANPE03,"Pêcheurs","",47.990051,0.182277,,,0,StopArea:MANPLA_PECHE,1
+StopPoint:MANNO03,"Novaxud","",47.994469,0.185715,,,0,StopArea:MANPLA_NOVAX,1
+StopPoint:MANBRA1,"Domaine de Beauregard","",47.998138,0.171183,,,0,StopArea:MANPLA_DOMAI,1
+StopPoint:MANMRE2,"Moreau","",47.998661,0.169754,,,0,StopArea:MANPLA_MOREA,0
+StopPoint:MANRCI1,"Racine","",48.000019,0.170141,,,0,StopArea:MANPLA_RACIN,1
+StopPoint:MANCBR2,"Chateaubriand","",48.001492,0.171407,,,0,StopArea:MANPLA_CHATE,1
+StopPoint:MANBEM2,"Beaumarchais","",48.003834,0.171579,,,0,StopArea:MANPLA_BEAUM,0
+StopPoint:MANPIP2,"Pipèche","",48.003994,0.173919,,,0,StopArea:MANPLA_PIPEC,0
+StopPoint:MANBGE2,"Bourges","",48.004894,0.179485,,,0,StopArea:MANPLA_BOURG,0
+StopPoint:MANSAF2,"Saffray","",48.007088,0.180226,,,0,StopArea:MANPLA_SAFFR,0
+StopPoint:MANMUR1,"Mûriers","",48.011726,0.186405,,,0,StopArea:MANPLA_MURIE,1
+StopPoint:MANBTT1,"Bouttié","",48.011375,0.18894,,,0,StopArea:MANPLA_BOUTT,1
+StopPoint:MANETO1,"Étoile","",48.006031,0.20204,,,0,StopArea:MANPLA_ETOIL,0
+StopPoint:MANGLA2,"Gladiateurs","",48.007309,0.203584,,,0,StopArea:MANPLA_GLADI,0
+StopPoint:MANJAR2,"Jardin des Plantes","",48.008003,0.208154,,,0,StopArea:MANPLA_JPLAN,1
+StopPoint:MANBDT2,"Bardet","",48.008564,0.214324,,,0,StopArea:MANPLA_BARDE,1
+StopPoint:MANYZE2,"Yzeux","",48.005219,0.217784,,,0,StopArea:MANPLA_YZEUX,1
+StopPoint:MANSOL2,"Solitude","",48.003983,0.220541,,,0,StopArea:MANPLA_SOLIT,1
+StopPoint:MANLBE2,"Lambert","",48.005768,0.221247,,,0,StopArea:MANPLA_LAMBE,0
+StopPoint:MANCYG2,"Cygnes","",48.007313,0.224121,,,0,StopArea:MANPLA_CYGNE,0
+StopPoint:MANARD2,"Ardoise","",48.008781,0.22682,,,0,StopArea:MANPLA_ARDOI,1
+StopPoint:MANCLA2,"Clairefontaine","",48.01519,0.226017,,,0,StopArea:MANPLA_CLAIR,1
+StopPoint:MANVLE2,"Valence","",48.015396,0.228034,,,0,StopArea:MANPLA_VALEN,1
+StopPoint:MANVIL2,"Villaret","",48.015602,0.230345,,,0,StopArea:MANPLA_VILLA,0
+StopPoint:MANAGA1,"Agadir","",48.018707,0.230556,,,0,StopArea:MANPLA_AGADI,1
+StopPoint:MANBAE1,"Barcelone","",48.019382,0.227499,,,0,StopArea:MANPLA_BARCE,0
+StopPoint:MANZAM2,"Zamenhof","",48.017731,0.217763,,,0,StopArea:MANPLA_ZAMEN,1
+StopPoint:MANKAB3,"Kaboul","",48.019035,0.223772,,,0,StopArea:MANPLA_KABOU,1
+StopPoint:MANBAE2,"Barcelone","",48.01918,0.226327,,,0,StopArea:MANPLA_BARCE,0
+StopPoint:MANAGA2,"Agadir","",48.01815,0.230645,,,0,StopArea:MANPLA_AGADI,1
+StopPoint:MANVIL1,"Villaret","",48.015434,0.23007,,,0,StopArea:MANPLA_VILLA,1
+StopPoint:MANVLE1,"Valence","",48.015457,0.227843,,,0,StopArea:MANPLA_VALEN,1
+StopPoint:MANCLA1,"Clairefontaine","",48.01524,0.225814,,,0,StopArea:MANPLA_CLAIR,1
+StopPoint:MANCYG1,"Cygnes","",48.007446,0.224156,,,0,StopArea:MANPLA_CYGNE,0
+StopPoint:MANLBE1,"Lambert","",48.005714,0.220927,,,0,StopArea:MANPLA_LAMBE,0
+StopPoint:MANSOL1,"Solitude","",48.004524,0.219728,,,0,StopArea:MANPLA_SOLIT,1
+StopPoint:MANYZE1,"Yzeux","",48.005836,0.217719,,,0,StopArea:MANPLA_YZEUX,1
+StopPoint:MANBDT1,"Bardet","",48.008598,0.214296,,,0,StopArea:MANPLA_BARDE,1
+StopPoint:MANJAR1,"Jardin des Plantes","",48.008038,0.207174,,,0,StopArea:MANPLA_JPLAN,0
+StopPoint:MANGLA1,"Gladiateurs","",48.007416,0.202668,,,0,StopArea:MANPLA_GLADI,1
+StopPoint:MANBTT2,"Bouttié","",48.01157,0.188235,,,0,StopArea:MANPLA_BOUTT,1
+StopPoint:MANMUR2,"Mûriers","",48.011921,0.185271,,,0,StopArea:MANPLA_MURIE,1
+StopPoint:MANSAF1,"Saffray","",48.006733,0.180013,,,0,StopArea:MANPLA_SAFFR,0
+StopPoint:MANBGE1,"Bourges","",48.005066,0.179411,,,0,StopArea:MANPLA_BOURG,0
+StopPoint:MANPIP1,"Pipèche","",48.004009,0.173931,,,0,StopArea:MANPLA_PIPEC,0
+StopPoint:MANBEM1,"Beaumarchais","",48.003582,0.171268,,,0,StopArea:MANPLA_BEAUM,0
+StopPoint:MANCBR1,"Chateaubriand","",48.001648,0.171213,,,0,StopArea:MANPLA_CHATE,1
+StopPoint:MANADR1,"Ardriers","",48.001198,0.169677,,,0,StopArea:MANPLA_ARDRI,1
+StopPoint:MANMRE1,"Moreau","",47.998535,0.169773,,,0,StopArea:MANPLA_MOREA,0
+StopPoint:MANCAD1,"Le Cadran","",48.020645,0.172002,,,0,StopArea:MANPLA_LECAD,1
+StopPoint:MANCRT1,"Jacques Cartier","",48.022808,0.170196,,,0,StopArea:MANPLA_JCART,0
+StopPoint:MANSUR1,"Surcouf","",48.024544,0.170809,,,0,StopArea:MANPLA_SURCO,0
+StopPoint:MANSTV1,"St-Vincent","",48.011185,0.19911,,,0,StopArea:MANPLA_STVIN,0
+StopPoint:MANBAN1,"Banjan","",48.016243,0.20219,,,0,StopArea:MANPLA_BANJA,1
+StopPoint:MANPAL1,"Palmiers","",48.018875,0.20156,,,0,StopArea:MANPLA_PALMI,1
+StopPoint:MANSMI1,"St-Michel","",48.021431,0.201684,,,0,StopArea:MANPLA_STMIC,1
+StopPoint:MANCRN1,"Corneille","",48.019062,0.198442,,,0,StopArea:MANPLA_CORNE,1
+StopPoint:MANNIC2,"Nice","",48.022282,0.196447,,,0,StopArea:MANPLA_RNICE,0
+StopPoint:MANHEN2,"Hendaye","",48.024166,0.197095,,,0,StopArea:MANPLA_HENDA,0
+StopPoint:MANBAU1,"La Baule","",48.024158,0.201265,,,0,StopArea:MANPLA_LABAU,0
+StopPoint:MANCLO1,"Closerie","",48.031319,0.210082,,,0,StopArea:MANPLA_CLOSE,1
+StopPoint:MANBAU2,"La Baule","",48.02422,0.201035,,,0,StopArea:MANPLA_LABAU,0
+StopPoint:MANHEN1,"Hendaye","",48.024189,0.197375,,,0,StopArea:MANPLA_HENDA,0
+StopPoint:MANNIC1,"Nice","",48.022041,0.196631,,,0,StopArea:MANPLA_RNICE,0
+StopPoint:MANSMI2,"St-Michel","",48.021423,0.201618,,,0,StopArea:MANPLA_STMIC,1
+StopPoint:MANPAL2,"Palmiers","",48.018749,0.201498,,,0,StopArea:MANPLA_PALMI,1
+StopPoint:MANBAN2,"Banjan","",48.016151,0.202126,,,0,StopArea:MANPLA_BANJA,1
+StopPoint:MANSTV2,"St-Vincent","",48.010281,0.199401,,,0,StopArea:MANPLA_STVIN,1
+StopPoint:MANSUR2,"Surcouf","",48.024319,0.170818,,,0,StopArea:MANPLA_SURCO,0
+StopPoint:MANCRT2,"Jacques Cartier","",48.022438,0.170118,,,0,StopArea:MANPLA_JCART,0
+StopPoint:MANMAD2,"Madon","",47.961887,0.203625,,,0,StopArea:MANPLA_MADON,1
+StopPoint:MANMOR2,"Morane","",47.964275,0.205752,,,0,StopArea:MANPLA_MORAN,1
+StopPoint:MANRNE1,"Raineries","",47.9636,0.208338,,,0,StopArea:MANPLA_RAINE,1
+StopPoint:MANCSU2,"Cimetière Sud","",47.965023,0.209405,,,0,StopArea:MANPLA_CIMSU,1
+StopPoint:MANANG2,"David d'Angers","",47.966019,0.210062,,,0,StopArea:MANPLA_DAVID,1
+StopPoint:MANJSO2,"Jardin du Souvenir","",47.965603,0.212932,,,0,StopArea:MANPLA_JARDI,1
+StopPoint:MANVGA2,"Vert Galant","",47.96685,0.214743,,,0,StopArea:MANPLA_VERTG,0
+StopPoint:MANBLA2,"Bel Air","",47.969315,0.214216,,,0,StopArea:MANPLA_BELAI,1
+StopPoint:MANFRS2,"Fresnellerie","",47.969784,0.210419,,,0,StopArea:MANPLA_FRESN,1
+StopPoint:MANREM2,"Rembrandt","",47.971561,0.21162,,,0,StopArea:MANPLA_REMBR,0
+StopPoint:MANGOG2,"Van Gogh","",47.971336,0.213759,,,0,StopArea:MANPLA_VANGO,0
+StopPoint:MANGLO2,"Glonnières - Centre Sud","",47.972588,0.216643,,,0,StopArea:MANPLA_GLONN,1
+StopPoint:MANVGY2,"Vauguyon","",47.975574,0.220716,,,0,StopArea:MANPLA_VAUGU,1
+StopPoint:MANMON2,"Monet","",47.975243,0.224173,,,0,StopArea:MANPLA_MONET,1
+StopPoint:MANMIL2,"Millet","",47.973415,0.22308,,,0,StopArea:MANPLA_MILLE,0
+StopPoint:MANLSO1,"Les Sources","",47.972404,0.22158,,,0,StopArea:MANPLA_LESOU,1
+StopPoint:MANCRB1,"Courbet","",47.969517,0.223451,,,0,StopArea:MANPLA_COURB,1
+StopPoint:MANGRN2,"Grenoble","",47.976719,0.23376,,,0,StopArea:MANPLA_GRENO,1
+StopPoint:MANBRU2,"Bruyères","",47.977325,0.231525,,,0,StopArea:MANPLA_BRUYE,0
+StopPoint:MANMPL2,"Marcel Paul","",47.978138,0.228639,,,0,StopArea:MANPLA_MARPL,1
+StopPoint:MANDOM2,"Deux Ormeaux","",47.979225,0.224629,,,0,StopArea:MANPLA_DEUXO,1
+StopPoint:MANBIG2,"Bigarreaux","",47.980053,0.221689,,,0,StopArea:MANPLA_BIGAR,0
+StopPoint:MANARV2,"Archives Départementales","",47.981365,0.205195,,,0,StopArea:MANPLA_ARCHI,1
+StopPoint:MANCLV1,"Collectivité","",47.977997,0.2015,,,0,StopArea:MANPLA_COLVT,0
+StopPoint:MANRSS2,"Rousseau","",47.976555,0.202375,,,0,StopArea:MANPLA_ROUSS,1
+StopPoint:MANPAP2,"Papin","",47.973557,0.199161,,,0,StopArea:MANPLA_PAPIN,0
+StopPoint:MANBRY2,"Berry","",47.971077,0.198404,,,0,StopArea:MANPLA_BERRY,1
+StopPoint:MANHUC2,"Huchepie","",47.968098,0.197413,,,0,StopArea:MANPLA_HUCHE,1
+StopPoint:MANNOG2,"Noguès","",47.963009,0.196641,,,0,StopArea:MANPLA_NOGUE,1
+StopPoint:MANOAI5,"Oasis - Centre des Expositions","",47.960632,0.200434,,,0,StopArea:MANPLA_OASIS,1
+StopPoint:MANOAI1,"Oasis - Centre des Expositions","",47.960606,0.200395,,,0,StopArea:MANPLA_OASIS,1
+StopPoint:MANNOG1,"Noguès","",47.96413,0.19744,,,0,StopArea:MANPLA_NOGUE,0
+StopPoint:MANHUC1,"Huchepie","",47.967884,0.197395,,,0,StopArea:MANPLA_HUCHE,1
+StopPoint:MANBRY1,"Berry","",47.970425,0.198243,,,0,StopArea:MANPLA_BERRY,1
+StopPoint:MANPAP1,"Papin","",47.974239,0.199642,,,0,StopArea:MANPLA_PAPIN,0
+StopPoint:MANRSS1,"Rousseau","",47.976059,0.201846,,,0,StopArea:MANPLA_ROUSS,0
+StopPoint:MANCOU1,"Courard","",47.978012,0.203335,,,0,StopArea:MANPLA_COURA,0
+StopPoint:MANARV1,"Archives Départementales","",47.981243,0.205388,,,0,StopArea:MANPLA_ARCHI,1
+StopPoint:MANCUG1,"Cugnot","",47.981472,0.216487,,,0,StopArea:MANPLA_CUGNO,1
+StopPoint:MANBIG1,"Bigarreaux","",47.98,0.221691,,,0,StopArea:MANPLA_BIGAR,0
+StopPoint:MANDOM1,"Deux Ormeaux","",47.978893,0.225527,,,0,StopArea:MANPLA_DEUXO,1
+StopPoint:MANMPL1,"Marcel Paul","",47.978039,0.228656,,,0,StopArea:MANPLA_MARPL,1
+StopPoint:MANBRU1,"Bruyères","",47.976959,0.232518,,,0,StopArea:MANPLA_BRUYE,0
+StopPoint:MANCRB2,"Courbet","",47.969597,0.223528,,,0,StopArea:MANPLA_COURB,1
+StopPoint:MANLSO2,"Les Sources","",47.972267,0.221934,,,0,StopArea:MANPLA_LESOU,1
+StopPoint:MANMIL1,"Millet","",47.973816,0.223828,,,0,StopArea:MANPLA_MILLE,1
+StopPoint:MANMON1,"Monet","",47.975113,0.224486,,,0,StopArea:MANPLA_MONET,1
+StopPoint:MANVGY1,"Vauguyon","",47.975632,0.220754,,,0,StopArea:MANPLA_VAUGU,1
+StopPoint:MANGLO1,"Glonnières - Centre Sud","",47.972164,0.216673,,,0,StopArea:MANPLA_GLONN,1
+StopPoint:MANFAL1,"Falconet","",47.97131,0.215689,,,0,StopArea:MANPLA_FALCO,0
+StopPoint:MANGOG1,"Van Gogh","",47.971413,0.213837,,,0,StopArea:MANPLA_VANGO,0
+StopPoint:MANREM1,"Rembrandt","",47.971603,0.211498,,,0,StopArea:MANPLA_REMBR,1
+StopPoint:MANFRS1,"Fresnellerie","",47.96936,0.210932,,,0,StopArea:MANPLA_FRESN,1
+StopPoint:MANBLA1,"Bel Air","",47.968712,0.214789,,,0,StopArea:MANPLA_BELAI,1
+StopPoint:MANVGA1,"Vert Galant","",47.966576,0.214487,,,0,StopArea:MANPLA_VERTG,0
+StopPoint:MANJSO1,"Jardin du Souvenir","",47.965626,0.213239,,,0,StopArea:MANPLA_JARDI,1
+StopPoint:MANANG1,"David d'Angers","",47.966045,0.210154,,,0,StopArea:MANPLA_DAVID,1
+StopPoint:MANCSU1,"Cimetière Sud","",47.964481,0.20924,,,0,StopArea:MANPLA_CIMSU,1
+StopPoint:MANMOR1,"Morane","",47.964211,0.205661,,,0,StopArea:MANPLA_MORAN,1
+StopPoint:MANMAD1,"Madon","",47.961933,0.203744,,,0,StopArea:MANPLA_MADON,1
+StopPoint:MANOAI4,"Oasis - Centre des Expositions","",47.960613,0.200408,,,0,StopArea:MANPLA_OASIS,1
+StopPoint:MANACA2,"Auchan","",48.042439,0.175407,,,0,StopArea:MANPLA_AUCHA,1
+StopPoint:MANFRE1,"Frères Renault","",48.041931,0.17157,,,0,StopArea:MANPLA_FRERE,1
+StopPoint:MANDEL3,"Louis Delage","",48.036465,0.17329,,,0,StopArea:MANPLA_LOUIS,1
+StopPoint:MANEPE4,"Éperon","",48.005352,0.19491,,,0,StopArea:MANPLA_EPERO,1
+StopPoint:MANABR1,"Aubrac","",47.993336,0.22385,,,0,StopArea:MANPLA_AUBRA,1
+StopPoint:MANBLU1,"Léon Blum","",47.995476,0.227771,,,0,StopArea:MANPLA_LEONB,1
+StopPoint:MANESP1,"Espal","",47.994629,0.234171,,,0,StopArea:MANPLA_ESPAL,1
+StopPoint:MANGUE1,"Gué Bernisson","",47.992043,0.237531,,,0,StopArea:MANPLA_GUEBE,1
+StopPoint:MANARC1,"Arche de la Nature","",47.987427,0.243343,,,0,StopArea:MANPLA_ARCHE,1
+StopPoint:MANCLI1,"Californie","",47.984718,0.240315,,,0,StopArea:MANPLA_CALIF,1
+StopPoint:MANCFA2,"CFA","",47.983063,0.233413,,,0,StopArea:MANPLA_CECFA,0
+StopPoint:MANCFA1,"CFA","",47.983246,0.233942,,,0,StopArea:MANPLA_CECFA,0
+StopPoint:MANCLI2,"Californie","",47.984642,0.240144,,,0,StopArea:MANPLA_CALIF,1
+StopPoint:MANARC2,"Arche de la Nature","",47.988213,0.243566,,,0,StopArea:MANPLA_ARCHE,1
+StopPoint:MANGUE2,"Gué Bernisson","",47.992352,0.23713,,,0,StopArea:MANPLA_GUEBE,1
+StopPoint:MANESP2,"Espal","",47.994701,0.234155,,,0,StopArea:MANPLA_ESPAL,1
+StopPoint:MANBLU2,"Léon Blum","",47.995502,0.22773,,,0,StopArea:MANPLA_LEONB,1
+StopPoint:MANSUI1,"Suisse","",47.994286,0.226197,,,0,StopArea:MANPLA_SUISS,1
+StopPoint:MANGAZ1,"Gazonfier","",48.005421,0.227038,,,0,StopArea:MANPLA_GAZON,1
+StopPoint:MANPRF2,"Préfecture","",48.00103,0.197739,,,0,StopArea:MANPLA_PREFE,1
+StopPoint:MANHUG1,"Victor Hugo","",47.999199,0.199944,,,0,StopArea:MANPLA_VICTO,0
+StopPoint:MANFUI1,"La Fuie","",47.997952,0.200625,,,0,StopArea:MANPLA_LAFUI,1
+StopPoint:MANVIA1,"Viaducs","",47.992981,0.204297,,,0,StopArea:MANPLA_VIADU,1
+StopPoint:MANWAS2,"Washington","",47.996056,0.203114,,,0,StopArea:MANPLA_WASHI,1
+StopPoint:MANCHZ1,"Chanzy","",47.998455,0.203003,,,0,StopArea:MANPLA_CHANZ,0
+StopPoint:MANIFS1,"Ifs","",48.00119,0.202678,,,0,StopArea:MANPLA_RUIFS,0
+StopPoint:MANSTG1,"St-Georges","",47.983685,0.151395,,,0,StopArea:MANPLA_STGEO,1
+StopPoint:MANMGU1,"Montaigu","",47.984058,0.156485,,,0,StopArea:MANPLA_MONTA,1
+StopPoint:MANLCL1,"Le Clos","",47.98526,0.162091,,,0,StopArea:MANPLA_LECLO,0
+StopPoint:MANLOI1,"Rue du Loir","",47.988152,0.166622,,,0,StopArea:MANPLA_RUDLO,1
+StopPoint:MANTAV1,"Fernand Tavano","",47.991791,0.172302,,,0,StopArea:MANPLA_FERNA,1
+StopPoint:MANPAG1,"Pagès","",47.994156,0.176118,,,0,StopArea:MANPLA_PAGES,1
+StopPoint:MANCSG1,"Cimetière St-Georges","",47.995483,0.177846,,,0,StopArea:MANPLA_CIMSG,0
+StopPoint:MANCHM1,"Chaumard","",47.996895,0.179745,,,0,StopArea:MANPLA_CHAUM,1
+StopPoint:MANHAL2,"Les Halles","",48.004013,0.193583,,,0,StopArea:MANPLA_LESHA,1
+StopPoint:MANMED2,"Mediathèque","",48.002331,0.192726,,,0,StopArea:MANPLA_MEDIA,1
+StopPoint:MANACI1,"Acacias","",47.998295,0.181042,,,0,StopArea:MANPLA_ACACI,1
+StopPoint:MANCHM2,"Chaumard","",47.996643,0.17934,,,0,StopArea:MANPLA_CHAUM,1
+StopPoint:MANCSG2,"Cimetière St-Georges","",47.995251,0.177521,,,0,StopArea:MANPLA_CIMSG,1
+StopPoint:MANPAG2,"Pagès","",47.994267,0.176261,,,0,StopArea:MANPLA_PAGES,1
+StopPoint:MANTAV2,"Fernand Tavano","",47.992069,0.172652,,,0,StopArea:MANPLA_FERNA,1
+StopPoint:MANLOI2,"Rue du Loir","",47.987785,0.166328,,,0,StopArea:MANPLA_RUDLO,1
+StopPoint:MANLCL2,"Le Clos","",47.984894,0.161195,,,0,StopArea:MANPLA_LECLO,1
+StopPoint:MANMGU2,"Montaigu","",47.984154,0.156816,,,0,StopArea:MANPLA_MONTA,1
+StopPoint:MANAL03,"Allonnes - Bois Joli","",47.950447,0.16323,,,0,StopArea:MANPLA_ALLBJ,1
+StopPoint:MANCK03,"Collège Kennedy","",47.965443,0.161782,,,0,StopArea:MANPLA_COLKE,1
+StopPoint:MANMA03,"Mairie Allonnes","",47.970272,0.159614,,,0,StopArea:MANPLA_MAIAL,1
+StopPoint:MANMB03,"Martin - Bréguet","",47.976395,0.168097,,,0,StopArea:MANPLA_MARTI,1
+StopPoint:MANPOI3,"Patte d'Oie","",47.978558,0.173247,,,0,StopArea:MANPLA_PATTE,1
+StopPoint:MANAG03,"Angevinière","",47.985184,0.178482,,,0,StopArea:MANPLA_ANGEV,1
+StopPoint:MANGR04,"Gares","",47.995789,0.193448,,,0,StopArea:MANPLA_GAREN,1
+StopPoint:MANAG04,"Angevinière","",47.985058,0.178327,,,0,StopArea:MANPLA_ANGEV,1
+StopPoint:MANPOI4,"Patte d'Oie","",47.978428,0.173091,,,0,StopArea:MANPLA_PATTE,1
+StopPoint:MANMB04,"Martin - Bréguet","",47.976345,0.167871,,,0,StopArea:MANPLA_MARTI,1
+StopPoint:MANMA04,"Mairie Allonnes","",47.970074,0.159582,,,0,StopArea:MANPLA_MAIAL,1
+StopPoint:MANCK04,"Collège Kennedy","",47.965282,0.161829,,,0,StopArea:MANPLA_COLKE,1
+StopPoint:MANAL04,"Allonnes - Bois Joli","",47.950153,0.162854,,,0,StopArea:MANPLA_ALLBJ,1
+StopPoint:MANESX1,"Espal-Arche Na.","",47.994671,0.234143,,,0,StopArea:MANPLA_ESPAL,1
+StopPoint:MANEGX1,"Épau-Bernisson","",47.992096,0.234527,,,0,StopArea:MANPLA_EPAUG,1
+StopPoint:MANILX1,"Île aux Sports","",47.991207,0.229054,,,0,StopArea:MANPLA_ILEAU,1
+StopPoint:MANATX1,"Atlant.-Sablons","",47.990604,0.222539,,,0,StopArea:MANPLA_ATLAN,1
+StopPoint:MANCHX1,"Churchill","",47.989487,0.21591,,,0,StopArea:MANPLA_CHURC,1
+StopPoint:MANSTX1,"St-Martin","",47.986935,0.208723,,,0,StopArea:MANPLA_STMAR,1
+StopPoint:MANJPX1,"Jaurès-Pavillon","",47.989967,0.206845,,,0,StopArea:MANPLA_JAURE,1
+StopPoint:MANVIX1,"Viaducs","",47.992985,0.204511,,,0,StopArea:MANPLA_VIADU,1
+StopPoint:MANGAX2,"Gares","",47.995728,0.193678,,,0,StopArea:MANPLA_GAREN,1
+StopPoint:MANHAX1,"Les Halles","",48.004482,0.193765,,,0,StopArea:MANPLA_LESHA,1
+StopPoint:MANJAX1,"Jacobins-Quinc.","",48.008823,0.200412,,,0,StopArea:MANPLA_JACOB,1
+StopPoint:MANCXX1,"Croix de Pierre","",48.012085,0.205576,,,0,StopArea:MANPLA_CROIX,1
+StopPoint:MANBAX1,"Banjan","",48.015263,0.212714,,,0,StopArea:MANPLA_MAILL,1
+StopPoint:MANZAX1,"Zamenhof","",48.016865,0.217047,,,0,StopArea:MANPLA_ZAMEN,1
+StopPoint:MANBEX1,"Bellevue","",48.020294,0.210902,,,0,StopArea:MANPLA_BELLE,1
+StopPoint:MANBEX2,"Bellevue","",48.020309,0.21113,,,0,StopArea:MANPLA_BELLE,1
+StopPoint:MANZAX2,"Zamenhof","",48.01709,0.217105,,,0,StopArea:MANPLA_ZAMEN,1
+StopPoint:MANBAX2,"Banjan","",48.015003,0.211317,,,0,StopArea:MANPLA_MAILL,1
+StopPoint:MANCXX2,"Croix de Pierre","",48.012177,0.205116,,,0,StopArea:MANPLA_CROIX,1
+StopPoint:MANJAX2,"Jacobins-Quinc.","",48.008888,0.200074,,,0,StopArea:MANPLA_JACOB,1
+StopPoint:MANHAX2,"Les Halles","",48.003986,0.193557,,,0,StopArea:MANPLA_LESHA,1
+StopPoint:MANGAX1,"Gares","",47.996101,0.192403,,,0,StopArea:MANPLA_GAREN,1
+StopPoint:MANVIX2,"Viaducs","",47.992287,0.2047,,,0,StopArea:MANPLA_VIADU,1
+StopPoint:MANJPX2,"Jaurès-Pavillon","",47.989922,0.206605,,,0,StopArea:MANPLA_JAURE,1
+StopPoint:MANSTX2,"St-Martin","",47.987022,0.208478,,,0,StopArea:MANPLA_STMAR,1
+StopPoint:MANCHX2,"Churchill","",47.989502,0.216284,,,0,StopArea:MANPLA_CHURC,1
+StopPoint:MANATX2,"Atlant.-Sablons","",47.990475,0.222772,,,0,StopArea:MANPLA_ATLAN,1
+StopPoint:MANILX2,"Île aux Sports","",47.99086,0.230623,,,0,StopArea:MANPLA_ILEAU,1
+StopPoint:MANEGX2,"Épau-Bernisson","",47.992233,0.235098,,,0,StopArea:MANPLA_EPAUG,1
+StopPoint:MANESX2,"Espal-Arche Na.","",47.994709,0.234168,,,0,StopArea:MANPLA_ESPAL,1
+StopPoint:MANANX1,"Antarès-MMArena","",47.955898,0.222041,,,0,StopArea:MANPLA_ANTAR,1
+StopPoint:MANGUX1,"Guetteloup","",47.964909,0.220943,,,0,StopArea:MANPLA_GUETT,1
+StopPoint:MANRAX1,"Jules Raimu","",47.96859,0.218907,,,0,StopArea:MANPLA_JULES,1
+StopPoint:MANGLX1,"Glonnières","",47.972588,0.216696,,,0,StopArea:MANPLA_GLONN,1
+StopPoint:MANGYX1,"Goya","",47.975883,0.214836,,,0,StopArea:MANPLA_RGOYA,1
+StopPoint:MANDUX1,"Durand-Vaillant","",47.979481,0.212828,,,0,StopArea:MANPLA_DURAN,1
+StopPoint:MANPOX1,"Ponlieue","",47.982658,0.211012,,,0,StopArea:MANPLA_PONTL,1
+StopPoint:MANLAX1,"Lafayette","",48.007114,0.191017,,,0,StopArea:MANPLA_LAFAY,1
+StopPoint:MANMUX1,"Mûriers","",48.011841,0.185328,,,0,StopArea:MANPLA_THEOD,1
+StopPoint:MANHOX1,"Hôpital","",48.015285,0.181339,,,0,StopArea:MANPLA_HOPIT,1
+StopPoint:MANCAX1,"Cadran-Epine","",48.018658,0.173545,,,0,StopArea:MANPLA_CADRA,1
+StopPoint:MANHVX1,"Haute Venelle","",48.019978,0.163233,,,0,StopArea:MANPLA_HAUTE,1
+StopPoint:MANCPX1,"Campus-Ribay","",48.01709,0.161314,,,0,StopArea:MANPLA_CAMPU,1
+StopPoint:MANUNX1,"Université","",48.016903,0.151748,,,0,StopArea:MANPLA_UNIVE,1
+StopPoint:MANCPX2,"Campus-Ribay","",48.017033,0.161584,,,0,StopArea:MANPLA_CAMPU,1
+StopPoint:MANHVX2,"Haute Venelle","",48.019917,0.163195,,,0,StopArea:MANPLA_HAUTE,1
+StopPoint:MANCAX2,"Cadran-Epine","",48.018486,0.173967,,,0,StopArea:MANPLA_CADRA,1
+StopPoint:MANHOX2,"Hôpital","",48.015335,0.181109,,,0,StopArea:MANPLA_HOPIT,1
+StopPoint:MANMUX2,"Mûriers","",48.011681,0.186407,,,0,StopArea:MANPLA_THEOD,1
+StopPoint:MANLAX2,"Lafayette","",48.007069,0.191072,,,0,StopArea:MANPLA_LAFAY,1
+StopPoint:MANPOX2,"Ponlieue","",47.981915,0.21123,,,0,StopArea:MANPLA_PONTL,1
+StopPoint:MANDUX2,"Durand-Vaillant","",47.979191,0.212786,,,0,StopArea:MANPLA_DURAN,1
+StopPoint:MANGYX2,"Goya","",47.975052,0.21507,,,0,StopArea:MANPLA_RGOYA,1
+StopPoint:MANGLX2,"Glonnières","",47.972118,0.216662,,,0,StopArea:MANPLA_GLONN,1
+StopPoint:MANRAX2,"Jules Raimu","",47.968262,0.218839,,,0,StopArea:MANPLA_JULES,1
+StopPoint:MANGUX2,"Guetteloup","",47.96471,0.22079,,,0,StopArea:MANPLA_GUETT,1
+StopPoint:MANES01,"Espal - Arche de la Nature","",47.994785,0.233803,,,0,StopArea:MANPLA_ESPAL,1
+StopPoint:MANEG01,"Épau - Gué Bernisson","",47.991982,0.234572,,,0,StopArea:MANPLA_EPAUG,1
+StopPoint:MANIS01,"Île aux Sports","",47.991124,0.229523,,,0,StopArea:MANPLA_ILEAU,1
+StopPoint:MANAS01,"Atlantides - Sablons","",47.990586,0.22216,,,0,StopArea:MANPLA_ATLAN,1
+StopPoint:MANCH01,"Churchill","",47.989361,0.215901,,,0,StopArea:MANPLA_CHURC,1
+StopPoint:MANSM01,"St-Martin","",47.985809,0.209612,,,0,StopArea:MANPLA_STMAR,1
+StopPoint:MANJP01,"Jaurès - Pavillon","",47.989521,0.207023,,,0,StopArea:MANPLA_JAURE,1
+StopPoint:MANVI01,"Viaducs","",47.992695,0.203933,,,0,StopArea:MANPLA_VIADU,1
+StopPoint:MANZO01,"Zola","",47.993889,0.198417,,,0,StopArea:MANPLA_RZOLA,1
+StopPoint:MANGA01,"Gares","",47.995517,0.193495,,,0,StopArea:MANPLA_GAREN,1
+StopPoint:MANLF01,"Leclerc - Fleurus","",47.998192,0.195012,,,0,StopArea:MANPLA_LECLE,1
+StopPoint:MANPR01,"Préfecture","",48.000816,0.197278,,,0,StopArea:MANPLA_PREFE,1
+StopPoint:MANCM01,"Comtes du Maine - Office du Tourisme","",48.004696,0.199936,,,0,StopArea:MANPLA_COMTE,1
+StopPoint:MANJA01,"Jacobins - Quinconces","",48.008877,0.200303,,,0,StopArea:MANPLA_JACOB,1
+StopPoint:MANCP01,"Croix de Pierre","",48.012211,0.20553,,,0,StopArea:MANPLA_CROIX,1
+StopPoint:MANBA01,"Maillets - Banjan","",48.015335,0.212577,,,0,StopArea:MANPLA_MAILL,1
+StopPoint:MANZA01,"Maillets - Zamenhof","",48.017189,0.217718,,,0,StopArea:MANPLA_ZAMEN,1
+StopPoint:MANBE01,"Bellevue - Hauts de Coulaines","",48.020317,0.211505,,,0,StopArea:MANPLA_BELLE,1
+StopPoint:MANBE02,"Bellevue - Hauts de Coulaines","",48.020199,0.211563,,,0,StopArea:MANPLA_BELLE,1
+StopPoint:MANZA02,"Maillets - Zamenhof","",48.017178,0.217571,,,0,StopArea:MANPLA_ZAMEN,1
+StopPoint:MANBA02,"Maillets - Banjan","",48.015285,0.212391,,,0,StopArea:MANPLA_MAILL,1
+StopPoint:MANCP02,"Croix de Pierre","",48.012161,0.205385,,,0,StopArea:MANPLA_CROIX,1
+StopPoint:MANJA02,"Jacobins - Quinconces","",48.008839,0.200157,,,0,StopArea:MANPLA_JACOB,1
+StopPoint:MANCM02,"Comtes du Maine - Office du Tourisme","",48.00457,0.199941,,,0,StopArea:MANPLA_COMTE,1
+StopPoint:MANPR02,"Préfecture","",48.000786,0.197186,,,0,StopArea:MANPLA_PREFE,1
+StopPoint:MANLF02,"Leclerc - Fleurus","",47.99818,0.194906,,,0,StopArea:MANPLA_LECLE,1
+StopPoint:MANGA02,"Gares","",47.995344,0.193904,,,0,StopArea:MANPLA_GAREN,1
+StopPoint:MANZO02,"Zola","",47.993839,0.198526,,,0,StopArea:MANPLA_RZOLA,1
+StopPoint:MANVI02,"Viaducs","",47.992653,0.204029,,,0,StopArea:MANPLA_VIADU,1
+StopPoint:MANJP02,"Jaurès - Pavillon","",47.989532,0.206983,,,0,StopArea:MANPLA_JAURE,1
+StopPoint:MANSM02,"St-Martin","",47.985699,0.209416,,,0,StopArea:MANPLA_STMAR,1
+StopPoint:MANCH02,"Churchill","",47.989353,0.21562,,,0,StopArea:MANPLA_CHURC,1
+StopPoint:MANAS02,"Atlantides - Sablons","",47.990461,0.222661,,,0,StopArea:MANPLA_ATLAN,1
+StopPoint:MANIS02,"Île aux Sports","",47.990924,0.229893,,,0,StopArea:MANPLA_ILEAU,1
+StopPoint:MANEG02,"Épau - Gué Bernisson","",47.992012,0.234691,,,0,StopArea:MANPLA_EPAUG,1
+StopPoint:MANES02,"Espal - Arche de la Nature","",47.994766,0.233925,,,0,StopArea:MANPLA_ESPAL,1
+StopPoint:MANAN01,"Antarès - MMArena","",47.95591,0.222804,,,0,StopArea:MANPLA_ANTAR,1
+StopPoint:MANGU01,"Guetteloup - Pôle Santé Sud","",47.964294,0.221155,,,0,StopArea:MANPLA_GUETT,1
+StopPoint:MANJR01,"Jules Raimu","",47.968613,0.218839,,,0,StopArea:MANPLA_JULES,1
+StopPoint:MANGL01,"Glonnières - Centre Sud","",47.972061,0.216918,,,0,StopArea:MANPLA_GLONN,1
+StopPoint:MANGO01,"Goya","",47.975159,0.2152,,,0,StopArea:MANPLA_RGOYA,1
+StopPoint:MANDV01,"Durand - Vaillant","",47.979336,0.212861,,,0,StopArea:MANPLA_DURAN,1
+StopPoint:MANPO01,"Pontlieue","",47.982445,0.211141,,,0,StopArea:MANPLA_PONTL,1
+StopPoint:MANRE01,"République","",48.004005,0.196546,,,0,StopArea:MANPLA_REPUB,1
+StopPoint:MANEP01,"Éperon - Cité Plantagenêt","",48.00523,0.193734,,,0,StopArea:MANPLA_EPERO,1
+StopPoint:MANLA01,"Lafayette","",48.006916,0.190046,,,0,StopArea:MANPLA_LAFAY,1
+StopPoint:MANGM01,"Gambetta - Mûriers","",48.00948,0.184512,,,0,StopArea:MANPLA_GAMBE,1
+StopPoint:MANTM01,"Théodore Monod","",48.011539,0.181707,,,0,StopArea:MANPLA_THEOD,1
+StopPoint:MANHO01,"Hôpital","",48.01355,0.175511,,,0,StopArea:MANPLA_HOPIT,1
+StopPoint:MANCE01,"Cadran - Épine","",48.018929,0.172488,,,0,StopArea:MANPLA_CADRA,1
+StopPoint:MANHV01,"Haute Venelle - Clinique du Pré","",48.019848,0.162983,,,0,StopArea:MANPLA_HAUTE,1
+StopPoint:MANRC01,"Campus - Ribay","",48.015923,0.161389,,,0,StopArea:MANPLA_CAMPU,1
+StopPoint:MANUN01,"Université","",48.016994,0.152173,,,0,StopArea:MANPLA_UNIVE,1
+StopPoint:MANUN02,"Université","",48.01696,0.151866,,,0,StopArea:MANPLA_UNIVE,1
+StopPoint:MANRC02,"Campus - Ribay","",48.016014,0.161439,,,0,StopArea:MANPLA_CAMPU,1
+StopPoint:MANHV02,"Haute Venelle - Clinique du Pré","",48.019814,0.163119,,,0,StopArea:MANPLA_HAUTE,1
+StopPoint:MANCE02,"Cadran - Épine","",48.018841,0.172639,,,0,StopArea:MANPLA_CADRA,1
+StopPoint:MANHO02,"Hôpital","",48.013416,0.175597,,,0,StopArea:MANPLA_HOPIT,1
+StopPoint:MANTM02,"Théodore Monod","",48.011539,0.181653,,,0,StopArea:MANPLA_THEOD,1
+StopPoint:MANGM02,"Gambetta - Mûriers","",48.008999,0.185457,,,0,StopArea:MANPLA_GAMBE,1
+StopPoint:MANLA02,"Lafayette","",48.006794,0.190226,,,0,StopArea:MANPLA_LAFAY,1
+StopPoint:MANEP02,"Éperon - Cité Plantagenêt","",48.005142,0.193778,,,0,StopArea:MANPLA_EPERO,1
+StopPoint:MANRE02,"République","",48.003925,0.196629,,,0,StopArea:MANPLA_REPUB,1
+StopPoint:MANPO02,"Pontlieue","",47.982365,0.211064,,,0,StopArea:MANPLA_PONTL,1
+StopPoint:MANDV02,"Durand - Vaillant","",47.979229,0.212798,,,0,StopArea:MANPLA_DURAN,1
+StopPoint:MANGO02,"Goya","",47.975079,0.215136,,,0,StopArea:MANPLA_RGOYA,1
+StopPoint:MANGL02,"Glonnières - Centre Sud","",47.971989,0.216895,,,0,StopArea:MANPLA_GLONN,1
+StopPoint:MANJR02,"Jules Raimu","",47.968487,0.218817,,,0,StopArea:MANPLA_JULES,1
+StopPoint:MANGU02,"Guetteloup - Pôle Santé Sud","",47.964222,0.221185,,,0,StopArea:MANPLA_GUETT,1
+StopPoint:MANAN02,"Antarès - MMArena","",47.955963,0.222641,,,0,StopArea:MANPLA_ANTAR,1
